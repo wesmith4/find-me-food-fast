@@ -1,22 +1,19 @@
-<header>
-  <h1>Find Me Food Fast!</h1>
-</header>
 
 <section id="start">
   <h2>How do you want to search?</h2>
-  <form method="GET" action="/">
+  <form id="getParameters" method="GET" action="/">
 
     <label for="neighborhood">Neighborhood</label>
-    <input id="neighborhood" type="checkbox"> <br> <br>
+    <input name="filters[neighborhood]" id="neighborhood" type="checkbox"> <br> <br>
 
     <label for="cuisine">Cuisine</label>
-    <input id="cuisine" type="checkbox"> <br> <br>
+    <input name="filters[cuisine]" id="cuisine" type="checkbox"> <br><br>
 
     <label for="price">Price</label>
-    <input id="price" type="checkbox"> <br> <br>
+    <input name="filters[price]" id="price" type="checkbox"> <br><br>
 
-    <label for="available on ritual">Available On Ritual</label>
-    <input id="available on ritual" type="checkbox"> <br> <br>
+    <label for="ritual">Available On Ritual</label>
+    <input name="filters[ritual]" id="ritual" type="checkbox"> <br> <br>
 
     <input type="submit" value="Submit">
   </form>

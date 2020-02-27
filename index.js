@@ -1,5 +1,6 @@
 // Load express module
 const express = require('express');
+const fs = require('fs');
 
 // Create express server
 const app = express();
@@ -46,10 +47,33 @@ let fakeYelpAPI = () => {
   ]
 };
 
+
 app.get('/', (req, res) => {
   // Serves the body of the page to the container
-  res.render('main', {layout: 'index', yelp: fakeYelpAPI(), listExists: true});
+  // filters.push(req.query);
+  let filters = req.query.filters;
+  let selectedFilters = [];
+
+  if (typeof filters === 'object') {
+    selectedFilters = Object.keys(filters).filter(key => filters[key] === 'on');
+  }
+
+  console.log(selectedFilters);
+
+  let format = {
+    layout: 'index',
+    selectedFilters: selectedFilters,
+  };
+
+  for (let filter of selectedFilters) {
+    format[filter] = true;
+  }
+  console.log(format);
+
+  res.render('main', format);
 });
+
+
 
 
 // Make the app listen to port 3000

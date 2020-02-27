@@ -11,4 +11,12 @@
 {{/if}}
  --}}
 
- {{> startPage}}
+<header>
+  <h1>Find Me Food Fast!</h1>
+</header>
+
+{{#if selectedFilters}}
+  {{> filterPage}}
+{{else}}
+  {{> startPage}}
+{{/if}}
