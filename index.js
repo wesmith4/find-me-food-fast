@@ -51,5 +51,6 @@ app.get('/', (req, res) => {
   res.render('main', {layout: 'index', yelp: fakeYelpAPI(), listExists: true});
 });
 
+
 // Make the app listen to port 3000
 app.listen(port, () => console.log(`App listening to port ${port}`));
