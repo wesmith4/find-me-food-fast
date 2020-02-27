@@ -1,0 +1,11 @@
+{{> fancyRestaurants}}
+{{> casualRestaurants}}
+
+<h2>Yelp recommendation:</h2>
+{{#if listExists}}
+  <ul>
+    {{#each yelp}}
+      <li>{{this.restaurant}} - {{this.city}}</li>
+    {{/each}}
+  </ul>
+{{/if}}
