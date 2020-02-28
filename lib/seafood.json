@@ -1,0 +1,916 @@
+{
+    "businesses": [
+        {
+        "id": "f-m7-hyFzkf0HSEeQ2s-9A",
+        "alias": "fog-harbor-fish-house-san-francisco-2",
+        "name": "Fog Harbor Fish House",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Lv7tIRX3Bim9bKqtWifmNg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/fog-harbor-fish-house-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 6023,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.809041,
+            "longitude": -122.410233
+        },
+        "transactions": [
+            "restaurant_reservation"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "Pier 39",
+            "address2": "Ste A-202",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94133",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "Pier 39",
+                "Ste A-202",
+                "San Francisco, CA 94133"
+            ]
+        },
+        "phone": "+14154212442",
+        "display_phone": "(415) 421-2442",
+        "distance": 5827.740044156521
+    },
+    {
+        "id": "ZDvIMjJ-7I0561ckM4pAeA",
+        "alias": "anchor-oyster-bar-san-francisco",
+        "name": "Anchor Oyster Bar",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yFJ1n9SJtF1rLA5GQVliqg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/anchor-oyster-bar-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 1511,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.759689,
+            "longitude": -122.434609
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "579 Castro St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94114",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "579 Castro St",
+                "San Francisco, CA 94114"
+            ]
+        },
+        "phone": "+14154313990",
+        "display_phone": "(415) 431-3990",
+        "distance": 210.29727091545175
+    },
+    {
+        "id": "Xg-FyjVKAN70LO4u4Z1ozg",
+        "alias": "hog-island-oyster-co-san-francisco",
+        "name": "Hog Island Oyster Co",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TW9FgV_Ufqd15t_ARQuz1A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/hog-island-oyster-co-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 5969,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "seafoodmarkets",
+                "title": "Seafood Markets"
+            },
+            {
+                "alias": "raw_food",
+                "title": "Live/Raw Food"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.795831,
+            "longitude": -122.393303
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "1 Ferry Bldg",
+            "address2": "",
+            "address3": "Shop 11",
+            "city": "San Francisco",
+            "zip_code": "94111",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1 Ferry Bldg",
+                "Shop 11",
+                "San Francisco, CA 94111"
+            ]
+        },
+        "phone": "+14153917117",
+        "display_phone": "(415) 391-7117",
+        "distance": 5428.15670676801
+    },
+    {
+        "id": "8dUaybEPHsZMgr1iKgqgMQ",
+        "alias": "sotto-mare-oysteria-and-seafood-san-francisco",
+        "name": "Sotto Mare Oysteria & Seafood",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Efr_0zx4ID9jla5kxuIMNQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/sotto-mare-oysteria-and-seafood-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 3731,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "italian",
+                "title": "Italian"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.79979,
+            "longitude": -122.40834
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "552 Green St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94133",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "552 Green St",
+                "San Francisco, CA 94133"
+            ]
+        },
+        "phone": "+14153983181",
+        "display_phone": "(415) 398-3181",
+        "distance": 4980.8804673363975
+    },
+    {
+        "id": "OH3GLEJvGhbER4d3xMuPIA",
+        "alias": "betty-lous-seafood-and-grill-san-francisco",
+        "name": "Betty Lou's Seafood & Grill",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HokxeoQQh2wxZgjVT5CViQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/betty-lous-seafood-and-grill-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 739,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "steak",
+                "title": "Steakhouses"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.798272477416,
+            "longitude": -122.407057508826
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "318 Columbus Ave",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94133",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "318 Columbus Ave",
+                "San Francisco, CA 94133"
+            ]
+        },
+        "phone": "+14157570569",
+        "display_phone": "(415) 757-0569",
+        "distance": 4892.980744272389
+    },
+    {
+        "id": "jqEpBbf_qNfWuz_GBkwCjw",
+        "alias": "scomas-restaurant-san-francisco-3",
+        "name": "Scoma's Restaurant",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5ZqAdIz1IhUDlmK6qP3WvA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/scomas-restaurant-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 3755,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.808952,
+            "longitude": -122.418487
+        },
+        "transactions": [
+            "restaurant_reservation",
+            "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "1965 Al Scoma Way",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94133",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1965 Al Scoma Way",
+                "San Francisco, CA 94133"
+            ]
+        },
+        "phone": "+14157714383",
+        "display_phone": "(415) 771-4383",
+        "distance": 5570.65144598489
+    },
+    {
+        "id": "EF8WoEUdt-qTZ2P-DLYYNQ",
+        "alias": "new-england-lobster-market-and-eatery-burlingame",
+        "name": "New England Lobster Market & Eatery",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eIEvQKEdybaW7Xx3ZYRsyw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/new-england-lobster-market-and-eatery-burlingame?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 3568,
+        "categories": [
+            {
+                "alias": "seafoodmarkets",
+                "title": "Seafood Markets"
+            },
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "tapasmallplates",
+                "title": "Tapas/Small Plates"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.6025163682965,
+            "longitude": -122.374696808268
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "824 Cowan Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Burlingame",
+            "zip_code": "94010",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "824 Cowan Rd",
+                "Burlingame, CA 94010"
+            ]
+        },
+        "phone": "+16504431559",
+        "display_phone": "(650) 443-1559",
+        "distance": 18430.682178482333
+    },
+    {
+        "id": "PFk6k_hEGG0n6_FAJSm9EQ",
+        "alias": "woodhouse-fish-company-san-francisco-3",
+        "name": "Woodhouse Fish Company",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/H0luh0if0BlL2qSdtuHkqg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/woodhouse-fish-company-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 2233,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "newamerican",
+                "title": "American (New)"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.78742,
+            "longitude": -122.43327
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1914 Fillmore St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94115",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1914 Fillmore St",
+                "San Francisco, CA 94115"
+            ]
+        },
+        "phone": "+14154372722",
+        "display_phone": "(415) 437-2722",
+        "distance": 2966.614164301847
+    },
+    {
+        "id": "HaAb_L9zVNLjJwrBkSf_Vw",
+        "alias": "pier-market-seafood-restaurant-san-francisco",
+        "name": "Pier Market Seafood Restaurant",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oiWv-yEYYS62vOvFC97sTw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/pier-market-seafood-restaurant-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 2095,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.8099386456994,
+            "longitude": -122.410550415516
+        },
+        "transactions": [
+            "restaurant_reservation"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "Pier 39",
+            "address2": "Ste 103",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94133",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "Pier 39",
+                "Ste 103",
+                "San Francisco, CA 94133"
+            ]
+        },
+        "phone": "+14159897437",
+        "display_phone": "(415) 989-7437",
+        "distance": 5908.750879956415
+    },
+    {
+        "id": "Wpu06GbaMorLXfbN5s0spg",
+        "alias": "mission-street-oyster-bar-and-seafood-restaurant-san-francisco",
+        "name": "Mission Street Oyster Bar & Seafood Restaurant",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/gvh5VKcpj4gwxNAs61pJtA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mission-street-oyster-bar-and-seafood-restaurant-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 589,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "fishnchips",
+                "title": "Fish & Chips"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.76057,
+            "longitude": -122.41954
+        },
+        "transactions": [
+            "restaurant_reservation",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "2282 Mission St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94110",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "2282 Mission St",
+                "San Francisco, CA 94110"
+            ]
+        },
+        "phone": "+14156216987",
+        "display_phone": "(415) 621-6987",
+        "distance": 1485.254885446321
+    },
+    {
+        "id": "-4wz0dOG3RdBNYE02l9KjA",
+        "alias": "ppq-dungeness-island-san-francisco-2",
+        "name": "PPQ Dungeness Island",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jDCULB0yrZuQRmwrJ5slqQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ppq-dungeness-island-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 3047,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "vietnamese",
+                "title": "Vietnamese"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.78233,
+            "longitude": -122.484454
+        },
+        "transactions": [
+            "restaurant_reservation",
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "2332 Clement St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94121",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "2332 Clement St",
+                "San Francisco, CA 94121"
+            ]
+        },
+        "phone": "+14153868266",
+        "display_phone": "(415) 386-8266",
+        "distance": 4845.948709986807
+    },
+    {
+        "id": "fHU0nD8amfRQGKIAfV7kdw",
+        "alias": "supreme-crab-san-francisco",
+        "name": "Supreme Crab",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/GEIT42UGs1ysWha0916Umg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/supreme-crab-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 323,
+        "categories": [
+            {
+                "alias": "cajun",
+                "title": "Cajun/Creole"
+            },
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "sportsbars",
+                "title": "Sports Bars"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 37.8079827736506,
+            "longitude": -122.416533181117
+        },
+        "transactions": [
+            "restaurant_reservation",
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "245 Jefferson St",
+            "address2": "2fl",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94133",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "245 Jefferson St",
+                "2fl",
+                "San Francisco, CA 94133"
+            ]
+        },
+        "phone": "+14156738888",
+        "display_phone": "(415) 673-8888",
+        "distance": 5520.173267044222
+    },
+    {
+        "id": "fGj7q3Qro-Efk7t-IVnpXQ",
+        "alias": "woodhouse-fish-san-francisco",
+        "name": "Woodhouse Fish",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QYp1umc_-tX22o7vk4Gv_g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/woodhouse-fish-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 1655,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "fishnchips",
+                "title": "Fish & Chips"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.7676615910331,
+            "longitude": -122.42844209075
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "2073 Market St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94114",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "2073 Market St",
+                "San Francisco, CA 94114"
+            ]
+        },
+        "phone": "+14154372722",
+        "display_phone": "(415) 437-2722",
+        "distance": 1029.8261039633505
+    },
+    {
+        "id": "Y3nxgEoxwFJ5miacMzYNXg",
+        "alias": "hook-fish-san-francisco-5",
+        "name": "Hook Fish",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/f1t0l-gKYDwLPjM9x0YgmQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/hook-fish-san-francisco-5?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 495,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "tacos",
+                "title": "Tacos"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.7623772,
+            "longitude": -122.5065697
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "4542 Irving St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94122",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "4542 Irving St",
+                "San Francisco, CA 94122"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 6196.6989627051
+    },
+    {
+        "id": "z9CN58fSrA46ggyb6OnCnQ",
+        "alias": "thanh-long-san-francisco",
+        "name": "Thanh Long",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BL84GADimiDmY2UDTWa38g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/thanh-long-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 2695,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "vietnamese",
+                "title": "Vietnamese"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.76017,
+            "longitude": -122.50609
+        },
+        "transactions": [
+            "restaurant_reservation"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "4101 Judah St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94122",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "4101 Judah St",
+                "San Francisco, CA 94122"
+            ]
+        },
+        "phone": "+14156651146",
+        "display_phone": "(415) 665-1146",
+        "distance": 6122.811241757456
+    },
+    {
+        "id": "eI0DpD2Xx8hFlk7eAdFCqQ",
+        "alias": "swan-oyster-depot-san-francisco",
+        "name": "Swan Oyster Depot",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9VGbw_Dwciw-jnVLXIScPQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/swan-oyster-depot-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 2789,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.790939,
+            "longitude": -122.420796
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1517 Polk St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94109",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1517 Polk St",
+                "San Francisco, CA 94109"
+            ]
+        },
+        "phone": "+14156731101",
+        "display_phone": "(415) 673-1101",
+        "distance": 3612.4047165830657
+    },
+    {
+        "id": "VjXSJdgy7wnlbMqwRWEgqQ",
+        "alias": "golden-crab-house-san-francisco",
+        "name": "Golden Crab House",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GAaFyymuAjAXP8n7vIyMjA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/golden-crab-house-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 212,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "vietnamese",
+                "title": "Vietnamese"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.76368,
+            "longitude": -122.47777
+        },
+        "transactions": [
+            "restaurant_reservation",
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "1830 Irving St",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94122",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1830 Irving St",
+                "San Francisco, CA 94122"
+            ]
+        },
+        "phone": "+14157026685",
+        "display_phone": "(415) 702-6685",
+        "distance": 3648.3712766969606
+    },
+    {
+        "id": "ZiTRspDPY9T_kh4tQDwDMQ",
+        "alias": "pacific-cafe-san-francisco",
+        "name": "Pacific Cafe",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rkcdO_47sEOhO1MgYtGYng/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/pacific-cafe-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 743,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.77994,
+            "longitude": -122.49457
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "7000 Geary Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94121",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "7000 Geary Blvd",
+                "San Francisco, CA 94121"
+            ]
+        },
+        "phone": "+14153877091",
+        "display_phone": "(415) 387-7091",
+        "distance": 5527.200004505452
+    },
+    {
+        "id": "WxxE5kE8omgQhJE8sWIvmA",
+        "alias": "tadich-grill-san-francisco",
+        "name": "Tadich Grill",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UFjqSB8nCmPtL2ffFfOA0w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/tadich-grill-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 2439,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.793431560349,
+            "longitude": -122.399468217791
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "240 California St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94111",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "240 California St",
+                "San Francisco, CA 94111"
+            ]
+        },
+        "phone": "+14153911849",
+        "display_phone": "(415) 391-1849",
+        "distance": 4862.94513865943
+    },
+    {
+        "id": "CTE5lnXUYp4xidmh35knNg",
+        "alias": "bar-crudo-san-francisco",
+        "name": "Bar Crudo",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pOj4e4ep3v3oz5vPrz3cOA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bar-crudo-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 1829,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "raw_food",
+                "title": "Live/Raw Food"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.7756673618778,
+            "longitude": -122.438271045685
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "655 Divisadero St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94117",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "655 Divisadero St",
+                "San Francisco, CA 94117"
+            ]
+        },
+        "phone": "+14154090679",
+        "display_phone": "(415) 409-0679",
+        "distance": 1649.9290902692737
+    }
+  ]
+}

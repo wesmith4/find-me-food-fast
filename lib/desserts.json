@@ -1,0 +1,1764 @@
+{
+  "businesses": [
+      {
+      "id": "aVskw5NKrs7ibAQ54E_bZw",
+      "alias": "u-dessert-story-san-francisco-5",
+      "name": "U :Dessert Story",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oIKjCCMQ4vcHdNyO9CZxVQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/u-dessert-story-san-francisco-5?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 1348,
+      "categories": [
+          {
+              "alias": "desserts",
+              "title": "Desserts"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.7642642124321,
+          "longitude": -122.430517340788
+      },
+      "transactions": [
+          "restaurant_reservation",
+          "pickup",
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "3489 16th St",
+          "address2": "",
+          "address3": null,
+          "city": "San Francisco",
+          "zip_code": "94114",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "3489 16th St",
+              "San Francisco, CA 94114"
+          ]
+      },
+      "phone": "+14157963633",
+      "display_phone": "(415) 796-3633",
+      "distance": 641.6415852840471
+  },
+  {
+      "id": "-XlUFPOYhUq9sIGJd6873g",
+      "alias": "oh-dessert-cafe-san-francisco",
+      "name": "OH Dessert Cafe",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Q3v0rHThwuom9Aj_T_CVSg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/oh-dessert-cafe-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 206,
+      "categories": [
+          {
+              "alias": "desserts",
+              "title": "Desserts"
+          },
+          {
+              "alias": "coffee",
+              "title": "Coffee & Tea"
+          }
+      ],
+      "rating": 4,
+      "coordinates": {
+          "latitude": 37.76322,
+          "longitude": -122.47851
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "1919 Irving St",
+          "address2": null,
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94122",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "1919 Irving St",
+              "San Francisco, CA 94122"
+          ]
+      },
+      "phone": "+14157424917",
+      "display_phone": "(415) 742-4917",
+      "distance": 3712.4926075333724
+  },
+  {
+      "id": "A20227bLuwUgR-bgSrnW5A",
+      "alias": "u-dessert-story-san-francisco-10",
+      "name": "U :Dessert Story",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Q6LEGDFExQa0OOnOQSE3GA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/u-dessert-story-san-francisco-10?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 233,
+      "categories": [
+          {
+              "alias": "desserts",
+              "title": "Desserts"
+          },
+          {
+              "alias": "breakfast_brunch",
+              "title": "Breakfast & Brunch"
+          },
+          {
+              "alias": "coffee",
+              "title": "Coffee & Tea"
+          }
+      ],
+      "rating": 4,
+      "coordinates": {
+          "latitude": 37.79922,
+          "longitude": -122.43548
+      },
+      "transactions": [
+          "restaurant_reservation",
+          "pickup",
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "2120 Greenwich St",
+          "address2": "",
+          "address3": null,
+          "city": "San Francisco",
+          "zip_code": "94123",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "2120 Greenwich St",
+              "San Francisco, CA 94123"
+          ]
+      },
+      "phone": "+14155254137",
+      "display_phone": "(415) 525-4137",
+      "distance": 4262.501088715023
+  },
+  {
+      "id": "2XQm-uFcTS7oc8MFP-8olA",
+      "alias": "b-patisserie-san-francisco-2",
+      "name": "B Patisserie",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9FaO-VNIDTfFkstW9quCMA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/b-patisserie-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 2505,
+      "categories": [
+          {
+              "alias": "bakeries",
+              "title": "Bakeries"
+          },
+          {
+              "alias": "cakeshop",
+              "title": "Patisserie/Cake Shop"
+          },
+          {
+              "alias": "macarons",
+              "title": "Macarons"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.78783,
+          "longitude": -122.44073
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "2821 California St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94115",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "2821 California St",
+              "San Francisco, CA 94115"
+          ]
+      },
+      "phone": "+14154401700",
+      "display_phone": "(415) 440-1700",
+      "distance": 3024.692512860378
+  },
+  {
+      "id": "Nh7YDXWeMocrsk3E6sVzfQ",
+      "alias": "mochill-mochi-donut-san-francisco",
+      "name": "Mochill Mochi Donut",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SztLdiQ2_IGIEDhIW08jKg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mochill-mochi-donut-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 363,
+      "categories": [
+          {
+              "alias": "donuts",
+              "title": "Donuts"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.7852719,
+          "longitude": -122.4291175
+      },
+      "transactions": [],
+      "location": {
+          "address1": "1737 Post St",
+          "address2": "Ste 395",
+          "address3": null,
+          "city": "San Francisco",
+          "zip_code": "94115",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "1737 Post St",
+              "Ste 395",
+              "San Francisco, CA 94115"
+          ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 2785.614695545166
+  },
+  {
+      "id": "Zn6UlhMoCmO0Cb_0TyvbLw",
+      "alias": "sweet-mango-dessert-cafe-san-francisco",
+      "name": "Sweet Mango Dessert Cafe",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8g2HUGJ1HQnWyDWhYOUDQw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/sweet-mango-dessert-cafe-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 82,
+      "categories": [
+          {
+              "alias": "desserts",
+              "title": "Desserts"
+          },
+          {
+              "alias": "juicebars",
+              "title": "Juice Bars & Smoothies"
+          },
+          {
+              "alias": "hkcafe",
+              "title": "Hong Kong Style Cafe"
+          }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+          "latitude": 37.78024,
+          "longitude": -122.47542
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$",
+      "location": {
+          "address1": "5217 Geary Blvd",
+          "address2": null,
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94118",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "5217 Geary Blvd",
+              "San Francisco, CA 94118"
+          ]
+      },
+      "phone": "+14156688812",
+      "display_phone": "(415) 668-8812",
+      "distance": 4052.5190931010256
+  },
+  {
+      "id": "xnnGdAR6V96hfEhgIJ_P9w",
+      "alias": "dandelion-chocolate-san-francisco-9",
+      "name": "Dandelion Chocolate",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/te6BWWPPo1A3TWHpwQPPmw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/dandelion-chocolate-san-francisco-9?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 1399,
+      "categories": [
+          {
+              "alias": "chocolate",
+              "title": "Chocolatiers & Shops"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.760956,
+          "longitude": -122.421822
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "740 Valencia St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94110",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "740 Valencia St",
+              "San Francisco, CA 94110"
+          ]
+      },
+      "phone": "+14153490942",
+      "display_phone": "(415) 349-0942",
+      "distance": 1284.178674496942
+  },
+  {
+      "id": "DyXoC_NhJW0Xx5j_OPQRHQ",
+      "alias": "schuberts-bakery-san-francisco",
+      "name": "Schubert's Bakery",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dwS7vvJ_59XToD8t1Ldf-w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/schuberts-bakery-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 1672,
+      "categories": [
+          {
+              "alias": "bakeries",
+              "title": "Bakeries"
+          },
+          {
+              "alias": "desserts",
+              "title": "Desserts"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.78267,
+          "longitude": -122.46493
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "521 Clement St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94118",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "521 Clement St",
+              "San Francisco, CA 94118"
+          ]
+      },
+      "phone": "+14157521580",
+      "display_phone": "(415) 752-1580",
+      "distance": 3492.5239262642963
+  },
+  {
+      "id": "kIRrW75VpLURP0cYdKTBFA",
+      "alias": "sweethoney-san-francisco-3",
+      "name": "Sweethoney",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-3k60LLTwMarm_jAIFb-5Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/sweethoney-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 28,
+      "categories": [
+          {
+              "alias": "desserts",
+              "title": "Desserts"
+          },
+          {
+              "alias": "taiwanese",
+              "title": "Taiwanese"
+          },
+          {
+              "alias": "soup",
+              "title": "Soup"
+          }
+      ],
+      "rating": 4,
+      "coordinates": {
+          "latitude": 37.763063,
+          "longitude": -122.482828
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+          "address1": "2315 Irving St",
+          "address2": "",
+          "address3": null,
+          "city": "San Francisco",
+          "zip_code": "94122",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "2315 Irving St",
+              "San Francisco, CA 94122"
+          ]
+      },
+      "phone": "+14154636096",
+      "display_phone": "(415) 463-6096",
+      "distance": 4084.8200600036985
+  },
+  {
+      "id": "K0r1oltM3JbM14ApsTe_yA",
+      "alias": "sixth-course-san-francisco",
+      "name": "Sixth Course",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oH6Nldrv-U5ffzH2s9vA2g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/sixth-course-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 375,
+      "categories": [
+          {
+              "alias": "desserts",
+              "title": "Desserts"
+          },
+          {
+              "alias": "chocolate",
+              "title": "Chocolatiers & Shops"
+          },
+          {
+              "alias": "gelato",
+              "title": "Gelato"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.7668797,
+          "longitude": -122.4186656
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "1544 15th St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94103",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "1544 15th St",
+              "San Francisco, CA 94103"
+          ]
+      },
+      "phone": "+14158292461",
+      "display_phone": "(415) 829-2461",
+      "distance": 1697.8438296165866
+  },
+  {
+      "id": "8oT00ympYI-mQ8KEetQ63g",
+      "alias": "zanzes-cheesecake-san-francisco",
+      "name": "Zanze's Cheesecake",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jgXpu50kzaqMRX7kpijebg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/zanzes-cheesecake-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 996,
+      "categories": [
+          {
+              "alias": "bakeries",
+              "title": "Bakeries"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.72994,
+          "longitude": -122.46984
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "2405 Ocean Ave",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94127",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "2405 Ocean Ave",
+              "San Francisco, CA 94127"
+          ]
+      },
+      "phone": "+14153342264",
+      "display_phone": "(415) 334-2264",
+      "distance": 4520.814797058772
+  },
+  {
+      "id": "eVmfHVTi_T5HVtwMnbDzEA",
+      "alias": "sweethoney-dessert-colma-4",
+      "name": "SweetHoney Dessert",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mqEosjIuOcwZc9fpYYoDeA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/sweethoney-dessert-colma-4?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 707,
+      "categories": [
+          {
+              "alias": "desserts",
+              "title": "Desserts"
+          },
+          {
+              "alias": "juicebars",
+              "title": "Juice Bars & Smoothies"
+          },
+          {
+              "alias": "icecream",
+              "title": "Ice Cream & Frozen Yogurt"
+          }
+      ],
+      "rating": 4,
+      "coordinates": {
+          "latitude": 37.6771849,
+          "longitude": -122.4688645
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+          "address1": "15 Colma Blvd",
+          "address2": "",
+          "address3": null,
+          "city": "Colma",
+          "zip_code": "94014",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "15 Colma Blvd",
+              "Colma, CA 94014"
+          ]
+      },
+      "phone": "+16508222800",
+      "display_phone": "(650) 822-2800",
+      "distance": 9681.023108170693
+  },
+  {
+      "id": "ri7UUYmx21AgSpRsf4-9QA",
+      "alias": "tartine-bakery-and-cafe-san-francisco",
+      "name": "Tartine Bakery & Cafe",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6XiycXBqBcgyjZ6QwpyEZw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/tartine-bakery-and-cafe-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 7860,
+      "categories": [
+          {
+              "alias": "bakeries",
+              "title": "Bakeries"
+          },
+          {
+              "alias": "cafes",
+              "title": "Cafes"
+          },
+          {
+              "alias": "desserts",
+              "title": "Desserts"
+          }
+      ],
+      "rating": 4,
+      "coordinates": {
+          "latitude": 37.7614250022004,
+          "longitude": -122.424051321456
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "600 Guerrero St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94110",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "600 Guerrero St",
+              "San Francisco, CA 94110"
+          ]
+      },
+      "phone": "+14154872600",
+      "display_phone": "(415) 487-2600",
+      "distance": 1091.249585562033
+  },
+  {
+      "id": "eTDQ2sq5z3h7-_DBaYZTbw",
+      "alias": "na-ya-dessert-cafe-san-francisco-3",
+      "name": "Na Ya Dessert Cafe",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/R2WOZV3omtX5OB5i87XcRQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/na-ya-dessert-cafe-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 124,
+      "categories": [
+          {
+              "alias": "desserts",
+              "title": "Desserts"
+          },
+          {
+              "alias": "coffee",
+              "title": "Coffee & Tea"
+          },
+          {
+              "alias": "shavedice",
+              "title": "Shaved Ice"
+          }
+      ],
+      "rating": 4,
+      "coordinates": {
+          "latitude": 37.77721,
+          "longitude": -122.424937
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+          "address1": "535 Octavia St",
+          "address2": "",
+          "address3": null,
+          "city": "San Francisco",
+          "zip_code": "94102",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "535 Octavia St",
+              "San Francisco, CA 94102"
+          ]
+      },
+      "phone": "+14159268638",
+      "display_phone": "(415) 926-8638",
+      "distance": 2078.2980665049154
+  },
+  {
+      "id": "Rqahy3oCYnQCYd2Shc3cVA",
+      "alias": "the-castro-fountain-san-francisco",
+      "name": "The Castro Fountain",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/A30mM1NQ40bmHgmJPlJOQQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-castro-fountain-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 137,
+      "categories": [
+          {
+              "alias": "bakeries",
+              "title": "Bakeries"
+          },
+          {
+              "alias": "icecream",
+              "title": "Ice Cream & Frozen Yogurt"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.75999,
+          "longitude": -122.43528
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+          "address1": "554 Castro St",
+          "address2": "",
+          "address3": null,
+          "city": "San Francisco",
+          "zip_code": "94114",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "554 Castro St",
+              "San Francisco, CA 94114"
+          ]
+      },
+      "phone": "+14158345457",
+      "display_phone": "(415) 834-5457",
+      "distance": 144.05621241795677
+  },
+  {
+      "id": "qZFRnzb-VTfkMC2vDoWJVA",
+      "alias": "hot-cookie-san-francisco",
+      "name": "Hot Cookie",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VODV6nFcDhW6E_zcG_OxcA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/hot-cookie-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 1471,
+      "categories": [
+          {
+              "alias": "bakeries",
+              "title": "Bakeries"
+          },
+          {
+              "alias": "desserts",
+              "title": "Desserts"
+          }
+      ],
+      "rating": 4,
+      "coordinates": {
+          "latitude": 37.76227,
+          "longitude": -122.43494
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$",
+      "location": {
+          "address1": "407 Castro St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94114",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "407 Castro St",
+              "San Francisco, CA 94114"
+          ]
+      },
+      "phone": "+14156212350",
+      "display_phone": "(415) 621-2350",
+      "distance": 206.98611176056144
+  },
+  {
+      "id": "EfkCyCaKoUFVdkRoi2prMw",
+      "alias": "yasukochis-sweet-stop-san-francisco",
+      "name": "Yasukochi's Sweet Stop",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Uc0L0BcmU9iLdmfMMuArUw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/yasukochis-sweet-stop-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 584,
+      "categories": [
+          {
+              "alias": "bakeries",
+              "title": "Bakeries"
+          },
+          {
+              "alias": "desserts",
+              "title": "Desserts"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.78673,
+          "longitude": -122.42978
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+          "address1": "1790 Sutter St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94115",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "1790 Sutter St",
+              "San Francisco, CA 94115"
+          ]
+      },
+      "phone": "+14159318165",
+      "display_phone": "(415) 931-8165",
+      "distance": 2928.003274352287
+  },
+  {
+      "id": "hBs2mEpjMsbrAjd-FZC9qw",
+      "alias": "powder-san-francisco",
+      "name": "Powder",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OwkEqs4_CUbwW5ft32lwlA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/powder-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 564,
+      "categories": [
+          {
+              "alias": "desserts",
+              "title": "Desserts"
+          },
+          {
+              "alias": "icecream",
+              "title": "Ice Cream & Frozen Yogurt"
+          },
+          {
+              "alias": "shavedsnow",
+              "title": "Shaved Snow"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.771544,
+          "longitude": -122.436887
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+          "address1": "260 Divisadero St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94117",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "260 Divisadero St",
+              "San Francisco, CA 94117"
+          ]
+      },
+      "phone": "+14159238183",
+      "display_phone": "(415) 923-8183",
+      "distance": 1193.4022529434353
+  },
+  {
+      "id": "H6jEWhnxWlzTobANR-VNJg",
+      "alias": "minamoto-kitchoan-san-francisco",
+      "name": "Minamoto Kitchoan",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NVAWrWJ0uHRrJCQbSWjx5A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/minamoto-kitchoan-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 383,
+      "categories": [
+          {
+              "alias": "desserts",
+              "title": "Desserts"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.78846,
+          "longitude": -122.40294
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$$$",
+      "location": {
+          "address1": "648 Market St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94104",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "648 Market St",
+              "San Francisco, CA 94104"
+          ]
+      },
+      "phone": "+14159891645",
+      "display_phone": "(415) 989-1645",
+      "distance": 4265.340535584418
+  },
+  {
+      "id": "durukkwUUqNmkbNr0D113A",
+      "alias": "na-ya-dessert-cafe-san-francisco",
+      "name": "Na Ya Dessert Cafe",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-pIs0rCkjVmrwvER8kNDBw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/na-ya-dessert-cafe-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 487,
+      "categories": [
+          {
+              "alias": "desserts",
+              "title": "Desserts"
+          },
+          {
+              "alias": "japanese",
+              "title": "Japanese"
+          },
+          {
+              "alias": "thai",
+              "title": "Thai"
+          }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+          "latitude": 37.78076,
+          "longitude": -122.47679
+      },
+      "transactions": [
+          "pickup",
+          "delivery"
+      ],
+      "price": "$",
+      "location": {
+          "address1": "5338 Geary Blvd",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94121",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "5338 Geary Blvd",
+              "San Francisco, CA 94121"
+          ]
+      },
+      "phone": "+14152135308",
+      "display_phone": "(415) 213-5308",
+      "distance": 4175.347283460177
+  },
+  {
+    "id": "wGl_DyNxSv8KUtYgiuLhmA",
+        "alias": "bi-rite-creamery-san-francisco",
+        "name": "Bi-Rite Creamery",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iPNJKlOQ7-eyqa4Yv2r2BA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bi-rite-creamery-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 9566,
+        "categories": [
+            {
+                "alias": "icecream",
+                "title": "Ice Cream & Frozen Yogurt"
+            },
+            {
+                "alias": "bakeries",
+                "title": "Bakeries"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.761591,
+            "longitude": -122.425717
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "3692 18th St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94110",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "3692 18th St",
+                "San Francisco, CA 94110"
+            ]
+        },
+        "phone": "+14156265600",
+        "display_phone": "(415) 626-5600",
+        "distance": 946.3867385272524
+    },
+    {
+        "id": "iTJ3jZ-dli9WLOrVsFXr6A",
+        "alias": "san-franciscos-hometown-creamery-san-francisco",
+        "name": "San Francisco's Hometown Creamery",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IiQo65tKsFlOc6V4pLS8iQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/san-franciscos-hometown-creamery-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 746,
+        "categories": [
+            {
+                "alias": "icecream",
+                "title": "Ice Cream & Frozen Yogurt"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.7643108,
+            "longitude": -122.4661588
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "1290 9th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94122",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1290 9th Ave",
+                "San Francisco, CA 94122"
+            ]
+        },
+        "phone": "+14156824977",
+        "display_phone": "(415) 682-4977",
+        "distance": 2635.8092830446726
+    },
+    {
+      "id": "76smcUUGRvq3k1MVPUXbnA",
+      "alias": "mitchells-ice-cream-san-francisco",
+      "name": "Mitchell's Ice Cream",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-BBzTTMsUwK7ZzoANiHYvg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mitchells-ice-cream-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 3931,
+      "categories": [
+          {
+              "alias": "icecream",
+              "title": "Ice Cream & Frozen Yogurt"
+          },
+          {
+              "alias": "customcakes",
+              "title": "Custom Cakes"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.7442315,
+          "longitude": -122.422816
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$",
+      "location": {
+          "address1": "688 San Jose Ave",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94110",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "688 San Jose Ave",
+              "San Francisco, CA 94110"
+          ]
+      },
+      "phone": "+14156482300",
+      "display_phone": "(415) 648-2300",
+      "distance": 2207.086160001414
+  },
+  {
+      "id": "_5Dzuo9r5vaXsqy8P9AlOQ",
+      "alias": "salt-and-straw-san-francisco-4",
+      "name": "Salt & Straw",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gfAnMlW9ZvrwVcs6W-IpPQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/salt-and-straw-san-francisco-4?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 950,
+      "categories": [
+          {
+              "alias": "icecream",
+              "title": "Ice Cream & Frozen Yogurt"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.78993,
+          "longitude": -122.43432
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "2201 Fillmore St",
+          "address2": null,
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94115",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "2201 Fillmore St",
+              "San Francisco, CA 94115"
+          ]
+      },
+      "phone": "+14158292803",
+      "display_phone": "(415) 829-2803",
+      "distance": 3239.7391745819514
+  },
+  {
+      "id": "Rqahy3oCYnQCYd2Shc3cVA",
+      "alias": "the-castro-fountain-san-francisco",
+      "name": "The Castro Fountain",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/A30mM1NQ40bmHgmJPlJOQQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-castro-fountain-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 137,
+      "categories": [
+          {
+              "alias": "bakeries",
+              "title": "Bakeries"
+          },
+          {
+              "alias": "icecream",
+              "title": "Ice Cream & Frozen Yogurt"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.75999,
+          "longitude": -122.43528
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+          "address1": "554 Castro St",
+          "address2": "",
+          "address3": null,
+          "city": "San Francisco",
+          "zip_code": "94114",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "554 Castro St",
+              "San Francisco, CA 94114"
+          ]
+      },
+      "phone": "+14158345457",
+      "display_phone": "(415) 834-5457",
+      "distance": 144.05621241795677
+  },
+  {
+      "id": "s3Vi_0iue-hIRJ7O78JzRQ",
+      "alias": "the-ice-cream-bar-san-francisco",
+      "name": "The Ice Cream Bar",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bHiN7Qahhbq8GuvtB8vwuQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-ice-cream-bar-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 1322,
+      "categories": [
+          {
+              "alias": "icecream",
+              "title": "Ice Cream & Frozen Yogurt"
+          },
+          {
+              "alias": "beer_and_wine",
+              "title": "Beer, Wine & Spirits"
+          },
+          {
+              "alias": "tradamerican",
+              "title": "American (Traditional)"
+          }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+          "latitude": 37.76643,
+          "longitude": -122.45033
+      },
+      "transactions": [
+          "pickup",
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "815 Cole St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94117",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "815 Cole St",
+              "San Francisco, CA 94117"
+          ]
+      },
+      "phone": "+14157424932",
+      "display_phone": "(415) 742-4932",
+      "distance": 1360.9876804770008
+  },
+  {
+      "id": "CB5FsH1m4D0R5wZ0JFmKzw",
+      "alias": "salt-and-straw-san-francisco-5",
+      "name": "Salt & Straw",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oplpbkuzVugCK1u2ns8iYA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/salt-and-straw-san-francisco-5?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 534,
+      "categories": [
+          {
+              "alias": "icecream",
+              "title": "Ice Cream & Frozen Yogurt"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.7766412,
+          "longitude": -122.4259532
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "586 Hayes St",
+          "address2": "",
+          "address3": null,
+          "city": "San Francisco",
+          "zip_code": "94102",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "586 Hayes St",
+              "San Francisco, CA 94102"
+          ]
+      },
+      "phone": "+14155497445",
+      "display_phone": "(415) 549-7445",
+      "distance": 1968.552259561984
+  },
+  {
+      "id": "YzA3ocJ0XvsTuD18qr2ctg",
+      "alias": "mr-and-mrs-miscellaneous-san-francisco",
+      "name": "Mr. and Mrs. Miscellaneous",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9F28IGOrCrj3nR6gaD171g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mr-and-mrs-miscellaneous-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 1425,
+      "categories": [
+          {
+              "alias": "icecream",
+              "title": "Ice Cream & Frozen Yogurt"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.7578152,
+          "longitude": -122.3880343
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$",
+      "location": {
+          "address1": "699 22nd St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94107",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "699 22nd St",
+              "San Francisco, CA 94107"
+          ]
+      },
+      "phone": "+14159700750",
+      "display_phone": "(415) 970-0750",
+      "distance": 4262.678481286921
+  },
+  {
+      "id": "RrIduU6-SUNCanTEVF-hIQ",
+      "alias": "marco-polo-italian-ice-cream-san-francisco",
+      "name": "Marco Polo Italian Ice Cream",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/w6yaIbvYn-xefxJuZeCd0A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/marco-polo-italian-ice-cream-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 1460,
+      "categories": [
+          {
+              "alias": "icecream",
+              "title": "Ice Cream & Frozen Yogurt"
+          },
+          {
+              "alias": "gelato",
+              "title": "Gelato"
+          },
+          {
+              "alias": "desserts",
+              "title": "Desserts"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.7426223,
+          "longitude": -122.481885
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$",
+      "location": {
+          "address1": "1447 Taraval St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94116",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "1447 Taraval St",
+              "San Francisco, CA 94116"
+          ]
+      },
+      "phone": "+14157312833",
+      "display_phone": "(415) 731-2833",
+      "distance": 4480.698934510479
+  },
+  {
+      "id": "hBs2mEpjMsbrAjd-FZC9qw",
+      "alias": "powder-san-francisco",
+      "name": "Powder",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OwkEqs4_CUbwW5ft32lwlA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/powder-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 564,
+      "categories": [
+          {
+              "alias": "desserts",
+              "title": "Desserts"
+          },
+          {
+              "alias": "icecream",
+              "title": "Ice Cream & Frozen Yogurt"
+          },
+          {
+              "alias": "shavedsnow",
+              "title": "Shaved Snow"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.771544,
+          "longitude": -122.436887
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+          "address1": "260 Divisadero St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94117",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "260 Divisadero St",
+              "San Francisco, CA 94117"
+          ]
+      },
+      "phone": "+14159238183",
+      "display_phone": "(415) 923-8183",
+      "distance": 1193.4022529434353
+  },
+  {
+      "id": "2kigSyi7myx0-34YATi-Xw",
+      "alias": "polly-ann-ice-cream-san-francisco",
+      "name": "Polly Ann Ice Cream",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aUMgOzq7VavlVnegGxHq8Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/polly-ann-ice-cream-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 1250,
+      "categories": [
+          {
+              "alias": "icecream",
+              "title": "Ice Cream & Frozen Yogurt"
+          },
+          {
+              "alias": "gourmet",
+              "title": "Specialty Food"
+          },
+          {
+              "alias": "desserts",
+              "title": "Desserts"
+          }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+          "latitude": 37.753435,
+          "longitude": -122.497758
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$",
+      "location": {
+          "address1": "3138 Noriega St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94122",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "3138 Noriega St",
+              "San Francisco, CA 94122"
+          ]
+      },
+      "phone": "+14156642472",
+      "display_phone": "(415) 664-2472",
+      "distance": 5453.494896178106
+  },
+  {
+      "id": "PpKob6r-Cjz4H8D1roK2lA",
+      "alias": "humphry-slocombe-ice-cream-san-francisco-4",
+      "name": "Humphry Slocombe Ice Cream",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WDpJ0Hw_t-TyQuPFHRkDxg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/humphry-slocombe-ice-cream-san-francisco-4?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 1122,
+      "categories": [
+          {
+              "alias": "icecream",
+              "title": "Ice Cream & Frozen Yogurt"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.795692,
+          "longitude": -122.393693
+      },
+      "transactions": [
+          "pickup",
+          "delivery"
+      ],
+      "price": "$",
+      "location": {
+          "address1": "1 Ferry Bldg",
+          "address2": "",
+          "address3": "Ferry Plaza Farmers Market",
+          "city": "San Francisco",
+          "zip_code": "94111",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "1 Ferry Bldg",
+              "Ferry Plaza Farmers Market",
+              "San Francisco, CA 94111"
+          ]
+      },
+      "phone": "+14155506971",
+      "display_phone": "(415) 550-6971",
+      "distance": 5393.173591440667
+  },
+  {
+      "id": "47OC_X6KkiDDQ4jwoCUjFg",
+      "alias": "humphry-slocombe-ice-cream-san-francisco",
+      "name": "Humphry Slocombe Ice Cream",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/N9XikmqttZy5StpPxkJing/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/humphry-slocombe-ice-cream-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 3369,
+      "categories": [
+          {
+              "alias": "icecream",
+              "title": "Ice Cream & Frozen Yogurt"
+          }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+          "latitude": 37.75279,
+          "longitude": -122.4122
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$",
+      "location": {
+          "address1": "2790A Harrison St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94110",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "2790A Harrison St",
+              "San Francisco, CA 94110"
+          ]
+      },
+      "phone": "+14155506971",
+      "display_phone": "(415) 550-6971",
+      "distance": 2316.757442605059
+  },
+  {
+      "id": "DicCVq8FwpfT9lD40B_sxg",
+      "alias": "philmore-creamery-san-francisco-3",
+      "name": "Philmore Creamery",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GwQ-0ZXoEQ8Qo2vf8WSJJg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/philmore-creamery-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 219,
+      "categories": [
+          {
+              "alias": "gelato",
+              "title": "Gelato"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.7865093379388,
+          "longitude": -122.43329192402
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "1840 Fillmore St",
+          "address2": null,
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94115",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "1840 Fillmore St",
+              "San Francisco, CA 94115"
+          ]
+      },
+      "phone": "+14154004076",
+      "display_phone": "(415) 400-4076",
+      "distance": 2864.9146874271228
+  },
+  {
+      "id": "cf6el4kGXe686x4Kb6F18Q",
+      "alias": "swensens-ice-cream-san-francisco",
+      "name": "Swensen's Ice Cream",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/x2Owm2eAKoMOMGxCHR_tdw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/swensens-ice-cream-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 1056,
+      "categories": [
+          {
+              "alias": "icecream",
+              "title": "Ice Cream & Frozen Yogurt"
+          }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+          "latitude": 37.799191,
+          "longitude": -122.419276
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$",
+      "location": {
+          "address1": "1999 Hyde St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94109",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "1999 Hyde St",
+              "San Francisco, CA 94109"
+          ]
+      },
+      "phone": "+14157756818",
+      "display_phone": "(415) 775-6818",
+      "distance": 4517.347989769736
+  },
+  {
+      "id": "sSiUcnbwPQ4ssHY3EMV0Fw",
+      "alias": "matcha-cafe-maiko-san-francisco-10",
+      "name": "Matcha Cafe Maiko",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OggJgIXun4eqnSwCx4ZgHw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/matcha-cafe-maiko-san-francisco-10?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 910,
+      "categories": [
+          {
+              "alias": "coffee",
+              "title": "Coffee & Tea"
+          },
+          {
+              "alias": "icecream",
+              "title": "Ice Cream & Frozen Yogurt"
+          },
+          {
+              "alias": "shavedice",
+              "title": "Shaved Ice"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.785051,
+          "longitude": -122.432095
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$",
+      "location": {
+          "address1": "1581 Webster St",
+          "address2": null,
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94115",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "1581 Webster St",
+              "San Francisco, CA 94115"
+          ]
+      },
+      "phone": "+14157570919",
+      "display_phone": "(415) 757-0919",
+      "distance": 2712.6398841284977
+  },
+  {
+      "id": "-yFZPqNV3XGwMzfadm9l6A",
+      "alias": "uji-time-dessert-san-francisco",
+      "name": "Uji Time Dessert",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8rQQ9SpQ4n9qvVdssWOI9w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/uji-time-dessert-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 788,
+      "categories": [
+          {
+              "alias": "desserts",
+              "title": "Desserts"
+          },
+          {
+              "alias": "icecream",
+              "title": "Ice Cream & Frozen Yogurt"
+          }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+          "latitude": 37.7852847,
+          "longitude": -122.429177
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+          "address1": "22 Peace Plz",
+          "address2": "Ste 440",
+          "address3": null,
+          "city": "San Francisco",
+          "zip_code": "94115",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "22 Peace Plz",
+              "Ste 440",
+              "San Francisco, CA 94115"
+          ]
+      },
+      "phone": "+16284443003",
+      "display_phone": "(628) 444-3003",
+      "distance": 2785.7952054083876
+  },
+  {
+      "id": "-STLHuhs2WXTOa1ucsRb_w",
+      "alias": "joes-ice-cream-san-francisco",
+      "name": "Joe's Ice Cream",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_qT5bQ211Ro2Yonr02U_uw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/joes-ice-cream-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 837,
+      "categories": [
+          {
+              "alias": "icecream",
+              "title": "Ice Cream & Frozen Yogurt"
+          },
+          {
+              "alias": "burgers",
+              "title": "Burgers"
+          },
+          {
+              "alias": "hotdog",
+              "title": "Hot Dogs"
+          }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+          "latitude": 37.780617,
+          "longitude": -122.477741
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$",
+      "location": {
+          "address1": "5420 Geary Blvd",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94121",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "5420 Geary Blvd",
+              "San Francisco, CA 94121"
+          ]
+      },
+      "phone": "+14157511950",
+      "display_phone": "(415) 751-1950",
+      "distance": 4240.37128058132
+  },
+  {
+      "id": "aVskw5NKrs7ibAQ54E_bZw",
+      "alias": "u-dessert-story-san-francisco-5",
+      "name": "U :Dessert Story",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oIKjCCMQ4vcHdNyO9CZxVQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/u-dessert-story-san-francisco-5?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 1348,
+      "categories": [
+          {
+              "alias": "desserts",
+              "title": "Desserts"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.7642642124321,
+          "longitude": -122.430517340788
+      },
+      "transactions": [
+          "pickup",
+          "delivery",
+          "restaurant_reservation"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "3489 16th St",
+          "address2": "",
+          "address3": null,
+          "city": "San Francisco",
+          "zip_code": "94114",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "3489 16th St",
+              "San Francisco, CA 94114"
+          ]
+      },
+      "phone": "+14157963633",
+      "display_phone": "(415) 796-3633",
+      "distance": 641.6415852840471
+  },
+  {
+      "id": "L3_71hwGHkr38nZ2daksuA",
+      "alias": "miyako-old-fashioned-ice-cream-san-francisco",
+      "name": "Miyako Old Fashioned Ice Cream",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yY7LzS6M5lE9YHyxmIN7UA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/miyako-old-fashioned-ice-cream-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 336,
+      "categories": [
+          {
+              "alias": "icecream",
+              "title": "Ice Cream & Frozen Yogurt"
+          },
+          {
+              "alias": "sandwiches",
+              "title": "Sandwiches"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.7830991389702,
+          "longitude": -122.432461963236
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$",
+      "location": {
+          "address1": "1470 Fillmore St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94118",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "1470 Fillmore St",
+              "San Francisco, CA 94118"
+          ]
+      },
+      "phone": "+14159315260",
+      "display_phone": "(415) 931-5260",
+      "distance": 2493.2245904819843
+    }
+  ]
+}

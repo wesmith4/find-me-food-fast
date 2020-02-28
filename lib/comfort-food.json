@@ -1,0 +1,947 @@
+{
+"businesses": [
+    {
+    "id": "wxzx3duu1c0CcomzEOvfOQ",
+    "alias": "the-front-porch-san-francisco",
+    "name": "The Front Porch",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0fmMVyqSKOMIqtkQksUTUQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-front-porch-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 2809,
+    "categories": [
+        {
+            "alias": "southern",
+            "title": "Southern"
+        },
+        {
+            "alias": "cajun",
+            "title": "Cajun/Creole"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "rating": 4,
+    "coordinates": {
+        "latitude": 37.7438,
+        "longitude": -122.422035
+    },
+    "transactions": [
+        "pickup",
+        "restaurant_reservation"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "65 29th St",
+        "address2": "Ste A",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94110",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "65 29th St",
+            "Ste A",
+            "San Francisco, CA 94110"
+        ]
+    },
+    "phone": "+14156957800",
+    "display_phone": "(415) 695-7800",
+    "distance": 2285.237602234066
+},
+{
+    "id": "wZv5s1J3xmUkO-x9b8_-yQ",
+    "alias": "rustys-southern-san-francisco",
+    "name": "Rusty's Southern",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QyRA7KSptR_rZpJ5ommR7g/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/rustys-southern-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 1013,
+    "categories": [
+        {
+            "alias": "southern",
+            "title": "Southern"
+        },
+        {
+            "alias": "comfortfood",
+            "title": "Comfort Food"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+        "latitude": 37.7844,
+        "longitude": -122.41855
+    },
+    "transactions": [
+        "delivery",
+        "restaurant_reservation"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "750 Ellis St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94109",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "750 Ellis St",
+            "San Francisco, CA 94109"
+        ]
+    },
+    "phone": "+14156386974",
+    "display_phone": "(415) 638-6974",
+    "distance": 3039.0131663781394
+},
+{
+    "id": "rxY7canIJeXtICb6lprUcQ",
+    "alias": "blue-plate-san-francisco",
+    "name": "Blue Plate",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5iaI4aBsGYRaaRE1V4e8-w/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/blue-plate-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 1421,
+    "categories": [
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "comfortfood",
+            "title": "Comfort Food"
+        },
+        {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+        }
+    ],
+    "rating": 4,
+    "coordinates": {
+        "latitude": 37.74523,
+        "longitude": -122.42033
+    },
+    "transactions": [
+        "delivery",
+        "pickup",
+        "restaurant_reservation"
+    ],
+    "price": "$$$",
+    "location": {
+        "address1": "3218 Mission St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94110",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "3218 Mission St",
+            "San Francisco, CA 94110"
+        ]
+    },
+    "phone": "+14152826777",
+    "display_phone": "(415) 282-6777",
+    "distance": 2240.754392502849
+},
+{
+    "id": "2Mf1yO8mWcUMdnwDpSzWww",
+    "alias": "macd-san-francisco-3",
+    "name": "MAC'D",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RchkQVmTBos-piBYx443oA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/macd-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 225,
+    "categories": [
+        {
+            "alias": "comfortfood",
+            "title": "Comfort Food"
+        }
+    ],
+    "rating": 4,
+    "coordinates": {
+        "latitude": 37.7962,
+        "longitude": -122.42211
+    },
+    "transactions": [
+        "delivery",
+        "pickup"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "2127 Polk St",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94109",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "2127 Polk St",
+            "San Francisco, CA 94109"
+        ]
+    },
+    "phone": "+14157951026",
+    "display_phone": "(415) 795-1026",
+    "distance": 4136.842514673858
+},
+{
+    "id": "2oj_6uCp4DgVTJhYqEmBbA",
+    "alias": "old-skool-cafe-san-francisco",
+    "name": "Old Skool Cafe",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xk3xQ1bloHuotiF_N-yqzQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/old-skool-cafe-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 550,
+    "categories": [
+        {
+            "alias": "soulfood",
+            "title": "Soul Food"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+        "latitude": 37.734266,
+        "longitude": -122.390515
+    },
+    "transactions": [
+        "delivery",
+        "restaurant_reservation"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "1429 Mendell St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94124",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "1429 Mendell St",
+            "San Francisco, CA 94124"
+        ]
+    },
+    "phone": "+14158228531",
+    "display_phone": "(415) 822-8531",
+    "distance": 5007.996587354394
+},
+{
+    "id": "J7_-faNq_Ag9qTOlDn81Pw",
+    "alias": "starbelly-san-francisco",
+    "name": "Starbelly",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IQcRlC75Lea8bqgHpJ8Usg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/starbelly-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 1833,
+    "categories": [
+        {
+            "alias": "comfortfood",
+            "title": "Comfort Food"
+        },
+        {
+            "alias": "pizza",
+            "title": "Pizza"
+        },
+        {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+        }
+    ],
+    "rating": 4,
+    "coordinates": {
+        "latitude": 37.7640744,
+        "longitude": -122.4325634
+    },
+    "transactions": [
+        "delivery",
+        "pickup"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "3583 16th St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94114",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "3583 16th St",
+            "San Francisco, CA 94114"
+        ]
+    },
+    "phone": "+14152527500",
+    "display_phone": "(415) 252-7500",
+    "distance": 491.1178550023795
+},
+{
+    "id": "0tiSST3GCwTa7eqY6yTlHQ",
+    "alias": "tastebuds-san-francisco-2",
+    "name": "Tastebuds",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EcfRvOXmPxCXyQQsIUTD6Q/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/tastebuds-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 110,
+    "categories": [
+        {
+            "alias": "cafes",
+            "title": "Cafes"
+        },
+        {
+            "alias": "soulfood",
+            "title": "Soul Food"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "rating": 4,
+    "coordinates": {
+        "latitude": 37.77715801324,
+        "longitude": -122.46266875416
+    },
+    "transactions": [],
+    "price": "$$",
+    "location": {
+        "address1": "600 5th Ave",
+        "address2": "",
+        "address3": null,
+        "city": "San Francisco",
+        "zip_code": "94118",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "600 5th Ave",
+            "San Francisco, CA 94118"
+        ]
+    },
+    "phone": "+14156689298",
+    "display_phone": "(415) 668-9298",
+    "distance": 2929.2717316065673
+},
+{
+    "id": "90kaVHz2X2U5HrvSAN5N_A",
+    "alias": "mac-daddy-san-francisco",
+    "name": "Mac Daddy",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uEjIEoVbIr8U_uW7g1k-PA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/mac-daddy-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 542,
+    "categories": [
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "salad",
+            "title": "Salad"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        }
+    ],
+    "rating": 4,
+    "coordinates": {
+        "latitude": 37.76234,
+        "longitude": -122.39716
+    },
+    "transactions": [
+        "delivery",
+        "pickup"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "1453 18th St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94107",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "1453 18th St",
+            "San Francisco, CA 94107"
+        ]
+    },
+    "phone": "+14158726670",
+    "display_phone": "(415) 872-6670",
+    "distance": 3465.472414013061
+},
+{
+    "id": "haFRimHPOq90EiTplF4S8A",
+    "alias": "cafe-europa-san-francisco",
+    "name": "Cafe Europa",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qB-L2BqqLqXPvTKGUs6q-g/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/cafe-europa-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 445,
+    "categories": [
+        {
+            "alias": "german",
+            "title": "German"
+        },
+        {
+            "alias": "comfortfood",
+            "title": "Comfort Food"
+        },
+        {
+            "alias": "polish",
+            "title": "Polish"
+        }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+        "latitude": 37.78535,
+        "longitude": -122.46388
+    },
+    "transactions": [
+        "pickup"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "4318 California St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94118",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "4318 California St",
+            "San Francisco, CA 94118"
+        ]
+    },
+    "phone": "+14153861000",
+    "display_phone": "(415) 386-1000",
+    "distance": 3628.053876072137
+},
+{
+    "id": "QDb7LJMMJ9J4zwRC1LFRdg",
+    "alias": "bussaba-san-francisco",
+    "name": "Bussaba",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uOrkRqI-_tLBBlc3zGNJdA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/bussaba-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 81,
+    "categories": [
+        {
+            "alias": "thai",
+            "title": "Thai"
+        },
+        {
+            "alias": "gluten_free",
+            "title": "Gluten-Free"
+        },
+        {
+            "alias": "comfortfood",
+            "title": "Comfort Food"
+        }
+    ],
+    "rating": 4,
+    "coordinates": {
+        "latitude": 37.76441,
+        "longitude": -122.46369
+    },
+    "transactions": [
+        "delivery",
+        "pickup",
+        "restaurant_reservation"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "534 Irving St",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94122",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "534 Irving St",
+            "San Francisco, CA 94122"
+        ]
+    },
+    "phone": "+14153794505",
+    "display_phone": "(415) 379-4505",
+    "distance": 2428.415929571083
+},
+{
+    "id": "lJAGnYzku5zSaLnQ_T6_GQ",
+    "alias": "brendas-french-soul-food-san-francisco-5",
+    "name": "Brenda's French Soul Food",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sNIJnePGDenUOyewsD8tLg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/brendas-french-soul-food-san-francisco-5?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 10970,
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "southern",
+            "title": "Southern"
+        },
+        {
+            "alias": "cajun",
+            "title": "Cajun/Creole"
+        }
+    ],
+    "rating": 4,
+    "coordinates": {
+        "latitude": 37.7829016035273,
+        "longitude": -122.419043442957
+    },
+    "transactions": [],
+    "price": "$$",
+    "location": {
+        "address1": "652 Polk St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94102",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "652 Polk St",
+            "San Francisco, CA 94102"
+        ]
+    },
+    "phone": "+14153458100",
+    "display_phone": "(415) 345-8100",
+    "distance": 2885.38913097158
+},
+{
+    "id": "UbKrcsBaZoaBkBOajEX08g",
+    "alias": "brendas-meat-and-three-san-francisco-3",
+    "name": "Brenda's Meat & Three",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jmJksjiKWD72Oeb_Te9sug/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/brendas-meat-and-three-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 1090,
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "southern",
+            "title": "Southern"
+        },
+        {
+            "alias": "cajun",
+            "title": "Cajun/Creole"
+        }
+    ],
+    "rating": 4,
+    "coordinates": {
+        "latitude": 37.7781489203981,
+        "longitude": -122.438551256878
+    },
+    "transactions": [
+        "delivery"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "919 Divisadero St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94115",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "919 Divisadero St",
+            "San Francisco, CA 94115"
+        ]
+    },
+    "phone": "+14159268657",
+    "display_phone": "(415) 926-8657",
+    "distance": 1926.9541148720562
+},
+{
+    "id": "QaOd6dIYfOYPGBaQvpAtfg",
+    "alias": "the-dark-horse-inn-san-francisco",
+    "name": "The Dark Horse Inn",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BuvWZonKHSzntPgkCXNaIg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-dark-horse-inn-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 313,
+    "categories": [
+        {
+            "alias": "pubs",
+            "title": "Pubs"
+        },
+        {
+            "alias": "comfortfood",
+            "title": "Comfort Food"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+        "latitude": 37.715864,
+        "longitude": -122.440564
+    },
+    "transactions": [
+        "delivery"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "942 Geneva Ave",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94112",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "942 Geneva Ave",
+            "San Francisco, CA 94112"
+        ]
+    },
+    "phone": "+14154695508",
+    "display_phone": "(415) 469-5508",
+    "distance": 5020.769454469424
+},
+{
+    "id": "XQLmEdXoMzOpffwoFaBtaQ",
+    "alias": "kitchen-story-san-francisco",
+    "name": "Kitchen Story",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NFhzbxcz4No5Ny8_IHdPMw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/kitchen-story-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 3321,
+    "categories": [
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "rating": 4,
+    "coordinates": {
+        "latitude": 37.7642352,
+        "longitude": -122.4306936
+    },
+    "transactions": [
+        "pickup",
+        "restaurant_reservation"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "3499 16th St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94114",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "3499 16th St",
+            "San Francisco, CA 94114"
+        ]
+    },
+    "phone": "+14155254905",
+    "display_phone": "(415) 525-4905",
+    "distance": 625.1566435901884
+},
+{
+    "id": "6aQKIjicNuZtu0RSuj--Cg",
+    "alias": "goldies-oakwood-bbq-san-francisco-3",
+    "name": "Goldie's Oakwood BBQ",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/q9R_KksWE5UgMIwcgIrCrw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/goldies-oakwood-bbq-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 62,
+    "categories": [
+        {
+            "alias": "catering",
+            "title": "Caterers"
+        },
+        {
+            "alias": "bbq",
+            "title": "Barbeque"
+        }
+    ],
+    "rating": 5,
+    "coordinates": {
+        "latitude": 37.7269703889707,
+        "longitude": -122.368510211836
+    },
+    "transactions": [],
+    "location": {
+        "address1": null,
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94134",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "San Francisco, CA 94134"
+        ]
+    },
+    "phone": "+14159128388",
+    "display_phone": "(415) 912-8388",
+    "distance": 7065.174958642337
+},
+{
+    "id": "NGIJa15WL41RKgIh9x6RAg",
+    "alias": "hard-knox-cafe-san-francisco-2",
+    "name": "Hard Knox Cafe",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bYIya45n3nwGLNcTDxw-9A/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/hard-knox-cafe-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 1686,
+    "categories": [
+        {
+            "alias": "soulfood",
+            "title": "Soul Food"
+        },
+        {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+        },
+        {
+            "alias": "southern",
+            "title": "Southern"
+        }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+        "latitude": 37.78222,
+        "longitude": -122.48574
+    },
+    "transactions": [
+        "delivery",
+        "pickup"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "2448 Clement St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94121",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "2448 Clement St",
+            "San Francisco, CA 94121"
+        ]
+    },
+    "phone": "+14157523770",
+    "display_phone": "(415) 752-3770",
+    "distance": 4928.017196563914
+},
+{
+    "id": "FI66b4YDj7rDA257iole4Q",
+    "alias": "homeroom-oakland",
+    "name": "Homeroom",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PKbNI6t1JyYFr8pLp1m-zA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/homeroom-oakland?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 5595,
+    "categories": [
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "comfortfood",
+            "title": "Comfort Food"
+        }
+    ],
+    "rating": 4,
+    "coordinates": {
+        "latitude": 37.828739,
+        "longitude": -122.259982
+    },
+    "transactions": [
+        "delivery",
+        "pickup"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "400 40th St",
+        "address2": "",
+        "address3": "",
+        "city": "Oakland",
+        "zip_code": "94609",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "400 40th St",
+            "Oakland, CA 94609"
+        ]
+    },
+    "phone": "+15105970400",
+    "display_phone": "(510) 597-0400",
+    "distance": 17243.08258044721
+},
+{
+    "id": "GaO_9eTPY0bfyI6pKD29gw",
+    "alias": "artesano-san-francisco-3",
+    "name": "Artesano",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LwhK6hmrg3bxdCDlhG3Eiw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/artesano-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 359,
+    "categories": [
+        {
+            "alias": "latin",
+            "title": "Latin American"
+        },
+        {
+            "alias": "peruvian",
+            "title": "Peruvian"
+        },
+        {
+            "alias": "comfortfood",
+            "title": "Comfort Food"
+        }
+    ],
+    "rating": 4,
+    "coordinates": {
+        "latitude": 37.786534,
+        "longitude": -122.450035
+    },
+    "transactions": [
+        "delivery",
+        "pickup"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "3415 California St",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94118",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "3415 California St",
+            "San Francisco, CA 94118"
+        ]
+    },
+    "phone": "+14152215500",
+    "display_phone": "(415) 221-5500",
+    "distance": 3090.5114248125
+},
+{
+    "id": "AoxdFkE06fQs_ZP0S0VRPw",
+    "alias": "hops-and-hominy-san-francisco",
+    "name": "Hops & Hominy",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4Z6aoVQ3fnpxdtKZyue1Ww/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/hops-and-hominy-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 2115,
+    "categories": [
+        {
+            "alias": "southern",
+            "title": "Southern"
+        },
+        {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+        },
+        {
+            "alias": "bars",
+            "title": "Bars"
+        }
+    ],
+    "rating": 4,
+    "coordinates": {
+        "latitude": 37.789312,
+        "longitude": -122.405731
+    },
+    "transactions": [
+        "delivery"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "1 Tillman Pl",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94108",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "1 Tillman Pl",
+            "San Francisco, CA 94108"
+        ]
+    },
+    "phone": "+14153736341",
+    "display_phone": "(415) 373-6341",
+    "distance": 4155.66872885112
+},
+{
+    "id": "KxZ-SSBjaVou-ED4zE06Zg",
+    "alias": "great-gold-san-francisco-2",
+    "name": "Great Gold",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nR1AtFhiBEQn9h7BxX2v4A/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/great-gold-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 79,
+    "categories": [
+        {
+            "alias": "italian",
+            "title": "Italian"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "rating": 4,
+    "coordinates": {
+        "latitude": 37.752349,
+        "longitude": -122.415498
+    },
+    "transactions": [
+        "delivery",
+        "pickup"
+    ],
+    "location": {
+        "address1": "3161 24th St",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94110",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "3161 24th St",
+            "San Francisco, CA 94110"
+        ]
+    },
+    "phone": "+14158297814",
+    "display_phone": "(415) 829-7814",
+    "distance": 2073.3569327145246
+    }
+  ]
+}

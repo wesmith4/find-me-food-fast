@@ -1,0 +1,930 @@
+{
+    "businesses": [
+        {
+        "id": "PTFxtXS47ZVRCdZIrEWvGw",
+        "alias": "golden-boy-pizza-san-francisco",
+        "name": "Golden Boy Pizza",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/F8OxoXdS51h2VfU9Je2cNQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/golden-boy-pizza-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 3525,
+        "categories": [
+            {
+                "alias": "pizza",
+                "title": "Pizza"
+            },
+            {
+                "alias": "italian",
+                "title": "Italian"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.7997956,
+            "longitude": -122.4080729
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "542 Green St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94133",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "542 Green St",
+                "San Francisco, CA 94133"
+            ]
+        },
+        "phone": "+14159829738",
+        "display_phone": "(415) 982-9738",
+        "distance": 4992.437696561071
+    },
+    {
+        "id": "__I9HmtBMV4dDkEgT22V4g",
+        "alias": "little-star-pizza-san-francisco",
+        "name": "Little Star Pizza",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ireHQCJ683Z2N_ftjkB-CQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/little-star-pizza-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 2873,
+        "categories": [
+            {
+                "alias": "pizza",
+                "title": "Pizza"
+            },
+            {
+                "alias": "italian",
+                "title": "Italian"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.77753,
+            "longitude": -122.43798
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "846 Divisadero St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94117",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "846 Divisadero St",
+                "San Francisco, CA 94117"
+            ]
+        },
+        "phone": "+14154411118",
+        "display_phone": "(415) 441-1118",
+        "distance": 1855.1637883138924
+    },
+    {
+        "id": "mSMZJj2pFvttWLpcDmgrEA",
+        "alias": "tonys-pizza-napoletana-san-francisco",
+        "name": "Tony's Pizza Napoletana",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rrBlePEDLrbD27VVE0Ze2A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/tonys-pizza-napoletana-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 5041,
+        "categories": [
+            {
+                "alias": "pizza",
+                "title": "Pizza"
+            },
+            {
+                "alias": "italian",
+                "title": "Italian"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.8003315377662,
+            "longitude": -122.409053979377
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1570 Stockton St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94133",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1570 Stockton St",
+                "San Francisco, CA 94133"
+            ]
+        },
+        "phone": "+14158359888",
+        "display_phone": "(415) 835-9888",
+        "distance": 5002.084940639829
+    },
+    {
+        "id": "QOpqNPKpClL48TVVrYobAw",
+        "alias": "pizzetta-211-san-francisco",
+        "name": "Pizzetta 211",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1uWcAal9dbi2iOvULeLI4w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/pizzetta-211-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 1260,
+        "categories": [
+            {
+                "alias": "pizza",
+                "title": "Pizza"
+            },
+            {
+                "alias": "salad",
+                "title": "Salad"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.783684,
+            "longitude": -122.482974
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "211 23rd Ave",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94121",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "211 23rd Ave",
+                "San Francisco, CA 94121"
+            ]
+        },
+        "phone": "+14153799880",
+        "display_phone": "(415) 379-9880",
+        "distance": 4810.639763875178
+    },
+    {
+        "id": "GNzoAOXPxP0UzW7fb51dNg",
+        "alias": "giorgios-pizzeria-san-francisco-5",
+        "name": "Giorgio's Pizzeria",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vU47fe1g2ikvJnntxcaA5w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/giorgios-pizzeria-san-francisco-5?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 1004,
+        "categories": [
+            {
+                "alias": "pizza",
+                "title": "Pizza"
+            },
+            {
+                "alias": "italian",
+                "title": "Italian"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.7829999120287,
+            "longitude": -122.461083021665
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "151 Clement St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94118",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "151 Clement St",
+                "San Francisco, CA 94118"
+            ]
+        },
+        "phone": "+14156681266",
+        "display_phone": "(415) 668-1266",
+        "distance": 3275.3472952500683
+    },
+    {
+        "id": "AQviX2W0XXJqYtc73KaNxQ",
+        "alias": "marcellos-pizza-san-francisco",
+        "name": "Marcello's Pizza",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7bK4YRHh0lrzWzpasQiWiw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/marcellos-pizza-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 711,
+        "categories": [
+            {
+                "alias": "pizza",
+                "title": "Pizza"
+            },
+            {
+                "alias": "burgers",
+                "title": "Burgers"
+            },
+            {
+                "alias": "chicken_wings",
+                "title": "Chicken Wings"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.76205,
+            "longitude": -122.43538
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "420 Castro St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94114",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "420 Castro St",
+                "San Francisco, CA 94114"
+            ]
+        },
+        "phone": "+14158633900",
+        "display_phone": "(415) 863-3900",
+        "distance": 161.11073127312395
+    },
+    {
+        "id": "IxDRIBkKtP-f24sr5zHAhQ",
+        "alias": "pink-onion-san-francisco",
+        "name": "Pink Onion",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8GtQUJi_GHlrng88Mv9TOQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/pink-onion-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 375,
+        "categories": [
+            {
+                "alias": "pizza",
+                "title": "Pizza"
+            },
+            {
+                "alias": "italian",
+                "title": "Italian"
+            },
+            {
+                "alias": "gastropubs",
+                "title": "Gastropubs"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.76871,
+            "longitude": -122.41482
+        },
+        "transactions": [
+            "restaurant_reservation",
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "64 14th St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94103",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "64 14th St",
+                "San Francisco, CA 94103"
+            ]
+        },
+        "phone": "+14155292635",
+        "display_phone": "(415) 529-2635",
+        "distance": 2089.2209574606563
+    },
+    {
+        "id": "OEBWAAJ3FmcseeP1oNwzBQ",
+        "alias": "capos-by-tony-gemignani-san-francisco",
+        "name": "Capo's by Tony Gemignani",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qQvR2bKVZGhKSlOv-xp4gA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/capos-by-tony-gemignani-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 807,
+        "categories": [
+            {
+                "alias": "italian",
+                "title": "Italian"
+            },
+            {
+                "alias": "pizza",
+                "title": "Pizza"
+            },
+            {
+                "alias": "whiskeybars",
+                "title": "Whiskey Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.7985156,
+            "longitude": -122.4084149
+        },
+        "transactions": [
+            "restaurant_reservation",
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "641 Vallejo St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94133",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "641 Vallejo St",
+                "San Francisco, CA 94133"
+            ]
+        },
+        "phone": "+14159868998",
+        "display_phone": "(415) 986-8998",
+        "distance": 4854.341794928763
+    },
+    {
+        "id": "iyo3pjuRb7mTpaDwXnAzuQ",
+        "alias": "square-pie-guys-san-francisco",
+        "name": "Square Pie Guys",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/usNRsp7QJryycWl3n5GZgQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/square-pie-guys-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 199,
+        "categories": [
+            {
+                "alias": "pizza",
+                "title": "Pizza"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.779479,
+            "longitude": -122.4103136
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1077 Mission St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94103",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1077 Mission St",
+                "San Francisco, CA 94103"
+            ]
+        },
+        "phone": "+14158729290",
+        "display_phone": "(415) 872-9290",
+        "distance": 3089.435041531639
+    },
+    {
+        "id": "KH_Tpzy29VRGIrtVhNFY2w",
+        "alias": "escape-from-new-york-pizza-san-francisco-3",
+        "name": "Escape From New York Pizza",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZHziQtdBkRuuV3zncw63Ng/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/escape-from-new-york-pizza-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 1098,
+        "categories": [
+            {
+                "alias": "pizza",
+                "title": "Pizza"
+            },
+            {
+                "alias": "gluten_free",
+                "title": "Gluten-Free"
+            },
+            {
+                "alias": "chicken_wings",
+                "title": "Chicken Wings"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.7694456,
+            "longitude": -122.4512722
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "1737 Haight St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94117",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1737 Haight St",
+                "San Francisco, CA 94117"
+            ]
+        },
+        "phone": "+14156685577",
+        "display_phone": "(415) 668-5577",
+        "distance": 1612.850067388551
+    },
+    {
+        "id": "L2vwqxuki-CiFU9neHxHhQ",
+        "alias": "slice-house-haight-by-tony-gemignani-san-francisco",
+        "name": "Slice House Haight by Tony Gemignani",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sTuPboYlWTmVfphoCU5pFw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/slice-house-haight-by-tony-gemignani-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 257,
+        "categories": [
+            {
+                "alias": "pizza",
+                "title": "Pizza"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.76963,
+            "longitude": -122.44754
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "1535 Haight St",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94117",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1535 Haight St",
+                "San Francisco, CA 94117"
+            ]
+        },
+        "phone": "+14155522520",
+        "display_phone": "(415) 552-2520",
+        "distance": 1389.3363288151697
+    },
+    {
+        "id": "fCXRcQ7avAaqlaTvgWMpAQ",
+        "alias": "il-casaro-pizzeria-and-mozzarella-bar-castro-san-francisco-3",
+        "name": "Il Casaro Pizzeria & Mozzarella Bar -  Castro",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PGHOlmVE9eefez6P6wRROg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/il-casaro-pizzeria-and-mozzarella-bar-castro-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 98,
+        "categories": [
+            {
+                "alias": "pizza",
+                "title": "Pizza"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            },
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.766951,
+            "longitude": -122.428641
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "235 Church St",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94114",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "235 Church St",
+                "San Francisco, CA 94114"
+            ]
+        },
+        "phone": "+14158759421",
+        "display_phone": "(415) 875-9421",
+        "distance": 959.0287520454607
+    },
+    {
+        "id": "I8T8aoAsFQYwQiRvLBayFA",
+        "alias": "il-casaro-pizzeria-and-mozzarella-bar-north-beach-location-san-francisco",
+        "name": "Il Casaro Pizzeria & Mozzarella Bar - North Beach Location",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ef3tF8ogJIycWxOd9cKCsw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/il-casaro-pizzeria-and-mozzarella-bar-north-beach-location-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 1139,
+        "categories": [
+            {
+                "alias": "italian",
+                "title": "Italian"
+            },
+            {
+                "alias": "pizza",
+                "title": "Pizza"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.79852,
+            "longitude": -122.40739
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "348 Columbus Ave",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94133",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "348 Columbus Ave",
+                "San Francisco, CA 94133"
+            ]
+        },
+        "phone": "+14156779455",
+        "display_phone": "(415) 677-9455",
+        "distance": 4901.8974228210545
+    },
+    {
+        "id": "bai6umLcCNy9cXql0Js2RQ",
+        "alias": "pizzeria-delfina-mission-san-francisco",
+        "name": "Pizzeria Delfina - Mission",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mXfuUNiaoGaeg7ra4IgcJQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/pizzeria-delfina-mission-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 2283,
+        "categories": [
+            {
+                "alias": "pizza",
+                "title": "Pizza"
+            },
+            {
+                "alias": "italian",
+                "title": "Italian"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.7614143,
+            "longitude": -122.4242316
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "3611 18th St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94110",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "3611 18th St",
+                "San Francisco, CA 94110"
+            ]
+        },
+        "phone": "+14154376800",
+        "display_phone": "(415) 437-6800",
+        "distance": 1075.3609253950508
+    },
+    {
+        "id": "OoyK7MyuPtKOQAXmEmyM5g",
+        "alias": "little-star-pizza-san-francisco-4",
+        "name": "Little Star Pizza",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/T7AGG4yUrbN4KFj097VOdA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/little-star-pizza-san-francisco-4?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 2062,
+        "categories": [
+            {
+                "alias": "pizza",
+                "title": "Pizza"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            },
+            {
+                "alias": "italian",
+                "title": "Italian"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.7662598870271,
+            "longitude": -122.422120973633
+        },
+        "transactions": [
+            "restaurant_reservation",
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "400 Valencia St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94103",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "400 Valencia St",
+                "San Francisco, CA 94103"
+            ]
+        },
+        "phone": "+14155517827",
+        "display_phone": "(415) 551-7827",
+        "distance": 1393.2726363370105
+    },
+    {
+        "id": "wPJjpOZ0mnsajJLBkWUnwA",
+        "alias": "pizzeria-delfina-pacific-heights-san-francisco",
+        "name": "Pizzeria Delfina - Pacific Heights",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BkQ4nQPb5jpIm6BAa7xBAw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/pizzeria-delfina-pacific-heights-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 1471,
+        "categories": [
+            {
+                "alias": "pizza",
+                "title": "Pizza"
+            },
+            {
+                "alias": "italian",
+                "title": "Italian"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.789104,
+            "longitude": -122.434441
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "2406 California St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94115",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "2406 California St",
+                "San Francisco, CA 94115"
+            ]
+        },
+        "phone": "+14154401189",
+        "display_phone": "(415) 440-1189",
+        "distance": 3141.158696783746
+    },
+    {
+        "id": "cIkwt0L2Xsp8tzGL0uKajg",
+        "alias": "pizzahacker-san-francisco-4",
+        "name": "Pizzahacker",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fx2PMf2rNoXwT_BAN5HU2A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/pizzahacker-san-francisco-4?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 335,
+        "categories": [
+            {
+                "alias": "pizza",
+                "title": "Pizza"
+            },
+            {
+                "alias": "italian",
+                "title": "Italian"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.74403,
+            "longitude": -122.42047
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "3299 Mission St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94110",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "3299 Mission St",
+                "San Francisco, CA 94110"
+            ]
+        },
+        "phone": "+14152362500",
+        "display_phone": "(415) 236-2500",
+        "distance": 2336.5514564713794
+    },
+    {
+        "id": "QjnmVuqVArA7d-syiUCiUw",
+        "alias": "arinell-pizza-san-francisco",
+        "name": "Arinell Pizza",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/V8KOHsMSZKy6qA-72nusdA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/arinell-pizza-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 1163,
+        "categories": [
+            {
+                "alias": "pizza",
+                "title": "Pizza"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.7646907195257,
+            "longitude": -122.421712145927
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "509 Valencia St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94110",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "509 Valencia St",
+                "San Francisco, CA 94110"
+            ]
+        },
+        "phone": "+14152551303",
+        "display_phone": "(415) 255-1303",
+        "distance": 1362.1639642253808
+    },
+    {
+        "id": "9acPdpguULGPbChPwpS3aw",
+        "alias": "ragazza-san-francisco",
+        "name": "Ragazza",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GtHPmSQffPr7zuppDVgh7A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ragazza-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 664,
+        "categories": [
+            {
+                "alias": "italian",
+                "title": "Italian"
+            },
+            {
+                "alias": "pizza",
+                "title": "Pizza"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.772476,
+            "longitude": -122.437473
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "311 Divisadero St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94117",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "311 Divisadero St",
+                "San Francisco, CA 94117"
+            ]
+        },
+        "phone": "+14152551133",
+        "display_phone": "(415) 255-1133",
+        "distance": 1290.4133984521532
+    },
+    {
+        "id": "chZfJOs022rr8DufI4r3Uw",
+        "alias": "mozzeria-san-francisco",
+        "name": "Mozzeria",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zxdvXGgc119-M7EBk_R2jg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mozzeria-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 796,
+        "categories": [
+            {
+                "alias": "pizza",
+                "title": "Pizza"
+            },
+            {
+                "alias": "italian",
+                "title": "Italian"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.76489,
+            "longitude": -122.42488
+        },
+        "transactions": [
+            "restaurant_reservation",
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "3228 16th St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94103",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "3228 16th St",
+                "San Francisco, CA 94103"
+            ]
+        },
+        "phone": "+14154890963",
+        "display_phone": "(415) 489-0963",
+        "distance": 1118.7707644921295
+    }
+  ]
+}

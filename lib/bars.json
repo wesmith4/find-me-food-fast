@@ -1,0 +1,895 @@
+{
+    "businesses": [
+        {
+            "id": "QHEvjDuIQc7ebYpEaB_TjA",
+            "alias": "rooftop-25-san-francisco-2",
+            "name": "Rooftop 25",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wTnsap_XlLTsqglyfH-eDg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/rooftop-25-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+            "review_count": 161,
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.77851,
+                "longitude": -122.39432
+            },
+            "transactions": [
+                "restaurant_reservation",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "25 Lusk St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94107",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "25 Lusk St",
+                    "San Francisco, CA 94107"
+                ]
+            },
+            "phone": "+14154955875",
+            "display_phone": "(415) 495-5875",
+            "distance": 4186.859438105963
+        },
+        {
+            "id": "oGJGphVqSxypg4P6C6-gYA",
+            "alias": "bar-821-san-francisco",
+            "name": "Bar 821",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8bJa2Zkc5e-UQQ_Y8p3NDA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bar-821-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+            "review_count": 372,
+            "categories": [
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.777048,
+                "longitude": -122.4386
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "821 Divisadero St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94117",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "821 Divisadero St",
+                    "San Francisco, CA 94117"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1805.58500782788
+        },
+        {
+            "id": "YbUD7-Z2Be5thHaybd7ssQ",
+            "alias": "alchemist-bar-and-lounge-san-francisco",
+            "name": "Alchemist Bar & Lounge",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YM3E3DMIiqFWhnLy2ZHvQw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/alchemist-bar-and-lounge-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+            "review_count": 411,
+            "categories": [
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.7791800203336,
+                "longitude": -122.392967912689
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "679 3rd St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94107",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "679 3rd St",
+                    "San Francisco, CA 94107"
+                ]
+            },
+            "phone": "+14157469968",
+            "display_phone": "(415) 746-9968",
+            "distance": 4328.646161272035
+        },
+        {
+            "id": "15g05u3vgH1CZipI1eIeUA",
+            "alias": "smugglers-cove-san-francisco",
+            "name": "Smuggler's Cove",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6wOFFDisCF5XJTaH2dZvrQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/smugglers-cove-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+            "review_count": 1743,
+            "categories": [
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                },
+                {
+                    "alias": "tikibars",
+                    "title": "Tiki Bars"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.77945,
+                "longitude": -122.42327
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "650 Gough St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94102",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "650 Gough St",
+                    "San Francisco, CA 94102"
+                ]
+            },
+            "phone": "+14158691900",
+            "display_phone": "(415) 869-1900",
+            "distance": 2373.935104399334
+        },
+        {
+            "id": "XiB2DFy_gRhhuBYfHZk91w",
+            "alias": "fireside-bar-san-francisco",
+            "name": "Fireside Bar",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ya9cJTdSjeWqInDdZVljsQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fireside-bar-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+            "review_count": 310,
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.7639,
+                "longitude": -122.46447
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "603 Irving St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94122",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "603 Irving St",
+                    "San Francisco, CA 94122"
+                ]
+            },
+            "phone": "+14157316433",
+            "display_phone": "(415) 731-6433",
+            "distance": 2485.494660805609
+        },
+        {
+            "id": "aud84H-NpMx3opWPtLX-vg",
+            "alias": "bourbon-and-branch-san-francisco",
+            "name": "Bourbon & Branch",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3bNt1EquRx99QRhsjzf8Ww/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bourbon-and-branch-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+            "review_count": 3126,
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                },
+                {
+                    "alias": "speakeasies",
+                    "title": "Speakeasies"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.78592,
+                "longitude": -122.41336
+            },
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "501 Jones St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94102",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "501 Jones St",
+                    "San Francisco, CA 94102"
+                ]
+            },
+            "phone": "+14153461735",
+            "display_phone": "(415) 346-1735",
+            "distance": 3453.0238262024345
+        },
+        {
+            "id": "LlLK8GP0MOjLsogfvuoT_A",
+            "alias": "lost-and-found-san-francisco",
+            "name": "Lost and Found",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/q0fKxIB-61VvKg7vJhwvdw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lost-and-found-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+            "review_count": 58,
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.742579,
+                "longitude": -122.481807
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1439 Taraval St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94116",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1439 Taraval St",
+                    "San Francisco, CA 94116"
+                ]
+            },
+            "phone": "+14156623636",
+            "display_phone": "(415) 662-3636",
+            "distance": 4478.148897476419
+        },
+        {
+            "id": "_hOVIgjVRl_HzvLaa65KJg",
+            "alias": "the-snug-san-francisco",
+            "name": "The Snug",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/a-wxpvrLKUQWAvpWp9BFFQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-snug-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+            "review_count": 190,
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.79094,
+                "longitude": -122.43443
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2301 Fillmore St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94115",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2301 Fillmore St",
+                    "San Francisco, CA 94115"
+                ]
+            },
+            "phone": "+14155625092",
+            "display_phone": "(415) 562-5092",
+            "distance": 3342.887795851584
+        },
+        {
+            "id": "i8u-gZerQFDIWBs75KaJbg",
+            "alias": "pagan-idol-san-francisco",
+            "name": "Pagan Idol",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wVqZAWZuZTSBx4_6nXv_nQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pagan-idol-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+            "review_count": 613,
+            "categories": [
+                {
+                    "alias": "tikibars",
+                    "title": "Tiki Bars"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.7906907,
+                "longitude": -122.4034515
+            },
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "375 Bush St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94104",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "375 Bush St",
+                    "San Francisco, CA 94104"
+                ]
+            },
+            "phone": "+14159856375",
+            "display_phone": "(415) 985-6375",
+            "distance": 4391.743387403405
+        },
+        {
+            "id": "GpryJU-dHyn982jYbGNu6A",
+            "alias": "zam-zam-san-francisco",
+            "name": "Zam Zam",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FqXXJV4cuYhY7KOZ8lhLLQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/zam-zam-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+            "review_count": 367,
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.76953125,
+                "longitude": -122.449371337891
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1633 Haight St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94117",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1633 Haight St",
+                    "San Francisco, CA 94117"
+                ]
+            },
+            "phone": "+14158612545",
+            "display_phone": "(415) 861-2545",
+            "distance": 1488.1974226296163
+        },
+        {
+            "id": "lOCewxz6QNegZbArImNBfw",
+            "alias": "the-view-lounge-san-francisco",
+            "name": "The View Lounge",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pfRrawoQTszGUue7H07w-A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-view-lounge-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+            "review_count": 1763,
+            "categories": [
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.7853662725987,
+                "longitude": -122.404355941664
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "780 Mission St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94103",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "780 Mission St",
+                    "San Francisco, CA 94103"
+                ]
+            },
+            "phone": "+14158961600",
+            "display_phone": "(415) 896-1600",
+            "distance": 3918.8473317985818
+        },
+        {
+            "id": "jp4X-7QjdffRBab9XMf2Bg",
+            "alias": "local-edition-san-francisco",
+            "name": "Local Edition",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/TchgMkux5UUyJGuqn7fOJQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/local-edition-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+            "review_count": 1619,
+            "categories": [
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "whiskeybars",
+                    "title": "Whiskey Bars"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.78759,
+                "longitude": -122.4031601
+            },
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "691 Market St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94105",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "691 Market St",
+                    "San Francisco, CA 94105"
+                ]
+            },
+            "phone": "+14157951375",
+            "display_phone": "(415) 795-1375",
+            "distance": 4166.178997924782
+        },
+        {
+            "id": "YMhvS3UrNY3Ft69IADFvvg",
+            "alias": "tiki-haven-san-francisco",
+            "name": "Tiki Haven",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PKtOjXHRUWBmbvzrCGuCyw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tiki-haven-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+            "review_count": 182,
+            "categories": [
+                {
+                    "alias": "tikibars",
+                    "title": "Tiki Bars"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.75438,
+                "longitude": -122.47814
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1334 Noriega St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94122",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1334 Noriega St",
+                    "San Francisco, CA 94122"
+                ]
+            },
+            "phone": "+14157313757",
+            "display_phone": "(415) 731-3757",
+            "distance": 3742.376924552885
+        },
+        {
+            "id": "loo6obEjNPGZwOJfhKTKNQ",
+            "alias": "tradr-sam-san-francisco-2",
+            "name": "Trad'r Sam",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9Y-DfxJCEo4wmEgZgGT3LQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tradr-sam-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+            "review_count": 986,
+            "categories": [
+                {
+                    "alias": "divebars",
+                    "title": "Dive Bars"
+                },
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                },
+                {
+                    "alias": "tikibars",
+                    "title": "Tiki Bars"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.7803573608398,
+                "longitude": -122.485649108887
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "6150 Geary Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94121",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "6150 Geary Blvd",
+                    "San Francisco, CA 94121"
+                ]
+            },
+            "phone": "+14152210773",
+            "display_phone": "(415) 221-0773",
+            "distance": 4837.395214521871
+        },
+        {
+            "id": "Y6SAopp28TD6-dwdVO9ZCQ",
+            "alias": "zombie-village-san-francisco-2",
+            "name": "Zombie Village",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/x8auWCVsBmU-2bGMjBJ3EQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/zombie-village-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+            "review_count": 218,
+            "categories": [
+                {
+                    "alias": "tikibars",
+                    "title": "Tiki Bars"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.78555,
+                "longitude": -122.41312
+            },
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "441 Jones St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94102",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "441 Jones St",
+                    "San Francisco, CA 94102"
+                ]
+            },
+            "phone": "+14154742284",
+            "display_phone": "(415) 474-2284",
+            "distance": 3416.652483004041
+        },
+        {
+            "id": "IHag8Alsxf1VAkfyHNGFug",
+            "alias": "last-rites-san-francisco-3",
+            "name": "Last Rites",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pDVWt2nxua_3-MwekhmVWQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/last-rites-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+            "review_count": 184,
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "tikibars",
+                    "title": "Tiki Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.76792,
+                "longitude": -122.42943
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "718 14th St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94114",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "718 14th St",
+                    "San Francisco, CA 94114"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 994.112309888842
+        },
+        {
+            "id": "f8fYPWuRB4o225YjPEjq8w",
+            "alias": "the-alembic-san-francisco",
+            "name": "The Alembic",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wapDPGGbJBMTzSG8PmCMPg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-alembic-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+            "review_count": 1673,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.769371,
+                "longitude": -122.451176
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1725 Haight St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94117",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1725 Haight St",
+                    "San Francisco, CA 94117"
+                ]
+            },
+            "phone": "+14156660822",
+            "display_phone": "(415) 666-0822",
+            "distance": 1601.1315020600518
+        },
+        {
+            "id": "DLjqwgeEd4BxZT7qJKvWUw",
+            "alias": "the-pawn-shop-san-francisco",
+            "name": "The Pawn Shop",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/X0jMCkLRLsjz6Hw5lmEPmQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-pawn-shop-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+            "review_count": 229,
+            "categories": [
+                {
+                    "alias": "speakeasies",
+                    "title": "Speakeasies"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "tapas",
+                    "title": "Tapas Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.78106,
+                "longitude": -122.40834
+            },
+            "transactions": [
+                "restaurant_reservation",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "993 Mission St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94103",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "993 Mission St",
+                    "San Francisco, CA 94103"
+                ]
+            },
+            "phone": "+14158748041",
+            "display_phone": "(415) 874-8041",
+            "distance": 3327.604471930507
+        },
+        {
+            "id": "JDAXKz1T76--VLeJLUIaPQ",
+            "alias": "the-saloon-san-francisco",
+            "name": "The Saloon",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/o29Gkm7JJ5VLIZeqiyh3dg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-saloon-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+            "review_count": 464,
+            "categories": [
+                {
+                    "alias": "jazzandblues",
+                    "title": "Jazz & Blues"
+                },
+                {
+                    "alias": "divebars",
+                    "title": "Dive Bars"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.79855,
+                "longitude": -122.40704
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1232 Grant Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94133",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1232 Grant Ave",
+                    "San Francisco, CA 94133"
+                ]
+            },
+            "phone": "+14159897666",
+            "display_phone": "(415) 989-7666",
+            "distance": 4924.284090758665
+        },
+        {
+            "id": "cX5dOMkwZ5rqWbeIJpw_Ig",
+            "alias": "novela-san-francisco-2",
+            "name": "Novela",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_NV8WfJ5SM57b_IQ0CFuIw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/novela-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+            "review_count": 1081,
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 37.787047,
+                "longitude": -122.401239
+            },
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "662 Mission St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94105",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "662 Mission St",
+                    "San Francisco, CA 94105"
+                ]
+            },
+            "phone": "+14158966500",
+            "display_phone": "(415) 896-6500",
+            "distance": 4246.111787375533
+        }
+    ],
+    "total": 1700,
+    "region": {
+        "center": {
+            "longitude": -122.43644714355469,
+            "latitude": 37.76089938976322
+        }
+    }
+}
