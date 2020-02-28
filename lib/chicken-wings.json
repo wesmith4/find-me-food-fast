@@ -1,0 +1,880 @@
+{
+  "businesses": [
+    {
+      "id": "NwqdohySKrDnK0RsAde9UA",
+      "alias": "hot-sauce-and-panko-san-francisco",
+      "name": "Hot Sauce and Panko",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fBs8B6-y9OFSPtvMHoFrsw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/hot-sauce-and-panko-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 1118,
+      "categories": [
+          {
+              "alias": "chicken_wings",
+              "title": "Chicken Wings"
+          },
+          {
+              "alias": "gourmet",
+              "title": "Specialty Food"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.7945165216685,
+          "longitude": -122.417876198887
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "1468 Hyde St",
+          "address2": null,
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94109",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "1468 Hyde St",
+              "San Francisco, CA 94109"
+          ]
+      },
+      "phone": "+14153591908",
+      "display_phone": "(415) 359-1908",
+      "distance": 4078.842386458735
+    },
+    {
+      "id": "M0JTO3oyu6gxh1mfFjU-dA",
+      "alias": "san-tung-san-francisco-2",
+      "name": "San Tung",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pvWRWivkeyGy7g7UF9Me1g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/san-tung-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 6827,
+      "categories": [
+          {
+              "alias": "chinese",
+              "title": "Chinese"
+          },
+          {
+              "alias": "chicken_wings",
+              "title": "Chicken Wings"
+          },
+          {
+              "alias": "noodles",
+              "title": "Noodles"
+          }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+          "latitude": 37.763693,
+          "longitude": -122.469008
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "1031 Irving St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94122",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "1031 Irving St",
+              "San Francisco, CA 94122"
+          ]
+      },
+      "phone": "+14152420828",
+      "display_phone": "(415) 242-0828",
+      "distance": 2877.9920007894843
+    },
+    {
+      "id": "vVZRmqx4IYijzva5K_1sGg",
+      "alias": "halal-wings-plus-san-francisco-2",
+      "name": "Halal Wings Plus",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iHSM7pg64t6cAmW4fDRbig/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/halal-wings-plus-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 448,
+      "categories": [
+          {
+              "alias": "burgers",
+              "title": "Burgers"
+          },
+          {
+              "alias": "chicken_wings",
+              "title": "Chicken Wings"
+          },
+          {
+              "alias": "halal",
+              "title": "Halal"
+          }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+          "latitude": 37.7862701416016,
+          "longitude": -122.413299560547
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "533 Jones St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94102",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "533 Jones St",
+              "San Francisco, CA 94102"
+          ]
+      },
+      "phone": "+14154407786",
+      "display_phone": "(415) 440-7786",
+      "distance": 3478.0529438128583
+    },
+    {
+      "id": "jGkT_zvznKwDB5UTPBNAvA",
+      "alias": "foghorn-taproom-san-francisco",
+      "name": "Foghorn Taproom",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bulaJCeR-pXAI4bDkvc0Tg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/foghorn-taproom-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 53,
+      "categories": [
+          {
+              "alias": "chicken_wings",
+              "title": "Chicken Wings"
+          },
+          {
+              "alias": "beerbar",
+              "title": "Beer Bar"
+          }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+          "latitude": 37.7774365298327,
+          "longitude": -122.463818415999
+      },
+      "transactions": [
+          "delivery",
+          "pickup"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "450 Balboa St",
+          "address2": "",
+          "address3": null,
+          "city": "San Francisco",
+          "zip_code": "94118",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "450 Balboa St",
+              "San Francisco, CA 94118"
+          ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 3028.1312709220565
+    },
+    {
+      "id": "Ajk2gkJzMzl5rjkhSVTsPw",
+      "alias": "after-hours-san-francisco-2",
+      "name": "After Hours",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pNgS799R6U-Ydb8H6_r2bg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/after-hours-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 111,
+      "categories": [
+          {
+              "alias": "sportsbars",
+              "title": "Sports Bars"
+          },
+          {
+              "alias": "chicken_wings",
+              "title": "Chicken Wings"
+          },
+          {
+              "alias": "burgers",
+              "title": "Burgers"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.74227,
+          "longitude": -122.49901
+      },
+      "transactions": [
+          "delivery",
+          "pickup"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "3044 Taraval St",
+          "address2": null,
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94116",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "3044 Taraval St",
+              "San Francisco, CA 94116"
+          ]
+      },
+      "phone": "+14158904618",
+      "display_phone": "(415) 890-4618",
+      "distance": 5874.8612612741645
+      },
+      {
+        "id": "c7oErwrhdsk3tL4vR9EC1w",
+        "alias": "the-brew-coop-san-francisco-2",
+        "name": "The Brew Coop",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eQto6kNODtq0Lxj4Bhvlog/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-brew-coop-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 216,
+        "categories": [
+            {
+                "alias": "beerbar",
+                "title": "Beer Bar"
+            },
+            {
+                "alias": "sportsbars",
+                "title": "Sports Bars"
+            },
+            {
+                "alias": "chicken_wings",
+                "title": "Chicken Wings"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.75976,
+            "longitude": -122.42111
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "819 Valencia St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94110",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "819 Valencia St",
+                "San Francisco, CA 94110"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 1345.538592581673
+    },
+    {
+        "id": "gcdiumG5hmCUyYWe6sWMTg",
+        "alias": "krispy-krunchy-chicken-san-francisco-5",
+        "name": "Krispy Krunchy Chicken",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Qlcrs47ENBYPW1CnUFliBg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/krispy-krunchy-chicken-san-francisco-5?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 21,
+        "categories": [
+            {
+                "alias": "chicken_wings",
+                "title": "Chicken Wings"
+            },
+            {
+                "alias": "chickenshop",
+                "title": "Chicken Shop"
+            },
+            {
+                "alias": "cajun",
+                "title": "Cajun/Creole"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.808241,
+            "longitude": -122.413969
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "2660 Mason St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94133",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "2660 Mason St",
+                "San Francisco, CA 94133"
+            ]
+        },
+        "phone": "+14158008637",
+        "display_phone": "(415) 800-8637",
+        "distance": 5622.566797183106
+    },
+    {
+        "id": "OX8K4jtYDCNjI50Tbc3V2g",
+        "alias": "bonchon-south-san-francisco-south-san-francisco-3",
+        "name": "Bonchon - South San Francisco",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Jr9BkxMIIs2EaDp_raU5Kg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bonchon-south-san-francisco-south-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 673,
+        "categories": [
+            {
+                "alias": "chicken_wings",
+                "title": "Chicken Wings"
+            },
+            {
+                "alias": "korean",
+                "title": "Korean"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 37.64498,
+            "longitude": -122.452646
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "2278 Westborough Blvd",
+            "address2": "Ste 208",
+            "address3": "",
+            "city": "South San Francisco",
+            "zip_code": "94080",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "2278 Westborough Blvd",
+                "Ste 208",
+                "South San Francisco, CA 94080"
+            ]
+        },
+        "phone": "+16506364192",
+        "display_phone": "(650) 636-4192",
+        "distance": 12968.17710483726
+    },
+    {
+        "id": "CMtyvEPu1PAlnXxebsc40g",
+        "alias": "wing-wings-san-francisco",
+        "name": "Wing Wings",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/irefinVnf3Ll3iHhuWbB8w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/wing-wings-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 515,
+        "categories": [
+            {
+                "alias": "chicken_wings",
+                "title": "Chicken Wings"
+            },
+            {
+                "alias": "desserts",
+                "title": "Desserts"
+            },
+            {
+                "alias": "bbq",
+                "title": "Barbeque"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 37.77249,
+            "longitude": -122.42926
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "422 Haight St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94117",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "422 Haight St",
+                "San Francisco, CA 94117"
+            ]
+        },
+        "phone": "+14158345001",
+        "display_phone": "(415) 834-5001",
+        "distance": 1427.572693088236
+    },
+    {
+        "id": "QJkCKxD1Hf4h3jPzxVT03w",
+        "alias": "fire-wings-berkeley",
+        "name": "Fire Wings",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Mcfx9-cx8I5t0kulNNaXMQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/fire-wings-berkeley?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 285,
+        "categories": [
+            {
+                "alias": "chicken_wings",
+                "title": "Chicken Wings"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.8715777,
+            "longitude": -122.2679815
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "64 Shattuck Square",
+            "address2": "Ste D",
+            "address3": null,
+            "city": "Berkeley",
+            "zip_code": "94704",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "64 Shattuck Square",
+                "Ste D",
+                "Berkeley, CA 94704"
+            ]
+        },
+        "phone": "+15102805743",
+        "display_phone": "(510) 280-5743",
+        "distance": 19247.048439952163
+    },
+    {
+        "id": "jRHLPjW8NbaPrAEFwYpw7Q",
+        "alias": "new-golden-daisy-san-francisco",
+        "name": "New Golden Daisy",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/U8cWaVaK_Q-xQaIU5HPU6w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/new-golden-daisy-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 218,
+        "categories": [
+            {
+                "alias": "delis",
+                "title": "Delis"
+            },
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "chicken_wings",
+                "title": "Chicken Wings"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.79554,
+            "longitude": -122.40848
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "1041 Stockton St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94108",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1041 Stockton St",
+                "San Francisco, CA 94108"
+            ]
+        },
+        "phone": "+14153920111",
+        "display_phone": "(415) 392-0111",
+        "distance": 4571.6294218317935
+    },
+    {
+        "id": "oINcZKqhmB_sS-pv2z9IeA",
+        "alias": "wei-guo-house-san-francisco",
+        "name": "Wei Guo House",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GAkOF8GucB7A5we-b_WD_g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/wei-guo-house-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 21,
+        "categories": [
+            {
+                "alias": "dimsum",
+                "title": "Dim Sum"
+            },
+            {
+                "alias": "cantonese",
+                "title": "Cantonese"
+            },
+            {
+                "alias": "chicken_wings",
+                "title": "Chicken Wings"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.78104,
+            "longitude": -122.45985
+        },
+        "transactions": [
+            "restaurant_reservation",
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "3751 Geary Blvd",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94118",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "3751 Geary Blvd",
+                "San Francisco, CA 94118"
+            ]
+        },
+        "phone": "+14156681588",
+        "display_phone": "(415) 668-1588",
+        "distance": 3044.0962096709827
+    },
+    {
+        "id": "OQgD-j8BOxUmcjogvMJMTA",
+        "alias": "krispy-krunchy-chicken-san-francisco-2",
+        "name": "Krispy Krunchy Chicken",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NptcKMlFxvMZyg8J5PNWRg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/krispy-krunchy-chicken-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 68,
+        "categories": [
+            {
+                "alias": "chicken_wings",
+                "title": "Chicken Wings"
+            },
+            {
+                "alias": "hotdogs",
+                "title": "Fast Food"
+            },
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.7367491,
+            "longitude": -122.3896779
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "4517 3rd St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94124",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "4517 3rd St",
+                "San Francisco, CA 94124"
+            ]
+        },
+        "phone": "+14158749463",
+        "display_phone": "(415) 874-9463",
+        "distance": 4911.232669456598
+    },
+    {
+        "id": "KA-P3d2NcbJy5SQN-vCzPA",
+        "alias": "aria-korean-street-food-san-francisco",
+        "name": "Aria Korean Street Food",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mds9XNCBtfpBVglUt0ducw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/aria-korean-street-food-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 732,
+        "categories": [
+            {
+                "alias": "korean",
+                "title": "Korean"
+            },
+            {
+                "alias": "tapasmallplates",
+                "title": "Tapas/Small Plates"
+            },
+            {
+                "alias": "chickenshop",
+                "title": "Chicken Shop"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.78655,
+            "longitude": -122.41795
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "932 Larkin St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94109",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "932 Larkin St",
+                "San Francisco, CA 94109"
+            ]
+        },
+        "phone": "+14152926914",
+        "display_phone": "(415) 292-6914",
+        "distance": 3283.920698230426
+    },
+    {
+        "id": "WOVHQYzSAdyXYOiYDTmujQ",
+        "alias": "the-bird-san-francisco",
+        "name": "The Bird",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/swsVh8zitzh6gipKB4zaUA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-bird-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 1752,
+        "categories": [
+            {
+                "alias": "chickenshop",
+                "title": "Chicken Shop"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.78724,
+            "longitude": -122.39995
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "115 New Montgomery St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94105",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "115 New Montgomery St",
+                "San Francisco, CA 94105"
+            ]
+        },
+        "phone": "+14158729825",
+        "display_phone": "(415) 872-9825",
+        "distance": 4334.402024411518
+    },
+    {
+        "id": "39ZcHCW23PhvW4pUhRTNOA",
+        "alias": "wingstop-daly-city",
+        "name": "Wingstop",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YMk2KPJ9WT6qamDftAhpbA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/wingstop-daly-city?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 756,
+        "categories": [
+            {
+                "alias": "chicken_wings",
+                "title": "Chicken Wings"
+            }
+        ],
+        "rating": 2.0,
+        "coordinates": {
+            "latitude": 37.6996548410454,
+            "longitude": -122.483889613967
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "227 Lake Merced Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Daly City",
+            "zip_code": "94015",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "227 Lake Merced Blvd",
+                "Daly City, CA 94015"
+            ]
+        },
+        "phone": "+16507559464",
+        "display_phone": "(650) 755-9464",
+        "distance": 7986.554295694721
+    },
+    {
+        "id": "Dx8EzXCkyLh38dABk19FxA",
+        "alias": "changs-kitchen-san-francisco",
+        "name": "Chang's Kitchen",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LTWGvGgeVAv-z_R9ql4g6w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/changs-kitchen-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 565,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.76417,
+            "longitude": -122.46905
+        },
+        "transactions": [
+            "restaurant_reservation",
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1030 Irving St",
+            "address2": null,
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94122",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1030 Irving St",
+                "San Francisco, CA 94122"
+            ]
+        },
+        "phone": "+14157318110",
+        "display_phone": "(415) 731-8110",
+        "distance": 2891.1310110477116
+    },
+    {
+        "id": "NALGvldJEL8UUDwhOJ2C3w",
+        "alias": "glowing-san-francisco-2",
+        "name": "GloWing",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2fy2jrRTib-Otrzs4CvJoA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/glowing-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 90,
+        "categories": [
+            {
+                "alias": "chicken_wings",
+                "title": "Chicken Wings"
+            },
+            {
+                "alias": "hotdogs",
+                "title": "Fast Food"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 37.7281172706668,
+            "longitude": -122.477182798616
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "location": {
+            "address1": "3251 20th Ave",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94132",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "3251 20th Ave",
+                "San Francisco, CA 94132"
+            ]
+        },
+        "phone": "+14156666408",
+        "display_phone": "(415) 666-6408",
+        "distance": 5110.435618728464
+    },
+    {
+        "id": "STfVQ1WLzqOUhQM5KKHCUA",
+        "alias": "holy-cluck-san-francisco",
+        "name": "Holy Cluck",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/U-ZoOtu5NosIi33SppmUAg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/holy-cluck-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 13,
+        "categories": [
+            {
+                "alias": "chicken_wings",
+                "title": "Chicken Wings"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 37.7507864755191,
+            "longitude": -122.395399319221
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "1760 Missouri St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94124",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1760 Missouri St",
+                "San Francisco, CA 94124"
+            ]
+        },
+        "phone": "+14153192582",
+        "display_phone": "(415) 319-2582",
+        "distance": 3826.3430480927245
+    }
+  ]
+}
