@@ -27,28 +27,37 @@ app.engine('hbs', handlebars({
 app.use(express.static('public'));
 
 let fakeYelpAPI = () => {
-  return [
+  let list = [
     {
-      restaurant: 'Fish and Farm',
+      name: 'Fish and Farm',
+      city: 'San Francisco',
+      cuisine: 'Seafood',
+      neighborhood: 'Chinatown',
+      price: '$$$',
+      ritual: 'Yes',
+    },
+    {
+      name: 'Irving Subs',
+      city: 'San Francisco',
+      price: '$',
+      cuisine: 'Sandwiches',
+      ritual: 'Yes',
+      neighborhood: 'Chinatown',
+    },
+    {
+      name: 'International Smoke',
       city: 'San Francisco',
     },
     {
-      restaurant: 'Demitri\'s BBQ',
-      city: 'Homewood',
-    },
-    {
-      restaurant: 'International Smoke',
-      city: 'San Francisco',
-    },
-    {
-      restaurant: 'Price\'s Chicken Coop',
+      name: 'Price\'s Chicken Coop',
       city: 'Charlotte',
     },
-  ]
+  ];
+  return list;
 };
 
 
-app.get('/', (req, res) => {
+app.get('/search', (req, res) => {
   // Serves the body of the page to the container
   // filters.push(req.query);
   let filters = req.query.filters;
@@ -72,6 +81,41 @@ app.get('/', (req, res) => {
 
   res.render('main', format);
 });
+
+app.get('/results', (req, res) => {
+  let preferences = req.query;
+  console.log(preferences);
+  console.log(preferences.hasOwnProperty('neighborhood'));
+
+  let results = fakeYelpAPI().filter(restaurant => {
+    let checksOut = true;
+    for (let preference in preferences) {
+      if (preferences.hasOwnProperty(preference)) {
+        if (restaurant[preference] !== preferences[preference]) {
+          checksOut = false;
+        }
+      }
+    }
+    return checksOut;
+  })
+
+  let format = {
+    layout: 'index',
+    preferences: preferences,
+    results: results,
+
+  }
+
+  for (let item in preferences) {
+    if (preferences.hasOwnProperty(item)) {
+      format[item] = preferences[item];
+    }
+  }
+  console.log(format);
+
+  res.render('resultPage', format);
+});
+
 
 
 
