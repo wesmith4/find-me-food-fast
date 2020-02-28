@@ -1,3 +1,16 @@
+// HEROKU STUFF
+const http = require('http');
+const port = process.env.PORT || 3000;
+
+/* const server = http.createServer((req, res) => {
+  res.statusCode = 200;
+  res.setHeader('Content-Type', 'text/html');
+  res.end('<h1>Hello World</h1>');
+}); */
+
+
+
+
 // Load express module
 const express = require('express');
 const fs = require('fs');
@@ -6,7 +19,7 @@ const fs = require('fs');
 const app = express();
 
 // Define port
-const port = 3000;
+// const port = 3000;
 
 // Serve static files (needed to import CSS file)
 app.use(express.static('public'));
