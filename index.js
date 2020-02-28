@@ -26,35 +26,6 @@ app.engine('hbs', handlebars({
 
 app.use(express.static('public'));
 
-let fakeYelpAPI = () => {
-  let list = [
-    {
-      name: 'Fish and Farm',
-      city: 'San Francisco',
-      cuisine: 'Seafood',
-      neighborhood: 'Chinatown',
-      price: '$$$',
-      ritual: 'Yes',
-    },
-    {
-      name: 'Irving Subs',
-      city: 'San Francisco',
-      price: '$',
-      cuisine: 'Sandwiches',
-      ritual: 'Yes',
-      neighborhood: 'Chinatown',
-    },
-    {
-      name: 'International Smoke',
-      city: 'San Francisco',
-    },
-    {
-      name: 'Price\'s Chicken Coop',
-      city: 'Charlotte',
-    },
-  ];
-  return list;
-};
 
 // Reference Dictionary for Zip Codes / Neighborhoods
 let zipRef = {

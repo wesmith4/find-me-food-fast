@@ -1,8 +1,23 @@
-<h1>Results!</h1>
-<ul>
-{{#each results}}
-  <li>{{this.name}} ({{this.rating}} stars) {{this.price}} - {{this.display_phone}}
-    <img src={{this.image_url}} alt="">
-  </li>
+<h1>Your Food, Found Fast!</h1>
+
+<section id="restaurant-container">
+
+  {{#each results}}
+  <div class="restaurant">
+    <h2>{{this.name}} </h2>
+    <div class="details">
+      <ul>
+        <li>Rating: {{this.rating}} stars</li>
+        <li>Price: {{this.price}}</li>
+        <li>Address: {{this.location.display_address}}</li>
+        <li>Phone: {{this.display_phone}}</li>
+        <li><a target="_blank" href={{this.url}}>Find it on Yelp</a></li>
+      </ul>
+    </div>
+    <div class="image">
+        <img src={{this.image_url}} alt="">
+    </div>
+  </div>
 {{/each}}
-</ul>
+
+</section>

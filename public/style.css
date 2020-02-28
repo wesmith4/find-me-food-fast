@@ -3,14 +3,11 @@ html {
 }
 
 header {
-  background: linear-gradient(blue,red);
+
 }
 
 body {
   background-color: blanchedalmond;
-  background: linear-gradient(blanchedalmond, saddlebrown);
-  color: saddlebrown;
-  background-size: contain;
 }
 
 section {
@@ -21,10 +18,42 @@ section {
   display:
 }
 
-section img {
+section#restaurant-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  display: flex;
+  -ms-flex-align: center;
+  flex-wrap: wrap;
+  align-content: space-around;
+  margin: auto auto;
 
 }
 
-footer {
+div.restaurant {
+  width: 25%;
+  text-align: center;
+  border: 5px solid black;
+  border-radius: 10px;
+  margin: 1% 1%;
+  padding: 2%;
 
+}
+
+div.details {
+  line-height: 1.5rem;
+  margin: 0 auto;
+  text-align: left;
+}
+div.image {
+  width: 80%;
+  height: auto;
+  margin: 5% auto;
+  border: 5px solid black;
+  border-radius: 5px;
+}
+
+div.image img {
+  width: 100%;
+  height: auto;
 }
