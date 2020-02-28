@@ -3,12 +3,18 @@ html {
 }
 
 header {
-
+  background-color: #61e8e1;
+  padding: .05%;
+  border-radius: 10px;
+  margin: 2% auto;
+  width: 90%;
 }
 
 body {
-  background-color: blanchedalmond;
+  background-color: #F2CD60;
   text-align: center;
+  width: 100%;
+  height: 100%;
 }
 
 section {
@@ -27,22 +33,26 @@ div.input {
 }
 
 section#restaurant-container {
+  background-color: #f25757;
+  border-radius: 10px;
   display: flex;
   flex-wrap: wrap;
-  width: 100%;
+  width: 90%;
   display: flex;
   -ms-flex-align: center;
   flex-flow: row wrap;
   align-content: space-evenly;
   margin: auto auto;
   justify-content: center;
+  padding: .05%;
 
 }
 
 div.restaurant {
+  background-color: #eaf2e3;
   width: 25%;
   text-align: center;
-  border: 5px solid black;
+  border: 5px solid #61e8e1;
   border-radius: 10px;
   margin: 1% 1%;
   padding: 2%;
