@@ -1,0 +1,886 @@
+{
+  "businesses": [
+    {
+      "id": "gI7sj-7oCcLuufz0EeLQ1w",
+      "alias": "fenikkusu-san-francisco",
+      "name": "Fenikkusu",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ojwZYqeR2EvMwDX6YTrUBw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/fenikkusu-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 18,
+      "categories": [
+          {
+              "alias": "japanese",
+              "title": "Japanese"
+          }
+      ],
+      "rating": 5.0,
+      "coordinates": {
+          "latitude": 37.754826,
+          "longitude": -122.422957
+      },
+      "transactions": [],
+      "location": {
+          "address1": "1009 Guerrero St",
+          "address2": null,
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94110",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "1009 Guerrero St",
+              "San Francisco, CA 94110"
+          ]
+      },
+      "phone": "+14159238600",
+      "display_phone": "(415) 923-8600",
+      "distance": 1369.5021798945072
+  },
+  {
+      "id": "cL0q9S4bqwpbAN9ZKh-Zeg",
+      "alias": "nara-restaurant-and-sake-bar-san-francisco",
+      "name": "Nara Restaurant & Sake Bar",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7zzlpJKaC9bndjuo2UIr6g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/nara-restaurant-and-sake-bar-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 1050,
+      "categories": [
+          {
+              "alias": "japanese",
+              "title": "Japanese"
+          },
+          {
+              "alias": "sushi",
+              "title": "Sushi Bars"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.7721665317965,
+          "longitude": -122.430675700307
+      },
+      "transactions": [
+          "restaurant_reservation"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "518 Haight St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94117",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "518 Haight St",
+              "San Francisco, CA 94117"
+          ]
+      },
+      "phone": "+14156386124",
+      "display_phone": "(415) 638-6124",
+      "distance": 1351.6641305802066
+  },
+  {
+      "id": "cjfJOMF6hpE7bX0ESWdAEg",
+      "alias": "sanraku-san-francisco-2",
+      "name": "Sanraku",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yo8sm_wnaFXe4kT6LBwUag/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/sanraku-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 1715,
+      "categories": [
+          {
+              "alias": "japanese",
+              "title": "Japanese"
+          },
+          {
+              "alias": "sushi",
+              "title": "Sushi Bars"
+          },
+          {
+              "alias": "asianfusion",
+              "title": "Asian Fusion"
+          }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+          "latitude": 37.7889513951509,
+          "longitude": -122.41242887495
+      },
+      "transactions": [
+          "restaurant_reservation",
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "704 Sutter St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94109",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "704 Sutter St",
+              "San Francisco, CA 94109"
+          ]
+      },
+      "phone": "+14157710803",
+      "display_phone": "(415) 771-0803",
+      "distance": 3766.419072831803
+  },
+  {
+      "id": "9t3DWuROXOrvioDxG9R59A",
+      "alias": "goemons-san-francisco-5",
+      "name": "Goemon's",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KQWa0taBVFzPN4oY83wT1A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/goemons-san-francisco-5?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 188,
+      "categories": [
+          {
+              "alias": "japanese",
+              "title": "Japanese"
+          },
+          {
+              "alias": "sushi",
+              "title": "Sushi Bars"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.76393,
+          "longitude": -122.47438
+      },
+      "transactions": [
+          "restaurant_reservation",
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "1524 Irving St",
+          "address2": "",
+          "address3": null,
+          "city": "San Francisco",
+          "zip_code": "94122",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "1524 Irving St",
+              "San Francisco, CA 94122"
+          ]
+      },
+      "phone": "+14157425137",
+      "display_phone": "(415) 742-5137",
+      "distance": 3354.660795211291
+  },
+  {
+      "id": "pKP6ikrLyM5Gtua13kVoUw",
+      "alias": "izakaya-sozai-san-francisco",
+      "name": "Izakaya Sozai",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/04zZBEjVU_nWbvhChdNggQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/izakaya-sozai-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 2073,
+      "categories": [
+          {
+              "alias": "ramen",
+              "title": "Ramen"
+          },
+          {
+              "alias": "izakaya",
+              "title": "Izakaya"
+          },
+          {
+              "alias": "noodles",
+              "title": "Noodles"
+          }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+          "latitude": 37.763879,
+          "longitude": -122.47413
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "1500 Irving St",
+          "address2": null,
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94122",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "1500 Irving St",
+              "San Francisco, CA 94122"
+          ]
+      },
+      "phone": "+14157425122",
+      "display_phone": "(415) 742-5122",
+      "distance": 3329.071252002252
+  },
+  {
+      "id": "U0GqpXzcIDlad7vQHbB63Q",
+      "alias": "kusakabe-san-francisco",
+      "name": "KUSAKABE",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iXZ1Ts45fAl83jO9XhOELQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/kusakabe-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 902,
+      "categories": [
+          {
+              "alias": "sushi",
+              "title": "Sushi Bars"
+          },
+          {
+              "alias": "japanese",
+              "title": "Japanese"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.7957017702111,
+          "longitude": -122.402884835582
+      },
+      "transactions": [
+          "restaurant_reservation",
+          "delivery"
+      ],
+      "price": "$$$$",
+      "location": {
+          "address1": "584 Washington St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94111",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "584 Washington St",
+              "San Francisco, CA 94111"
+          ]
+      },
+      "phone": "+14157570155",
+      "display_phone": "(415) 757-0155",
+      "distance": 4865.835208903343
+  },
+  {
+      "id": "PiY8Ks8KWlIcAvqNdMjvBA",
+      "alias": "izakaya-kou-san-francisco-2",
+      "name": "Izakaya KOU",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/a_VbSN_CoGYRiHCECSGpeQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/izakaya-kou-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 805,
+      "categories": [
+          {
+              "alias": "tapasmallplates",
+              "title": "Tapas/Small Plates"
+          },
+          {
+              "alias": "lounges",
+              "title": "Lounges"
+          },
+          {
+              "alias": "izakaya",
+              "title": "Izakaya"
+          }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+          "latitude": 37.784139,
+          "longitude": -122.432649
+      },
+      "transactions": [
+          "restaurant_reservation",
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "1560 Fillmore St",
+          "address2": null,
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94115",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "1560 Fillmore St",
+              "San Francisco, CA 94115"
+          ]
+      },
+      "phone": "+14154419294",
+      "display_phone": "(415) 441-9294",
+      "distance": 2606.9566582458197
+  },
+  {
+      "id": "qvGED1YA1lt_wrbP92RVZA",
+      "alias": "kibatsu-san-francisco",
+      "name": "Kibatsu",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/U2sZ7lA-bpNaAwX3n6Oadg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/kibatsu-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 161,
+      "categories": [
+          {
+              "alias": "sushi",
+              "title": "Sushi Bars"
+          },
+          {
+              "alias": "japanese",
+              "title": "Japanese"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.77243,
+          "longitude": -122.42899
+      },
+      "transactions": [
+          "restaurant_reservation",
+          "delivery"
+      ],
+      "location": {
+          "address1": "400 Haight St",
+          "address2": "",
+          "address3": null,
+          "city": "San Francisco",
+          "zip_code": "94117",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "400 Haight St",
+              "San Francisco, CA 94117"
+          ]
+      },
+      "phone": "+14158729636",
+      "display_phone": "(415) 872-9636",
+      "distance": 1444.631536218594
+  },
+  {
+      "id": "LDqA7rQ3fCmPWFymhIXXcQ",
+      "alias": "sakesan-sushi-and-bistro-san-francisco-2",
+      "name": "Sakesan Sushi & Bistro",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZGDmAxFMtHMFtbFTVcgj7Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/sakesan-sushi-and-bistro-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 1055,
+      "categories": [
+          {
+              "alias": "japanese",
+              "title": "Japanese"
+          },
+          {
+              "alias": "karaoke",
+              "title": "Karaoke"
+          },
+          {
+              "alias": "sushi",
+              "title": "Sushi Bars"
+          }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+          "latitude": 37.7830954,
+          "longitude": -122.466049
+      },
+      "transactions": [
+          "restaurant_reservation",
+          "pickup",
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "626 Clement St",
+          "address2": null,
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94118",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "626 Clement St",
+              "San Francisco, CA 94118"
+          ]
+      },
+      "phone": "+14158766313",
+      "display_phone": "(415) 876-6313",
+      "distance": 3586.2216750555162
+  },
+  {
+      "id": "mydKjdG8gJOcRQ9cZwkQpQ",
+      "alias": "ryokos-san-francisco",
+      "name": "Ryoko's",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Gp9yk0wIa9aPkVkA48R3GA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/ryokos-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 2988,
+      "categories": [
+          {
+              "alias": "sushi",
+              "title": "Sushi Bars"
+          },
+          {
+              "alias": "japanese",
+              "title": "Japanese"
+          }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+          "latitude": 37.7881987776243,
+          "longitude": -122.412059158087
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "619 Taylor St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94102",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "619 Taylor St",
+              "San Francisco, CA 94102"
+          ]
+      },
+      "phone": "+14157751028",
+      "display_phone": "(415) 775-1028",
+      "distance": 3716.0638867510324
+  },
+  {
+      "id": "-zetzVfO4X0dpiiTmjdeKg",
+      "alias": "eiji-san-francisco",
+      "name": "Eiji",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pWiRTXc0Te7loPLVRRBhwQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/eiji-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 1077,
+      "categories": [
+          {
+              "alias": "sushi",
+              "title": "Sushi Bars"
+          },
+          {
+              "alias": "japanese",
+              "title": "Japanese"
+          }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+          "latitude": 37.764058,
+          "longitude": -122.430685
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "317 Sanchez St",
+          "address2": null,
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94114",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "317 Sanchez St",
+              "San Francisco, CA 94114"
+          ]
+      },
+      "phone": "+14155588149",
+      "display_phone": "(415) 558-8149",
+      "distance": 616.380008566382
+  },
+  {
+      "id": "IRD_9JUjR-06zztisuTdAA",
+      "alias": "akikos-restaurant-san-francisco",
+      "name": "Akiko's Restaurant",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XJBfe68tQbZeueKmOgYJIw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/akikos-restaurant-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 1889,
+      "categories": [
+          {
+              "alias": "sushi",
+              "title": "Sushi Bars"
+          },
+          {
+              "alias": "japanese",
+              "title": "Japanese"
+          }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+          "latitude": 37.790582,
+          "longitude": -122.404653
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$$$",
+      "location": {
+          "address1": "431 Bush St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94108",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "431 Bush St",
+              "San Francisco, CA 94108"
+          ]
+      },
+      "phone": "+14153973218",
+      "display_phone": "(415) 397-3218",
+      "distance": 4324.608600941186
+  },
+  {
+      "id": "D1K_lFglA5fOYquqltYcdg",
+      "alias": "ebisu-san-francisco",
+      "name": "Ebisu",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LBXwE1lTAB58073vOlMONA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/ebisu-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 1791,
+      "categories": [
+          {
+              "alias": "sushi",
+              "title": "Sushi Bars"
+          },
+          {
+              "alias": "japanese",
+              "title": "Japanese"
+          }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+          "latitude": 37.7644547169329,
+          "longitude": -122.466417011814
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "1283 9th Ave",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94122",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "1283 9th Ave",
+              "San Francisco, CA 94122"
+          ]
+      },
+      "phone": "+14155661770",
+      "display_phone": "(415) 566-1770",
+      "distance": 2664.01311750992
+  },
+  {
+      "id": "r2jiJk3yivcLkWSSYELGcA",
+      "alias": "tataki-san-francisco",
+      "name": "Tataki",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fc3n53gUq5lZ_gD1VjUJ8Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/tataki-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 1282,
+      "categories": [
+          {
+              "alias": "sushi",
+              "title": "Sushi Bars"
+          },
+          {
+              "alias": "bars",
+              "title": "Bars"
+          }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+          "latitude": 37.7878390504557,
+          "longitude": -122.441227674274
+      },
+      "transactions": [
+          "restaurant_reservation",
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "2827 California St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94115",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "2827 California St",
+              "San Francisco, CA 94115"
+          ]
+      },
+      "phone": "+14159311182",
+      "display_phone": "(415) 931-1182",
+      "distance": 3024.874051233535
+  },
+  {
+      "id": "HHtpR0RslupSQ99GIIwW5A",
+      "alias": "marufuku-ramen-sf-san-francisco",
+      "name": "Marufuku Ramen SF",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2lUFO5HWD7_RLDWlT5Nvuw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/marufuku-ramen-sf-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 2926,
+      "categories": [
+          {
+              "alias": "ramen",
+              "title": "Ramen"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.785155,
+          "longitude": -122.432075
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+          "address1": "1581 Webster St",
+          "address2": "Ste 235",
+          "address3": null,
+          "city": "San Francisco",
+          "zip_code": "94115",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "1581 Webster St",
+              "Ste 235",
+              "San Francisco, CA 94115"
+          ]
+      },
+      "phone": "+14158729786",
+      "display_phone": "(415) 872-9786",
+      "distance": 2724.336436836609
+  },
+  {
+      "id": "d40PbnRah7AWH_dclw1h_Q",
+      "alias": "rintaro-san-francisco-4",
+      "name": "Rintaro",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bKvtxu0ktDW83wwCJqKfZQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/rintaro-san-francisco-4?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 618,
+      "categories": [
+          {
+              "alias": "izakaya",
+              "title": "Izakaya"
+          }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+          "latitude": 37.76881,
+          "longitude": -122.41511
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$$$",
+      "location": {
+          "address1": "82 14th St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94103",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "82 14th St",
+              "San Francisco, CA 94103"
+          ]
+      },
+      "phone": "+14155897022",
+      "display_phone": "(415) 589-7022",
+      "distance": 2071.4305270365676
+  },
+  {
+      "id": "oibaW-5yuiKVS5o_CcvzIg",
+      "alias": "izakaya-mayumi-san-francisco",
+      "name": "Izakaya Mayumi",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_IxWij_wtjQ0f4qfXj2qBA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/izakaya-mayumi-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 28,
+      "categories": [
+          {
+              "alias": "izakaya",
+              "title": "Izakaya"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.78195,
+          "longitude": -122.48316
+      },
+      "transactions": [
+          "restaurant_reservation"
+      ],
+      "location": {
+          "address1": "2221 Clement St",
+          "address2": "",
+          "address3": null,
+          "city": "San Francisco",
+          "zip_code": "94121",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "2221 Clement St",
+              "San Francisco, CA 94121"
+          ]
+      },
+      "phone": "+14157424159",
+      "display_phone": "(415) 742-4159",
+      "distance": 4727.4974345442415
+  },
+  {
+      "id": "4jXML1vz29FYYUeoPJIs6A",
+      "alias": "fujiyama-ya-japanese-restaurant-san-francisco",
+      "name": "Fujiyama-Ya Japanese Restaurant",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/00BoeaDcyDGWEhXNRevk7A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/fujiyama-ya-japanese-restaurant-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 546,
+      "categories": [
+          {
+              "alias": "japanese",
+              "title": "Japanese"
+          },
+          {
+              "alias": "sushi",
+              "title": "Sushi Bars"
+          }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+          "latitude": 37.75444,
+          "longitude": -122.47711
+      },
+      "transactions": [
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "1234 Noriega St",
+          "address2": "",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94122",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "1234 Noriega St",
+              "San Francisco, CA 94122"
+          ]
+      },
+      "phone": "+14156651772",
+      "display_phone": "(415) 665-1772",
+      "distance": 3649.735666730695
+  },
+  {
+      "id": "_GpFQcVns2ro364TBu7-VA",
+      "alias": "sakesan-sushi-and-robata-san-francisco-6",
+      "name": "Sakesan Sushi & Robata",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/C_wHgECuULE4CUcMgMiLCw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/sakesan-sushi-and-robata-san-francisco-6?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 296,
+      "categories": [
+          {
+              "alias": "japanese",
+              "title": "Japanese"
+          },
+          {
+              "alias": "sushi",
+              "title": "Sushi Bars"
+          }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+          "latitude": 37.7243585192671,
+          "longitude": -122.457495672167
+      },
+      "transactions": [
+          "restaurant_reservation",
+          "pickup",
+          "delivery"
+      ],
+      "price": "$$",
+      "location": {
+          "address1": "1400 Ocean Ave",
+          "address2": "",
+          "address3": null,
+          "city": "San Francisco",
+          "zip_code": "94112",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "1400 Ocean Ave",
+              "San Francisco, CA 94112"
+          ]
+      },
+      "phone": "+14153477898",
+      "display_phone": "(415) 347-7898",
+      "distance": 4464.82084179
+  },
+  {
+      "id": "Y96P7pYNYya_bP-Ogun-0w",
+      "alias": "ozaoza-san-francisco",
+      "name": "OzaOza",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mIe3lNzg_QMKBKKpJ5yD9g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/ozaoza-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+      "review_count": 108,
+      "categories": [
+          {
+              "alias": "japanese",
+              "title": "Japanese"
+          }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+          "latitude": 37.785801,
+          "longitude": -122.43015
+      },
+      "transactions": [
+          "restaurant_reservation",
+          "delivery"
+      ],
+      "price": "$$$$",
+      "location": {
+          "address1": "1700 Post St",
+          "address2": "Ste K,Fl 2",
+          "address3": null,
+          "city": "San Francisco",
+          "zip_code": "94115",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+              "1700 Post St",
+              "Ste K,Fl 2",
+              "San Francisco, CA 94115"
+          ]
+      },
+      "phone": "+14156744400",
+      "display_phone": "(415) 674-4400",
+      "distance": 2823.7040490712293
+    }
+  ]
+}

@@ -1,0 +1,896 @@
+{
+  "businesses": [
+      {
+        "id": "F4YgPOvuCClXTwB9PJk8Qg",
+        "alias": "black-sugar-san-francisco",
+        "name": "Black Sugar",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SvurG2NbWLjnay-RiTbgfQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/black-sugar-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 715,
+        "categories": [
+            {
+                "alias": "tea",
+                "title": "Tea Rooms"
+            },
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            },
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.78642,
+            "longitude": -122.41032
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "location": {
+            "address1": "320 O'Farrell St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94102",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "320 O'Farrell St",
+                "San Francisco, CA 94102"
+            ]
+        },
+        "phone": "+14155212022",
+        "display_phone": "(415) 521-2022",
+        "distance": 3645.798542087573
+    },
+    {
+        "id": "OSZ6bFeCcv4PvUmvuiMEJw",
+        "alias": "little-sweet-san-francisco-11",
+        "name": "Little Sweet",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XHFbxwKCmVNXxyLB18hzbg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/little-sweet-san-francisco-11?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 605,
+        "categories": [
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            },
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            },
+            {
+                "alias": "juicebars",
+                "title": "Juice Bars & Smoothies"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.781425,
+            "longitude": -122.4608022
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "3836 Geary Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94118",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "3836 Geary Blvd",
+                "San Francisco, CA 94118"
+            ]
+        },
+        "phone": "+14157026763",
+        "display_phone": "(415) 702-6763",
+        "distance": 3129.16425470999
+    },
+    {
+        "id": "VQPtsRVNTFkFptcXDTtIyg",
+        "alias": "urban-ritual-san-francisco-3",
+        "name": "Urban Ritual",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/86lbthwo7Tpu9gxPOZ3HNw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/urban-ritual-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 543,
+        "categories": [
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            },
+            {
+                "alias": "cafes",
+                "title": "Cafes"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.77576,
+            "longitude": -122.42585
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "488 Fell St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94102",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "488 Fell St",
+                "San Francisco, CA 94102"
+            ]
+        },
+        "phone": "+14155902873",
+        "display_phone": "(415) 590-2873",
+        "distance": 1892.3707686804041
+    },
+    {
+        "id": "tCjO8oR2xKEeiPqFRWaJpw",
+        "alias": "qualitea-san-francisco-2",
+        "name": "QualiTea",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/G9mXZgSS1KarVEfya8Uutw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/qualitea-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 165,
+        "categories": [
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.760835,
+            "longitude": -122.4333314
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "4023 18th St",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94114",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "4023 18th St",
+                "San Francisco, CA 94114"
+            ]
+        },
+        "phone": "+14157129364",
+        "display_phone": "(415) 712-9364",
+        "distance": 273.99128405791527
+    },
+    {
+        "id": "pOGonfd_CgsQ-ZoAK3537g",
+        "alias": "brew-cha-san-francisco",
+        "name": "Brew Cha",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9cl-DgMwKYwy3ozHy6YGxw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/brew-cha-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 238,
+        "categories": [
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.7619,
+            "longitude": -122.41998
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "3420 18th St",
+            "address2": "Unit 001",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94110",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "3420 18th St",
+                "Unit 001",
+                "San Francisco, CA 94110"
+            ]
+        },
+        "phone": "+16288677122",
+        "display_phone": "(628) 867-7122",
+        "distance": 1446.501882857504
+    },
+    {
+        "id": "168JCbfPASa30FoHZZaIEg",
+        "alias": "boba-guys-san-francisco-10",
+        "name": "Boba Guys",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4kq5IQZOZQMpWJdmHkOVUw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/boba-guys-san-francisco-10?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 639,
+        "categories": [
+            {
+                "alias": "cafes",
+                "title": "Cafes"
+            },
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            },
+            {
+                "alias": "tea",
+                "title": "Tea Rooms"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.78365,
+            "longitude": -122.43247
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "1522 Fillmore St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94115",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1522 Fillmore St",
+                "San Francisco, CA 94115"
+            ]
+        },
+        "phone": "+14159672622",
+        "display_phone": "(415) 967-2622",
+        "distance": 2558.1240708114133
+    },
+    {
+        "id": "RZHt146wACErasKjJpBAGA",
+        "alias": "teapenter-san-francisco-2",
+        "name": "Teapenter",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IFwmzGJSL2ZzCT1_l8YwSA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/teapenter-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 82,
+        "categories": [
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            },
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.76393,
+            "longitude": -122.47429
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "1518 Irving St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94122",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1518 Irving St",
+                "San Francisco, CA 94122"
+            ]
+        },
+        "phone": "+14159328138",
+        "display_phone": "(415) 932-8138",
+        "distance": 3347.2241125551527
+    },
+    {
+        "id": "g2ckHUzTfnsFR_pW0Ism7g",
+        "alias": "boba-guys-san-francisco-17",
+        "name": "Boba Guys",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/h9lDc_6_xST0spGxJrjPqg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/boba-guys-san-francisco-17?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 115,
+        "categories": [
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            },
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.7774106,
+            "longitude": -122.4381031
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "836 Divisadero St",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94117",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "836 Divisadero St",
+                "San Francisco, CA 94117"
+            ]
+        },
+        "phone": "+14159672622",
+        "display_phone": "(415) 967-2622",
+        "distance": 1846.6157658940588
+    },
+    {
+        "id": "Q4o18t-lk70kqY6raBdlJw",
+        "alias": "tea-and-others-san-francisco",
+        "name": "Tea & Others",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JoB5M28OlH0oZm--C8AxlQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/tea-and-others-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 71,
+        "categories": [
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.77152,
+            "longitude": -122.43688
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "250 Divisadero St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94117",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "250 Divisadero St",
+                "San Francisco, CA 94117"
+            ]
+        },
+        "phone": "+14158644920",
+        "display_phone": "(415) 864-4920",
+        "distance": 1168.1687552890876
+    },
+    {
+        "id": "AdABvu7gwwRjZKzVLQeDOQ",
+        "alias": "tea-hut-san-francisco-2",
+        "name": "Tea Hut",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ysp-Ni1UbcBSAZOmZCyWOg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/tea-hut-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 288,
+        "categories": [
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            },
+            {
+                "alias": "juicebars",
+                "title": "Juice Bars & Smoothies"
+            },
+            {
+                "alias": "tea",
+                "title": "Tea Rooms"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.78783,
+            "longitude": -122.44073
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "2815 California St",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94115",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "2815 California St",
+                "San Francisco, CA 94115"
+            ]
+        },
+        "phone": "+14159627437",
+        "display_phone": "(415) 962-7437",
+        "distance": 3023.480405259595
+    },
+    {
+        "id": "18TtLS_JtiS2OH30FLqNrw",
+        "alias": "boba-guys-san-francisco-4",
+        "name": "Boba Guys",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/T3NRy7xNGPGfwn9Vbv4MAQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/boba-guys-san-francisco-4?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 1454,
+        "categories": [
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.75994,
+            "longitude": -122.42112
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "3491 19th St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94110",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "3491 19th St",
+                "San Francisco, CA 94110"
+            ]
+        },
+        "phone": "+14159672622",
+        "display_phone": "(415) 967-2622",
+        "distance": 1353.0244808857371
+    },
+    {
+        "id": "yn5gA62ekL-TzKBBI_rq-A",
+        "alias": "boba-guys-san-francisco-6",
+        "name": "Boba Guys",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tY1HyU-Rzz0usQ7vqQ8kVQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/boba-guys-san-francisco-6?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 1975,
+        "categories": [
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            },
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            },
+            {
+                "alias": "desserts",
+                "title": "Desserts"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.7899434017563,
+            "longitude": -122.407306303981
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "429 Stockton St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94108",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "429 Stockton St",
+                "San Francisco, CA 94108"
+            ]
+        },
+        "phone": "+14159672622",
+        "display_phone": "(415) 967-2622",
+        "distance": 4121.854967426437
+    },
+    {
+        "id": "XcSaf-QyS-QZkgdvX9uT_g",
+        "alias": "wake-cup-san-francisco-2",
+        "name": "Wake Cup",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TBII3VKQYmb95PZcKQN6XA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/wake-cup-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 13,
+        "categories": [
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            },
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 37.7701539,
+            "longitude": -122.446699
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "1476 Haight St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94117",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1476 Haight St",
+                "San Francisco, CA 94117"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 1367.8597122056074
+    },
+    {
+        "id": "D07n3iCL_2jOXHd3l2sh7w",
+        "alias": "identitea-san-francisco-4",
+        "name": "Identitea",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/p0nTTJrMhbfoVCXmB2PCXg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/identitea-san-francisco-4?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 110,
+        "categories": [
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            },
+            {
+                "alias": "poke",
+                "title": "Poke"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.75225,
+            "longitude": -122.41436
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "3109 24th St",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94110",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "3109 24th St",
+                "San Francisco, CA 94110"
+            ]
+        },
+        "phone": "+14157564992",
+        "display_phone": "(415) 756-4992",
+        "distance": 2155.9166055808964
+    },
+    {
+        "id": "TTP5YSZxU6DH6iGa3QBbkg",
+        "alias": "boba-butt-tea-house-san-francisco",
+        "name": "Boba Butt Tea House",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Wd4yIy4x3RAbuQaKQtV2Hw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/boba-butt-tea-house-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 285,
+        "categories": [
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 37.7947674,
+            "longitude": -122.4046777
+        },
+        "transactions": [],
+        "location": {
+            "address1": "714 Kearny St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94108",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "714 Kearny St",
+                "San Francisco, CA 94108"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 4685.324606551561
+    },
+    {
+        "id": "50zXDc6IqJl7hTho6Xb7bQ",
+        "alias": "little-sweet-san-francisco-16",
+        "name": "Little Sweet",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ly2iK-XZXvcAhf_A4rPflA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/little-sweet-san-francisco-16?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 89,
+        "categories": [
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            },
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            },
+            {
+                "alias": "juicebars",
+                "title": "Juice Bars & Smoothies"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 37.76493,
+            "longitude": -122.46665
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1253 9th Ave",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94122",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1253 9th Ave",
+                "San Francisco, CA 94122"
+            ]
+        },
+        "phone": "+14153403373",
+        "display_phone": "(415) 340-3373",
+        "distance": 2693.6200966646575
+    },
+    {
+        "id": "zfs3gpYPbMBLseqaAsQN-A",
+        "alias": "steap-tea-bar-san-francisco-3",
+        "name": "Steap Tea Bar",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FtctNbz0PjFYC0JIgxYXOQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/steap-tea-bar-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 412,
+        "categories": [
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            },
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.7932604402304,
+            "longitude": -122.406762465835
+        },
+        "transactions": [
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "827 Sacramento St",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94108",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "827 Sacramento St",
+                "San Francisco, CA 94108"
+            ]
+        },
+        "phone": "+14158729753",
+        "display_phone": "(415) 872-9753",
+        "distance": 4444.648748427257
+    },
+    {
+        "id": "xYLz336Fq_VsLq6qgJ654Q",
+        "alias": "stix-san-francisco-3",
+        "name": "Stix",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9zCABmGlNig9iARB1r5oTQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/stix-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 73,
+        "categories": [
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            },
+            {
+                "alias": "cafes",
+                "title": "Cafes"
+            },
+            {
+                "alias": "korean",
+                "title": "Korean"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.742616,
+            "longitude": -122.4809192
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "1353 Taraval St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94116",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1353 Taraval St",
+                "San Francisco, CA 94116"
+            ]
+        },
+        "phone": "+14154636577",
+        "display_phone": "(415) 463-6577",
+        "distance": 4406.881255880245
+    },
+    {
+        "id": "q4vZ4U_ZmiMNi5DsDlFGyA",
+        "alias": "simple-tea-house-san-francisco-4",
+        "name": "Simple Tea House",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kQa7iaVe42Yej9MFAUkRyA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/simple-tea-house-san-francisco-4?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 80,
+        "categories": [
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            },
+            {
+                "alias": "juicebars",
+                "title": "Juice Bars & Smoothies"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.73206,
+            "longitude": -122.47348
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "2620 Ocean Ave",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94132",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "2620 Ocean Ave",
+                "San Francisco, CA 94132"
+            ]
+        },
+        "phone": "+14152973632",
+        "display_phone": "(415) 297-3632",
+        "distance": 4573.458350771513
+    },
+    {
+        "id": "NU8qoTTl8FFLB3rp8N9eAA",
+        "alias": "yi-fang-taiwan-fruit-tea-san-francisco-2",
+        "name": "Yi Fang Taiwan Fruit Tea",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yBP5q1BADDNCs2sWNHUf8A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/yi-fang-taiwan-fruit-tea-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 140,
+        "categories": [
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            },
+            {
+                "alias": "juicebars",
+                "title": "Juice Bars & Smoothies"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.795125,
+            "longitude": -122.407633
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "870 Washington St",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94108",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "870 Washington St",
+                "San Francisco, CA 94108"
+            ]
+        },
+        "phone": "+14158729618",
+        "display_phone": "(415) 872-9618",
+        "distance": 4571.264691956719
+    }
+  ]
+}

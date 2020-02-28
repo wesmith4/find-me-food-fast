@@ -1,4 +1,4 @@
-{{> fancyRestaurants}}
+{{!-- {{> fancyRestaurants}}
 {{> casualRestaurants}}
 
 <h2>Yelp recommendation:</h2>
@@ -8,4 +8,15 @@
       <li>{{this.restaurant}} - {{this.city}}</li>
     {{/each}}
   </ul>
+{{/if}}
+ --}}
+
+<header>
+  <h1>Find Me Food Fast!</h1>
+</header>
+
+{{#if selectedFilters}}
+  {{> filterPage}}
+{{else}}
+  {{> startPage}}
 {{/if}}

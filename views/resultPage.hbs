@@ -1,0 +1,8 @@
+<h1>Results!</h1>
+<ul>
+{{#each results}}
+  <li>{{this.name}} ({{this.rating}} stars) {{this.price}} - {{this.display_phone}}
+    <img src={{this.image_url}} alt="">
+  </li>
+{{/each}}
+</ul>

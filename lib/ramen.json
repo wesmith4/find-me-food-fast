@@ -1,0 +1,891 @@
+{
+    "businesses": [
+        {
+        "id": "HHtpR0RslupSQ99GIIwW5A",
+        "alias": "marufuku-ramen-sf-san-francisco",
+        "name": "Marufuku Ramen SF",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2lUFO5HWD7_RLDWlT5Nvuw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/marufuku-ramen-sf-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 2926,
+        "categories": [
+            {
+                "alias": "ramen",
+                "title": "Ramen"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.785155,
+            "longitude": -122.432075
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "1581 Webster St",
+            "address2": "Ste 235",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94115",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1581 Webster St",
+                "Ste 235",
+                "San Francisco, CA 94115"
+            ]
+        },
+        "phone": "+14158729786",
+        "display_phone": "(415) 872-9786",
+        "distance": 2724.336436836609
+    },
+    {
+        "id": "ey_UUXdDMUoO77QIF6SGaQ",
+        "alias": "mensho-tokyo-san-francisco-2",
+        "name": "Mensho Tokyo",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FW8fWpjUC-LSju9liA_Kug/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mensho-tokyo-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 2206,
+        "categories": [
+            {
+                "alias": "ramen",
+                "title": "Ramen"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.7866908459856,
+            "longitude": -122.414326295257
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "672 Geary St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94102",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "672 Geary St",
+                "San Francisco, CA 94102"
+            ]
+        },
+        "phone": "+14158008345",
+        "display_phone": "(415) 800-8345",
+        "distance": 3464.7984167587592
+    },
+    {
+        "id": "Fe-YjAdSRLqDC2H_pqPcSw",
+        "alias": "hinodeya-ramen-bar-san-francisco",
+        "name": "Hinodeya Ramen Bar",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rs6UpqUf1oycGk0NuLQXlQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/hinodeya-ramen-bar-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 1060,
+        "categories": [
+            {
+                "alias": "ramen",
+                "title": "Ramen"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.7861574638014,
+            "longitude": -122.430057115853
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1737 Buchanan St",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94115",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1737 Buchanan St",
+                "San Francisco, CA 94115"
+            ]
+        },
+        "phone": "+14157570552",
+        "display_phone": "(415) 757-0552",
+        "distance": 2864.172030534964
+    },
+    {
+        "id": "SO7w-fN6uIBUEzkakrcxoQ",
+        "alias": "ushi-taro-san-francisco",
+        "name": "Ushi Taro",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OOHTb2hhwcPhSncw5J3e1w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ushi-taro-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 220,
+        "categories": [
+            {
+                "alias": "ramen",
+                "title": "Ramen"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.7625462134757,
+            "longitude": -122.466102987528
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1382 9th Ave",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94122",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1382 9th Ave",
+                "San Francisco, CA 94122"
+            ]
+        },
+        "phone": "+14157026014",
+        "display_phone": "(415) 702-6014",
+        "distance": 2613.3690556023816
+    },
+    {
+        "id": "A0AG2SpXxkIyq6x8HyTuSA",
+        "alias": "kaiju-eats-ramen-and-izakaya-san-francisco-3",
+        "name": "Kaiju Eats Ramen and Izakaya",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VkajzTtqh4Gg6rR3V-8fJQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/kaiju-eats-ramen-and-izakaya-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 752,
+        "categories": [
+            {
+                "alias": "sushi",
+                "title": "Sushi Bars"
+            },
+            {
+                "alias": "ramen",
+                "title": "Ramen"
+            },
+            {
+                "alias": "izakaya",
+                "title": "Izakaya"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.781106,
+            "longitude": -122.455533
+        },
+        "transactions": [
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "3409 Geary Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94118",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "3409 Geary Blvd",
+                "San Francisco, CA 94118"
+            ]
+        },
+        "phone": "+14157424309",
+        "display_phone": "(415) 742-4309",
+        "distance": 2804.040413057605
+    },
+    {
+        "id": "8jzDfZi2bCtXlQ9PVYh3wA",
+        "alias": "ichiraku-ramen-san-francisco-2",
+        "name": "Ichiraku Ramen",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BYY0rI1XkdvLaMhxver0Tw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ichiraku-ramen-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 241,
+        "categories": [
+            {
+                "alias": "ramen",
+                "title": "Ramen"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.78076,
+            "longitude": -122.47679
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "5336 Geary Blvd",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94121",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "5336 Geary Blvd",
+                "San Francisco, CA 94121"
+            ]
+        },
+        "phone": "+14158130878",
+        "display_phone": "(415) 813-0878",
+        "distance": 4179.311831303312
+    },
+    {
+        "id": "pKP6ikrLyM5Gtua13kVoUw",
+        "alias": "izakaya-sozai-san-francisco",
+        "name": "Izakaya Sozai",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/04zZBEjVU_nWbvhChdNggQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/izakaya-sozai-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 2073,
+        "categories": [
+            {
+                "alias": "ramen",
+                "title": "Ramen"
+            },
+            {
+                "alias": "izakaya",
+                "title": "Izakaya"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.763879,
+            "longitude": -122.47413
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1500 Irving St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94122",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1500 Irving St",
+                "San Francisco, CA 94122"
+            ]
+        },
+        "phone": "+14157425122",
+        "display_phone": "(415) 742-5122",
+        "distance": 3329.071252002252
+    },
+    {
+        "id": "1IqqA8pcuCIWJtuKfHwU8g",
+        "alias": "nojo-ramen-tavern-san-francisco-2",
+        "name": "Nojo Ramen Tavern",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/c0C2XM10_Tsfgd5d0gSIIA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/nojo-ramen-tavern-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 841,
+        "categories": [
+            {
+                "alias": "ramen",
+                "title": "Ramen"
+            },
+            {
+                "alias": "izakaya",
+                "title": "Izakaya"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.77669,
+            "longitude": -122.42151
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "231 Franklin St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94102",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "231 Franklin St",
+                "San Francisco, CA 94102"
+            ]
+        },
+        "phone": "+14158964587",
+        "display_phone": "(415) 896-4587",
+        "distance": 2199.6164508548827
+    },
+    {
+        "id": "d4IcZGC-gvms4f45oXor8A",
+        "alias": "ramenwell-san-francisco-2",
+        "name": "Ramenwell",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wMc-xJYPzvuKkDvLbk8XVg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ramenwell-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 138,
+        "categories": [
+            {
+                "alias": "ramen",
+                "title": "Ramen"
+            },
+            {
+                "alias": "izakaya",
+                "title": "Izakaya"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.7619720328061,
+            "longitude": -122.418856810102
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "3378 18th St",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94110",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "3378 18th St",
+                "San Francisco, CA 94110"
+            ]
+        },
+        "phone": "+14155897680",
+        "display_phone": "(415) 589-7680",
+        "distance": 1550.9062520020198
+    },
+    {
+        "id": "1EWkmc_myDLYfvorOnYzEA",
+        "alias": "hinodeya-downtown-san-francisco-3",
+        "name": "Hinodeya Downtown",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GS9cGpsoATTbfWqMwKotMw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/hinodeya-downtown-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 142,
+        "categories": [
+            {
+                "alias": "ramen",
+                "title": "Ramen"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.794597,
+            "longitude": -122.404432
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "680 Clay St",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94111",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "680 Clay St",
+                "San Francisco, CA 94111"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 4685.840403056182
+    },
+    {
+        "id": "1HaGgUlxYAmvfgGyX68oPw",
+        "alias": "iza-ramen-lower-haight-san-francisco",
+        "name": "Iza Ramen Lower Haight",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3cQJHU21td4qkIjyEw9Mpg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/iza-ramen-lower-haight-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 714,
+        "categories": [
+            {
+                "alias": "ramen",
+                "title": "Ramen"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            },
+            {
+                "alias": "izakaya",
+                "title": "Izakaya"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.7718144,
+            "longitude": -122.4305515
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "237 Fillmore St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94117",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "237 Fillmore St",
+                "San Francisco, CA 94117"
+            ]
+        },
+        "phone": "+14159268173",
+        "display_phone": "(415) 926-8173",
+        "distance": 1312.545951949735
+    },
+    {
+        "id": "aP8bXfX6FzBnhZhQMmC08g",
+        "alias": "ippudo-san-francisco-san-francisco-3",
+        "name": "Ippudo San Francisco",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SE7nWXAFunjmSGNHVNyDFQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ippudo-san-francisco-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 961,
+        "categories": [
+            {
+                "alias": "ramen",
+                "title": "Ramen"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            },
+            {
+                "alias": "soup",
+                "title": "Soup"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 37.785942,
+            "longitude": -122.404501
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "18 Yerba Buena Ln",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94103",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "18 Yerba Buena Ln",
+                "San Francisco, CA 94103"
+            ]
+        },
+        "phone": "+14153481202",
+        "display_phone": "(415) 348-1202",
+        "distance": 3954.48779638075
+    },
+    {
+        "id": "bDpWfDVQcIDyMzQyE5blfA",
+        "alias": "hoshi-ramen-and-rice-san-francisco-2",
+        "name": "Hoshi Ramen & Rice",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qx2qFe79CLhDgjjiIjpdRQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/hoshi-ramen-and-rice-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 63,
+        "categories": [
+            {
+                "alias": "ramen",
+                "title": "Ramen"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.79975,
+            "longitude": -122.43894
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "2274 Lombard St",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94123",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "2274 Lombard St",
+                "San Francisco, CA 94123"
+            ]
+        },
+        "phone": "+14156103929",
+        "display_phone": "(415) 610-3929",
+        "distance": 4317.300237234823
+    },
+    {
+        "id": "kGG66pu2BpqM-BgGyOYp0A",
+        "alias": "21-taste-house-san-francisco",
+        "name": "21 Taste House",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/How3b5nFaIVTWG-HGHVDCg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/21-taste-house-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 278,
+        "categories": [
+            {
+                "alias": "ramen",
+                "title": "Ramen"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.7234497070312,
+            "longitude": -122.45450592041
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1109 Ocean Ave",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94112",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1109 Ocean Ave",
+                "San Francisco, CA 94112"
+            ]
+        },
+        "phone": "+14152057984",
+        "display_phone": "(415) 205-7984",
+        "distance": 4456.690544951583
+    },
+    {
+        "id": "vka9K72EQhmw2H3MFhPrHg",
+        "alias": "ushio-ramen-san-francisco-3",
+        "name": "Ushio Ramen",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rjFWza6XhHWgYjr_H2iQUw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ushio-ramen-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 235,
+        "categories": [
+            {
+                "alias": "ramen",
+                "title": "Ramen"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.765096,
+            "longitude": -122.422692
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "3128 16th St",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94103",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "3128 16th St",
+                "San Francisco, CA 94103"
+            ]
+        },
+        "phone": "+14157030318",
+        "display_phone": "(415) 703-0318",
+        "distance": 1296.067917318319
+    },
+    {
+        "id": "olOldyL0jSpDuZE0tELVcw",
+        "alias": "fumi-japanese-curry-and-ramen-san-francisco-3",
+        "name": "Fumi Japanese Curry & Ramen",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HmRu2lgBB89-Jo_uLe_4Dg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/fumi-japanese-curry-and-ramen-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 399,
+        "categories": [
+            {
+                "alias": "ramen",
+                "title": "Ramen"
+            },
+            {
+                "alias": "japacurry",
+                "title": "Japanese Curry"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.74397,
+            "longitude": -122.42051
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "3303 Mission St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94110",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "3303 Mission St",
+                "San Francisco, CA 94110"
+            ]
+        },
+        "phone": "+14157570901",
+        "display_phone": "(415) 757-0901",
+        "distance": 2340.4316524241217
+    },
+    {
+        "id": "cezgelm2Ah0-QZdcJCxfug",
+        "alias": "kaiju-cooks-san-francisco",
+        "name": "Kaiju Cooks",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XBCFQpqOZoXeef4j-CCpwQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/kaiju-cooks-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 95,
+        "categories": [
+            {
+                "alias": "tapasmallplates",
+                "title": "Tapas/Small Plates"
+            },
+            {
+                "alias": "ramen",
+                "title": "Ramen"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.77679,
+            "longitude": -122.4767
+        },
+        "transactions": [
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1650 Balboa St",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94121",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1650 Balboa St",
+                "San Francisco, CA 94121"
+            ]
+        },
+        "phone": "+14152216288",
+        "display_phone": "(415) 221-6288",
+        "distance": 3954.825904974622
+    },
+    {
+        "id": "ydRU8jEKxt0X5PQdP4VdRQ",
+        "alias": "miki-restaurant-san-francisco",
+        "name": "Miki Restaurant",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CTeUtFxmiwVsXXbyguWwkA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/miki-restaurant-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 488,
+        "categories": [
+            {
+                "alias": "ramen",
+                "title": "Ramen"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.77547,
+            "longitude": -122.49795
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "3639 Balboa St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94121",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "3639 Balboa St",
+                "San Francisco, CA 94121"
+            ]
+        },
+        "phone": "+14153870874",
+        "display_phone": "(415) 387-0874",
+        "distance": 5646.347982310064
+    },
+    {
+        "id": "2E9O-p-lp587aOMnpLepkQ",
+        "alias": "jijime-san-francisco-8",
+        "name": "JIJIME",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4oowWGAzNmFLEx4vDtBAlg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/jijime-san-francisco-8?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 301,
+        "categories": [
+            {
+                "alias": "korean",
+                "title": "Korean"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            },
+            {
+                "alias": "ramen",
+                "title": "Ramen"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.7806549278456,
+            "longitude": -122.478949574806
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "5524 Geary Blvd",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94121",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "5524 Geary Blvd",
+                "San Francisco, CA 94121"
+            ]
+        },
+        "phone": "+14152215353",
+        "display_phone": "(415) 221-5353",
+        "distance": 4333.781775165417
+    },
+    {
+        "id": "LEyOY7qaRzSb6dJD_QyVlQ",
+        "alias": "teruya-ramen-and-drink-san-francisco-2",
+        "name": "Teruya Ramen & Drink",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pIGyngqoiasp9ci9jv6row/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/teruya-ramen-and-drink-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 61,
+        "categories": [
+            {
+                "alias": "ramen",
+                "title": "Ramen"
+            },
+            {
+                "alias": "tapasmallplates",
+                "title": "Tapas/Small Plates"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.78143,
+            "longitude": -122.46186
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "3944 Geary Blvd",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94118",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "3944 Geary Blvd",
+                "San Francisco, CA 94118"
+            ]
+        },
+        "phone": "+14157522663",
+        "display_phone": "(415) 752-2663",
+        "distance": 3199.9337441229513
+    }
+  ]
+}

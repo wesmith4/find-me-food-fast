@@ -1,0 +1,868 @@
+{
+    "businesses": [
+        {
+        "id": "RYQBuRLmBs1K1zTOAHPoQQ",
+        "alias": "niku-steakhouse-san-francisco",
+        "name": "Niku Steakhouse",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wTT2MYTEfqN8k7jLPFvWKA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/niku-steakhouse-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 227,
+        "categories": [
+            {
+                "alias": "japanese",
+                "title": "Japanese"
+            },
+            {
+                "alias": "steak",
+                "title": "Steakhouses"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.7696671,
+            "longitude": -122.403567
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$$$",
+        "location": {
+            "address1": "61 Division St",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94103",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "61 Division St",
+                "San Francisco, CA 94103"
+            ]
+        },
+        "phone": "+14158297817",
+        "display_phone": "(415) 829-7817",
+        "distance": 3063.0235644758422
+        },
+        {
+        "id": "oT08T3Vpn1I7jDmrBBRMTw",
+        "alias": "house-of-prime-rib-san-francisco",
+        "name": "House Of Prime Rib",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HLrjaMoAgYSac0vx71YpCA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/house-of-prime-rib-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 7151,
+        "categories": [
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            },
+            {
+                "alias": "steak",
+                "title": "Steakhouses"
+            },
+            {
+                "alias": "wine_bars",
+                "title": "Wine Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.79338,
+            "longitude": -122.4225
+        },
+        "transactions": [],
+        "price": "$$$",
+        "location": {
+            "address1": "1906 Van Ness Ave",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94109",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1906 Van Ness Ave",
+                "San Francisco, CA 94109"
+            ]
+        },
+        "phone": "+14158854605",
+        "display_phone": "(415) 885-4605",
+        "distance": 3816.1831459110426
+        },
+        {
+        "id": "yNU6sPRWzVl0ngCRqat1TQ",
+        "alias": "bobos-san-francisco-14",
+        "name": "Bobo's",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-7d1ZYtDNxrzi6V5rcDoDg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bobos-san-francisco-14?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 2090,
+        "categories": [
+            {
+                "alias": "steak",
+                "title": "Steakhouses"
+            },
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.8014088795149,
+            "longitude": -122.425744103705
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "1450 Lombard St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94123",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1450 Lombard St",
+                "San Francisco, CA 94123"
+            ]
+        },
+        "phone": "+14154418880",
+        "display_phone": "(415) 441-8880",
+        "distance": 4601.607365719987
+        },
+        {
+        "id": "wEpiKz--Z2b1q_FSCCNiow",
+        "alias": "lolinda-san-francisco",
+        "name": "Lolinda",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/M8J3ehcOIRRI8ys1Q0hxtw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/lolinda-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 1984,
+        "categories": [
+            {
+                "alias": "steak",
+                "title": "Steakhouses"
+            },
+            {
+                "alias": "tapasmallplates",
+                "title": "Tapas/Small Plates"
+            },
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.756684,
+            "longitude": -122.419117
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "2518 Mission St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94110",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "2518 Mission St",
+                "San Francisco, CA 94110"
+            ]
+        },
+        "phone": "+14155506970",
+        "display_phone": "(415) 550-6970",
+        "distance": 1593.9713120138056
+        },
+        {
+        "id": "cem1stH61i39W57xQqvERQ",
+        "alias": "mastros-steakhouse-san-francisco-san-francisco",
+        "name": "Mastro's Steakhouse San Francisco",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NwgiHq8sEv2ReqhXyFh53Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mastros-steakhouse-san-francisco-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 93,
+        "categories": [
+            {
+                "alias": "steak",
+                "title": "Steakhouses"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 37.786946,
+            "longitude": -122.409599
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "location": {
+            "address1": "399 Geary St",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94102",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "399 Geary St",
+                "San Francisco, CA 94102"
+            ]
+        },
+        "phone": "+14153639539",
+        "display_phone": "(415) 363-9539",
+        "distance": 3735.8569448862763
+        },
+        {
+        "id": "PLx_VnZyFmxTS1zNTaDJxA",
+        "alias": "alexanders-steakhouse-san-francisco-7",
+        "name": "Alexander's Steakhouse",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LccMcK4oOLmAD7A6NVsf7w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/alexanders-steakhouse-san-francisco-7?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 1713,
+        "categories": [
+            {
+                "alias": "steak",
+                "title": "Steakhouses"
+            },
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "newamerican",
+                "title": "American (New)"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.7793,
+            "longitude": -122.39568
+        },
+        "transactions": [],
+        "price": "$$$$",
+        "location": {
+            "address1": "448 Brannan St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94107",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "448 Brannan St",
+                "San Francisco, CA 94107"
+            ]
+        },
+        "phone": "+14154951111",
+        "display_phone": "(415) 495-1111",
+        "distance": 4125.751751185153
+        },
+        {
+        "id": "FqYg7BcsryLFiUTknxpQpw",
+        "alias": "harris-restaurant-san-francisco",
+        "name": "Harris' Restaurant",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cqsaaeINjn4qgUPKI9vk7w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/harris-restaurant-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 1852,
+        "categories": [
+            {
+                "alias": "steak",
+                "title": "Steakhouses"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.79508,
+            "longitude": -122.42287
+        },
+        "transactions": [],
+        "price": "$$$$",
+        "location": {
+            "address1": "2100 Van Ness Ave",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94109",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "2100 Van Ness Ave",
+                "San Francisco, CA 94109"
+            ]
+        },
+        "phone": "+14156731888",
+        "display_phone": "(415) 673-1888",
+        "distance": 3980.808712722366
+        },
+        {
+        "id": "Kxwc8PIKy2JsegNwgBjAtA",
+        "alias": "ruths-chris-steak-house-san-francisco",
+        "name": "Ruth's Chris Steak House",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tQNAjQp2HBKImKq_ce-c2g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ruths-chris-steak-house-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 2121,
+        "categories": [
+            {
+                "alias": "steak",
+                "title": "Steakhouses"
+            },
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "wine_bars",
+                "title": "Wine Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.7905481,
+            "longitude": -122.4226117
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "1601 Van Ness Ave",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94109",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1601 Van Ness Ave",
+                "San Francisco, CA 94109"
+            ]
+        },
+        "phone": "+14156730557",
+        "display_phone": "(415) 673-0557",
+        "distance": 3513.8901219012446
+        },
+        {
+        "id": "ciEDsTWhajcdL3KuJqBRlw",
+        "alias": "espetus-brazilian-steak-house-san-francisco",
+        "name": "Espetus Brazilian Steak House",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/F9G1pFFitfi9F4rJw_nrpQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/espetus-brazilian-steak-house-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 3421,
+        "categories": [
+            {
+                "alias": "steak",
+                "title": "Steakhouses"
+            },
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "brazilian",
+                "title": "Brazilian"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.7733327504928,
+            "longitude": -122.422131667494
+        },
+        "transactions": [
+            "delivery",
+            "restaurant_reservation"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "1686 Market St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94102",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1686 Market St",
+                "San Francisco, CA 94102"
+            ]
+        },
+        "phone": "+14155528792",
+        "display_phone": "(415) 552-8792",
+        "distance": 1869.4328635048867
+        },
+        {
+        "id": "GtKxIGU6LJu14UErdNulmQ",
+        "alias": "original-joes-san-francisco-3",
+        "name": "Original Joe's",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4quugw5FJrEENowfhzQxEg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/original-joes-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 1450,
+        "categories": [
+            {
+                "alias": "italian",
+                "title": "Italian"
+            },
+            {
+                "alias": "steak",
+                "title": "Steakhouses"
+            },
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.80021,
+            "longitude": -122.40945
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "601 Union St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94133",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "601 Union St",
+                "San Francisco, CA 94133"
+            ]
+        },
+        "phone": "+14157754877",
+        "display_phone": "(415) 775-4877",
+        "distance": 4981.950187400634
+        },
+        {
+        "id": "0PLv5h5eRTG6fuWLpUmf4A",
+        "alias": "brazen-head-san-francisco",
+        "name": "Brazen Head",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Wu41MgamdUZSS-ORNnmqVQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/brazen-head-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 740,
+        "categories": [
+            {
+                "alias": "steak",
+                "title": "Steakhouses"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            },
+            {
+                "alias": "gastropubs",
+                "title": "Gastropubs"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.7993037,
+            "longitude": -122.4322957
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "3166 Buchanan St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94123",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "3166 Buchanan St",
+                "San Francisco, CA 94123"
+            ]
+        },
+        "phone": "+14159217600",
+        "display_phone": "(415) 921-7600",
+        "distance": 4285.9172616499845
+        },
+        {
+        "id": "jhVo92kIQSPFQTzBaIhP6w",
+        "alias": "bullshead-restaurant-san-francisco-3",
+        "name": "Bullshead Restaurant",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AWuY3xiD2lsuikGLAf5Y8g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bullshead-restaurant-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 816,
+        "categories": [
+            {
+                "alias": "steak",
+                "title": "Steakhouses"
+            },
+            {
+                "alias": "burgers",
+                "title": "Burgers"
+            },
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.740895,
+            "longitude": -122.465527
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "840 Ulloa St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94127",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "840 Ulloa St",
+                "San Francisco, CA 94127"
+            ]
+        },
+        "phone": "+14156654350",
+        "display_phone": "(415) 665-4350",
+        "distance": 3388.883466416839
+        },
+        {
+        "id": "T9gojhwwpn8JHXxkHsKAxQ",
+        "alias": "leatherneck-steakhouse-san-francisco-2",
+        "name": "Leatherneck Steakhouse",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-jTuvHX18_iYCvLqUruSyw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/leatherneck-steakhouse-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 321,
+        "categories": [
+            {
+                "alias": "steak",
+                "title": "Steakhouses"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.788678,
+            "longitude": -122.410458
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "609 Sutter St",
+            "address2": "",
+            "address3": "The Marines Memorial Club and Hotel",
+            "city": "San Francisco",
+            "zip_code": "94102",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "609 Sutter St",
+                "The Marines Memorial Club and Hotel",
+                "San Francisco, CA 94102"
+            ]
+        },
+        "phone": "+14156736672",
+        "display_phone": "(415) 673-6672",
+        "distance": 3841.685973517581
+        },
+        {
+        "id": "ZSzXw0NgJTyOzcHwKY5eMA",
+        "alias": "blind-butcher-san-francisco-2",
+        "name": "Blind Butcher",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pwZNOzKXlfs2Y74HHVDkUg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/blind-butcher-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 105,
+        "categories": [
+            {
+                "alias": "newamerican",
+                "title": "American (New)"
+            },
+            {
+                "alias": "wine_bars",
+                "title": "Wine Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.76116,
+            "longitude": -122.43414
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "4058 18th St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94114",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "4058 18th St",
+                "San Francisco, CA 94114"
+            ]
+        },
+        "phone": "+14155292478",
+        "display_phone": "(415) 529-2478",
+        "distance": 208.376792182
+        },
+        {
+        "id": "OH3GLEJvGhbER4d3xMuPIA",
+        "alias": "betty-lous-seafood-and-grill-san-francisco",
+        "name": "Betty Lou's Seafood & Grill",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HokxeoQQh2wxZgjVT5CViQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/betty-lous-seafood-and-grill-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 739,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "steak",
+                "title": "Steakhouses"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.798272477416,
+            "longitude": -122.407057508826
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "318 Columbus Ave",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94133",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "318 Columbus Ave",
+                "San Francisco, CA 94133"
+            ]
+        },
+        "phone": "+14157570569",
+        "display_phone": "(415) 757-0569",
+        "distance": 4892.980744272389
+        },
+        {
+        "id": "2DihFta_jZB8aAiL_zjp9A",
+        "alias": "epic-steak-san-francisco",
+        "name": "EPIC Steak",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/oM9GBsGLo2hK9JrmtClq-A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/epic-steak-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 2270,
+        "categories": [
+            {
+                "alias": "steak",
+                "title": "Steakhouses"
+            },
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "newamerican",
+                "title": "American (New)"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 37.7908179090105,
+            "longitude": -122.389448990853
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "369 The Embarcadero",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94105",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "369 The Embarcadero",
+                "San Francisco, CA 94105"
+            ]
+        },
+        "phone": "+14153699955",
+        "display_phone": "(415) 369-9955",
+        "distance": 5303.757354679206
+        },
+        {
+        "id": "ITFRPmzOeEp6dY3Dufh8vw",
+        "alias": "mortons-the-steakhouse-san-francisco",
+        "name": "Morton's The Steakhouse",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cn4EGN2iAcfQLh7ebc4ljg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mortons-the-steakhouse-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 1239,
+        "categories": [
+            {
+                "alias": "steak",
+                "title": "Steakhouses"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            },
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 37.7884071,
+            "longitude": -122.4089792
+        },
+        "transactions": [],
+        "price": "$$$$",
+        "location": {
+            "address1": "400 Post St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94102",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "400 Post St",
+                "San Francisco, CA 94102"
+            ]
+        },
+        "phone": "+14159865830",
+        "display_phone": "(415) 986-5830",
+        "distance": 3896.6728147367894
+        },
+        {
+        "id": "GzaXtAtEnfwoxDVXK3NLuw",
+        "alias": "fogo-de-chão-brazilian-steakhouse-san-francisco-san-francisco-2",
+        "name": "Fogo de Chão Brazilian Steakhouse - San Francisco",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hDO41owFaZZv8yGAiMsGOQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/fogo-de-ch%C3%A3o-brazilian-steakhouse-san-francisco-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 937,
+        "categories": [
+            {
+                "alias": "brazilian",
+                "title": "Brazilian"
+            },
+            {
+                "alias": "steak",
+                "title": "Steakhouses"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 37.785051,
+            "longitude": -122.400235
+        },
+        "transactions": [],
+        "price": "$$$",
+        "location": {
+            "address1": "201 3rd St",
+            "address2": "Ste 100",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94103",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "201 3rd St",
+                "Ste 100",
+                "San Francisco, CA 94103"
+            ]
+        },
+        "phone": "+14154270004",
+        "display_phone": "(415) 427-0004",
+        "distance": 4164.41215935975
+        },
+        {
+        "id": "-xQAb45T80lyMIjmUYHs6A",
+        "alias": "gibson-san-francisco",
+        "name": "Gibson",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nU5QkGpxn77rL0TY_6jWtg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/gibson-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 167,
+        "categories": [
+            {
+                "alias": "newamerican",
+                "title": "American (New)"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            },
+            {
+                "alias": "steak",
+                "title": "Steakhouses"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 37.78447,
+            "longitude": -122.4096
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "111 Mason St",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94102",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "111 Mason St",
+                "San Francisco, CA 94102"
+            ]
+        },
+        "phone": "+14157717709",
+        "display_phone": "(415) 771-7709",
+        "distance": 3528.195954070236
+        }
+    ]
+}
