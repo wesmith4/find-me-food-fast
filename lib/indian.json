@@ -1,0 +1,876 @@
+{
+  "businesses": [
+    {
+    "id": "Qr0dBKxCtWWUr9bJ74aWQA",
+    "alias": "little-delhi-san-francisco",
+    "name": "Little Delhi",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CfvU68fhM_dcwyNz_RIt9A/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/little-delhi-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 1960,
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+        "latitude": 37.78416,
+        "longitude": -122.40901
+    },
+    "transactions": [
+        "delivery",
+        "restaurant_reservation",
+        "pickup"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "83 Eddy St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94102",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "83 Eddy St",
+            "San Francisco, CA 94102"
+        ]
+    },
+    "phone": "+14153983173",
+    "display_phone": "(415) 398-3173",
+    "distance": 3537.263292651854
+    },
+    {
+    "id": "wqjB8Vp7EmUQ7bKj9ocY1w",
+    "alias": "bhoga-san-francisco-2",
+    "name": "Bhoga",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7S8oRyNpTWmSzThNV3M9Xg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/bhoga-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 90,
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        },
+        {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+        }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+        "latitude": 37.76139,
+        "longitude": -122.43541
+    },
+    "transactions": [
+        "delivery",
+        "pickup"
+    ],
+    "location": {
+        "address1": "468 Castro Sreet",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94114",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "468 Castro Sreet",
+            "San Francisco, CA 94114"
+        ]
+    },
+    "phone": "+14159154444",
+    "display_phone": "(415) 915-4444",
+    "distance": 113.8538708751459
+    },
+    {
+    "id": "GIl4gBFUknk9HJD3wvQI1Q",
+    "alias": "keeva-indian-kitchen-san-francisco",
+    "name": "Keeva Indian Kitchen",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WbqS46C9EdgQVGhKLGas6g/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/keeva-indian-kitchen-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 498,
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+        "latitude": 37.7828780156699,
+        "longitude": -122.469022889335
+    },
+    "transactions": [
+        "delivery",
+        "pickup"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "908 Clement St",
+        "address2": "",
+        "address3": null,
+        "city": "San Francisco",
+        "zip_code": "94118",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "908 Clement St",
+            "San Francisco, CA 94118"
+        ]
+    },
+    "phone": "+14157424010",
+    "display_phone": "(415) 742-4010",
+    "distance": 3764.409823127858
+    },
+    {
+    "id": "vLWF4EPYGOg0F5T348-VyQ",
+    "alias": "rose-indian-cuisine-san-francisco",
+    "name": "Rose Indian Cuisine",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1OJPlX1aXH8ciBdfdtOEvg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/rose-indian-cuisine-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 92,
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        },
+        {
+            "alias": "himalayan",
+            "title": "Himalayan/Nepalese"
+        },
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+        "latitude": 37.762469,
+        "longitude": -122.465914
+    },
+    "transactions": [
+        "delivery",
+        "pickup"
+    ],
+    "location": {
+        "address1": "1386 9th Ave",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94122",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "1386 9th Ave",
+            "San Francisco, CA 94122"
+        ]
+    },
+    "phone": "+14152135654",
+    "display_phone": "(415) 213-5654",
+    "distance": 2599.6511328180677
+    },
+    {
+    "id": "zf62D_W7iGzgdV6U_CeApQ",
+    "alias": "pakwan-restaurant-16th-street-san-francisco",
+    "name": "Pakwan Restaurant - 16th Street",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eugzdBKy_x20O0DXKoUwpQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/pakwan-restaurant-16th-street-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 1735,
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        },
+        {
+            "alias": "pakistani",
+            "title": "Pakistani"
+        }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+        "latitude": 37.7649156994629,
+        "longitude": -122.423777393059
+    },
+    "transactions": [
+        "delivery",
+        "pickup"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "3180-82 16th St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94103",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "3180-82 16th St",
+            "San Francisco, CA 94103"
+        ]
+    },
+    "phone": "+14152552440",
+    "display_phone": "(415) 255-2440",
+    "distance": 1199.9400138273543
+    },
+    {
+    "id": "8ZmEszI4ZMncK9kuJYQjuA",
+    "alias": "udupi-palace-san-francisco",
+    "name": "Udupi Palace",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lHCZEvE4h3-SFzFY1FYMdQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/udupi-palace-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 1365,
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        },
+        {
+            "alias": "vegetarian",
+            "title": "Vegetarian"
+        },
+        {
+            "alias": "vegan",
+            "title": "Vegan"
+        }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+        "latitude": 37.75667,
+        "longitude": -122.42091
+    },
+    "transactions": [
+        "delivery",
+        "pickup"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "1007 Valencia St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94110",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "1007 Valencia St",
+            "San Francisco, CA 94110"
+        ]
+    },
+    "phone": "+14159708000",
+    "display_phone": "(415) 970-8000",
+    "distance": 1436.549312701709
+    },
+    {
+    "id": "gR9DTbKCvezQlqvD7_FzPw",
+    "alias": "north-india-restaurant-san-francisco",
+    "name": "North India Restaurant",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/howYvOKNPXU9A5KUahEXLA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/north-india-restaurant-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 1721,
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+        "latitude": 37.787789124691,
+        "longitude": -122.399305736113
+    },
+    "transactions": [
+        "delivery",
+        "restaurant_reservation",
+        "pickup"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "123 Second St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94105",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "123 Second St",
+            "San Francisco, CA 94105"
+        ]
+    },
+    "phone": "+14153481234",
+    "display_phone": "(415) 348-1234",
+    "distance": 4426.7962099389815
+    },
+    {
+    "id": "wb17yCMbjgDOqaGwTVLeVQ",
+    "alias": "tara-indian-cuisine-san-francisco",
+    "name": "Tara Indian Cuisine",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_SbALbTX5oplNq17CfNy3w/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/tara-indian-cuisine-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 349,
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+        "latitude": 37.7654084,
+        "longitude": -122.4312271
+    },
+    "transactions": [
+        "delivery",
+        "pickup"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "2217 Market St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94114",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "2217 Market St",
+            "San Francisco, CA 94114"
+        ]
+    },
+    "phone": "+14158616655",
+    "display_phone": "(415) 861-6655",
+    "distance": 659.748806053751
+    },
+    {
+    "id": "xoWAiPBLgB_RjDMq7lVl9A",
+    "alias": "bon-appetikka-san-francisco-3",
+    "name": "Bon AppeTikka",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iD7bQ10GTJya0qrlfU7pzw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/bon-appetikka-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 52,
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+        "latitude": 37.751438,
+        "longitude": -122.435573
+    },
+    "transactions": [
+        "delivery",
+        "pickup"
+    ],
+    "location": {
+        "address1": "4166 24th St",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94114",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "4166 24th St",
+            "San Francisco, CA 94114"
+        ]
+    },
+    "phone": "+14156484416",
+    "display_phone": "(415) 648-4416",
+    "distance": 1054.0610803258653
+    },
+    {
+    "id": "hSf4dN8617Czf1T2VrJHgQ",
+    "alias": "tilak-san-francisco",
+    "name": "Tilak",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ELvhlzU8rmv2gNlUe4l07g/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/tilak-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 248,
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+        "latitude": 37.74085,
+        "longitude": -122.42273
+    },
+    "transactions": [
+        "delivery",
+        "pickup"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "3501 Mission St",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94110",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "3501 Mission St",
+            "San Francisco, CA 94110"
+        ]
+    },
+    "phone": "+14156474037",
+    "display_phone": "(415) 647-4037",
+    "distance": 2539.7505804400757
+    },
+    {
+    "id": "U1TgSEKZwgdTftTOxCtFOQ",
+    "alias": "dosa-on-fillmore-san-francisco-3",
+    "name": "DOSA on Fillmore",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yRQT1qg44iAdAdKkONJ9Ig/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/dosa-on-fillmore-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 3067,
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+        "latitude": 37.78535,
+        "longitude": -122.43284
+    },
+    "transactions": [
+        "restaurant_reservation",
+        "pickup"
+    ],
+    "price": "$$$",
+    "location": {
+        "address1": "1700 Fillmore St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94115",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "1700 Fillmore St",
+            "San Francisco, CA 94115"
+        ]
+    },
+    "phone": "+14154413672",
+    "display_phone": "(415) 441-3672",
+    "distance": 2739.555675095702
+    },
+    {
+    "id": "c70nh-BV7Nn_rnNXDXnABg",
+    "alias": "curry-leaf-san-francisco",
+    "name": "Curry Leaf",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jm1KBL9nwo7fYLJF4xNTUQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/curry-leaf-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 636,
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        },
+        {
+            "alias": "halal",
+            "title": "Halal"
+        },
+        {
+            "alias": "pakistani",
+            "title": "Pakistani"
+        }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+        "latitude": 37.80308,
+        "longitude": -122.41452
+    },
+    "transactions": [
+        "pickup"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "943 Columbus Ave",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94133",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "943 Columbus Ave",
+            "San Francisco, CA 94133"
+        ]
+    },
+    "phone": "+14154404293",
+    "display_phone": "(415) 440-4293",
+    "distance": 5071.258920165355
+    },
+    {
+    "id": "baKnRYuk8iGq8IpN3ccTgw",
+    "alias": "roti-indian-bistro-san-francisco",
+    "name": "Roti Indian Bistro",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kah20r5t1mofuVH7yoxnog/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/roti-indian-bistro-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 749,
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+        "latitude": 37.7401922,
+        "longitude": -122.4662449
+    },
+    "transactions": [
+        "delivery"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "53 W Portal Ave",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94127",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "53 W Portal Ave",
+            "San Francisco, CA 94127"
+        ]
+    },
+    "phone": "+14156657684",
+    "display_phone": "(415) 665-7684",
+    "distance": 3487.8490676431975
+    },
+    {
+    "id": "iUockw0CUssKZLyoGJYEXA",
+    "alias": "cuisine-of-nepal-san-francisco",
+    "name": "Cuisine of Nepal",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Ps6UvrXCnzj3UJT1f1372w/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/cuisine-of-nepal-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 557,
+    "categories": [
+        {
+            "alias": "himalayan",
+            "title": "Himalayan/Nepalese"
+        },
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        },
+        {
+            "alias": "catering",
+            "title": "Caterers"
+        }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+        "latitude": 37.74097,
+        "longitude": -122.42318
+    },
+    "transactions": [
+        "delivery",
+        "restaurant_reservation",
+        "pickup"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "3486 Mission St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94110",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "3486 Mission St",
+            "San Francisco, CA 94110"
+        ]
+    },
+    "phone": "+14156472222",
+    "display_phone": "(415) 647-2222",
+    "distance": 2502.4258088476086
+    },
+    {
+    "id": "E6n9i4lShtbB1WbjUjA9qA",
+    "alias": "grill-n-curry-san-francisco",
+    "name": "Grill N Curry",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GfFjceOEj__ep4vx_CYcPA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/grill-n-curry-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 27,
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        },
+        {
+            "alias": "halal",
+            "title": "Halal"
+        },
+        {
+            "alias": "pakistani",
+            "title": "Pakistani"
+        }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+        "latitude": 37.7638484252,
+        "longitude": -122.469138249
+    },
+    "transactions": [
+        "delivery",
+        "pickup"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "1033 Irving St",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94122",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "1033 Irving St",
+            "San Francisco, CA 94122"
+        ]
+    },
+    "phone": "+14159417309",
+    "display_phone": "(415) 941-7309",
+    "distance": 2892.3885053846366
+    },
+    {
+    "id": "El1fNeBVBglXlZtFuq4SWA",
+    "alias": "saffron-grill-san-francisco",
+    "name": "Saffron Grill",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/00KVIrBzG9Yj5uepGDVQWw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/saffron-grill-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 521,
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+        "latitude": 37.776823,
+        "longitude": -122.437746
+    },
+    "transactions": [
+        "delivery",
+        "pickup"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "1279 Fulton St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94117",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "1279 Fulton St",
+            "San Francisco, CA 94117"
+        ]
+    },
+    "phone": "+14155675100",
+    "display_phone": "(415) 567-5100",
+    "distance": 1774.2995517148572
+    },
+    {
+    "id": "W76XP0WSG1FPJdZzDTylhg",
+    "alias": "indian-paradox-san-francisco-2",
+    "name": "Indian Paradox",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pynw7VmDK3Ecgr8N6I7eFg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/indian-paradox-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 167,
+    "categories": [
+        {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+        },
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+        "latitude": 37.77152,
+        "longitude": -122.43688
+    },
+    "transactions": [
+        "delivery"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "258 Divisadero St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94117",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "258 Divisadero St",
+            "San Francisco, CA 94117"
+        ]
+    },
+    "phone": "+14155935386",
+    "display_phone": "(415) 593-5386",
+    "distance": 1184.5515698058452
+    },
+    {
+    "id": "oNwdNsdpUkXRQ5HaHZ_pVA",
+    "alias": "a-desi-cafe-san-francisco-3",
+    "name": "A Desi Cafe",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Trl_HzJJiDIJylPy4FS7xA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/a-desi-cafe-san-francisco-3?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 271,
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+        "latitude": 37.75387,
+        "longitude": -122.47985
+    },
+    "transactions": [
+        "delivery",
+        "pickup"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "1501 Noriega St",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94122",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "1501 Noriega St",
+            "San Francisco, CA 94122"
+        ]
+    },
+    "phone": "+14157599088",
+    "display_phone": "(415) 759-9088",
+    "distance": 3896.122645630855
+    },
+    {
+    "id": "ZvIpOP6cWfZWHLKdNAvfOg",
+    "alias": "om-indian-cuisine-san-francisco-2",
+    "name": "Om Indian Cuisine",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VmqeiT1489stnIWan7gCkw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/om-indian-cuisine-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 294,
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+        "latitude": 37.76986,
+        "longitude": -122.44972
+    },
+    "transactions": [
+        "delivery",
+        "pickup"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "1668 Haight St",
+        "address2": "",
+        "address3": null,
+        "city": "San Francisco",
+        "zip_code": "94117",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "1668 Haight St",
+            "San Francisco, CA 94117"
+        ]
+    },
+    "phone": "+14155253705",
+    "display_phone": "(415) 525-3705",
+    "distance": 1541.8930488258686
+    },
+    {
+    "id": "5Ok8ARq5ITYLoDuAIzchVQ",
+    "alias": "besharam-san-francisco",
+    "name": "Besharam",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FF5V8Rixq2oa539UdZPJmA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/besharam-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+    "review_count": 184,
+    "categories": [
+        {
+            "alias": "indpak",
+            "title": "Indian"
+        },
+        {
+            "alias": "vegetarian",
+            "title": "Vegetarian"
+        }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+        "latitude": 37.75425,
+        "longitude": -122.38938
+    },
+    "transactions": [
+        "delivery"
+    ],
+    "price": "$$",
+    "location": {
+        "address1": "1275 Minnesota St",
+        "address2": "",
+        "address3": null,
+        "city": "San Francisco",
+        "zip_code": "94107",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+            "1275 Minnesota St",
+            "San Francisco, CA 94107"
+        ]
+    },
+    "phone": "+14155807662",
+    "display_phone": "(415) 580-7662",
+    "distance": 4202.767543448056
+    }
+  ]
+}

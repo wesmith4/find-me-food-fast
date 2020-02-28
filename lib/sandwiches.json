@@ -1,0 +1,913 @@
+{
+    "businesses": [
+        {
+        "id": "IJk76B-pTta_klpAZcpQdA",
+        "alias": "lous-cafe-san-francisco",
+        "name": "Lou's Cafe",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UgwBr0vhX6fSNT_ILMeJvg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/lous-cafe-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 1492,
+        "categories": [
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            },
+            {
+                "alias": "salad",
+                "title": "Salad"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.78045,
+            "longitude": -122.473308
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "5017 Geary Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94118",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "5017 Geary Blvd",
+                "San Francisco, CA 94118"
+            ]
+        },
+        "phone": "+14153794429",
+        "display_phone": "(415) 379-4429",
+        "distance": 3901.6725691148918
+    },
+    {
+        "id": "t59A7qRhxh8nifGAqc9zlg",
+        "alias": "irving-subs-san-francisco-4",
+        "name": "Irving Subs",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1yXDZJmr62xhhOEk7MMakw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/irving-subs-san-francisco-4?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 292,
+        "categories": [
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            },
+            {
+                "alias": "gluten_free",
+                "title": "Gluten-Free"
+            },
+            {
+                "alias": "delis",
+                "title": "Delis"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.76405,
+            "longitude": -122.46933
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "1298 12th Ave",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94122",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1298 12th Ave",
+                "San Francisco, CA 94122"
+            ]
+        },
+        "phone": "+14155663155",
+        "display_phone": "(415) 566-3155",
+        "distance": 2916.302841307045
+    },
+    {
+        "id": "BcW0vRdM8N-rteR2FfV1jg",
+        "alias": "deli-board-san-francisco",
+        "name": "Deli Board",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/m5dL_mNk9rjSJ5jQu17hVw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/deli-board-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 1332,
+        "categories": [
+            {
+                "alias": "delis",
+                "title": "Delis"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.7776247966103,
+            "longitude": -122.407012712007
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1058 Folsom St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94103",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1058 Folsom St",
+                "San Francisco, CA 94103"
+            ]
+        },
+        "phone": "+14155527687",
+        "display_phone": "(415) 552-7687",
+        "distance": 3186.2946459576806
+    },
+    {
+        "id": "286uOfEOt2P2BpakntKhGQ",
+        "alias": "submarine-center-san-francisco",
+        "name": "Submarine Center",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DmJsc5io0MlV1fHs73Fy4Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/submarine-center-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 1182,
+        "categories": [
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            },
+            {
+                "alias": "pizza",
+                "title": "Pizza"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.7409,
+            "longitude": -122.46532
+        },
+        "transactions": [
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "820 Ulloa St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94127",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "820 Ulloa St",
+                "San Francisco, CA 94127"
+            ]
+        },
+        "phone": "+14155641455",
+        "display_phone": "(415) 564-1455",
+        "distance": 3376.1418993369416
+    },
+    {
+        "id": "2hGIxgprREdBieylltWaRQ",
+        "alias": "limoncello-san-francisco",
+        "name": "Limoncello",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GNMz7gMIMgmBZr4WAYUQsw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/limoncello-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 858,
+        "categories": [
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            },
+            {
+                "alias": "delis",
+                "title": "Delis"
+            },
+            {
+                "alias": "beer_and_wine",
+                "title": "Beer, Wine & Spirits"
+            }
+        ],
+        "rating": 5,
+        "coordinates": {
+            "latitude": 37.7873184067081,
+            "longitude": -122.423591369312
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1400 Sutter St",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "zip_code": "94109",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1400 Sutter St",
+                "San Francisco, CA 94109"
+            ]
+        },
+        "phone": "+14156386361",
+        "display_phone": "(415) 638-6361",
+        "distance": 3147.4667741360263
+    },
+    {
+        "id": "luREw4YhfFuYiUdA0SECaw",
+        "alias": "rossi-s-deli-san-francisco",
+        "name": "Rossi’s Deli",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rg98yvMPz9Zss-HsBEdroQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/rossi-s-deli-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 153,
+        "categories": [
+            {
+                "alias": "delis",
+                "title": "Delis"
+            },
+            {
+                "alias": "beer_and_wine",
+                "title": "Beer, Wine & Spirits"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.76205,
+            "longitude": -122.43538
+        },
+        "transactions": [
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "426 Castro St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94114",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "426 Castro St",
+                "San Francisco, CA 94114"
+            ]
+        },
+        "phone": "+14158634533",
+        "display_phone": "(415) 863-4533",
+        "distance": 156.9215945659645
+    },
+    {
+        "id": "abNi4mf0ezXa87eQwxvdWw",
+        "alias": "parkside-market-san-francisco",
+        "name": "Parkside Market",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/23KKxYaKuRIqB3xRxGXxaA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/parkside-market-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 97,
+        "categories": [
+            {
+                "alias": "grocery",
+                "title": "Grocery"
+            },
+            {
+                "alias": "delis",
+                "title": "Delis"
+            },
+            {
+                "alias": "beer_and_wine",
+                "title": "Beer, Wine & Spirits"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.7744611,
+            "longitude": -122.4429527
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "1600 Hayes St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94117",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1600 Hayes St",
+                "San Francisco, CA 94117"
+            ]
+        },
+        "phone": "+14158853483",
+        "display_phone": "(415) 885-3483",
+        "distance": 1616.9170853541452
+    },
+    {
+        "id": "o0SCABG4LGBKmIjiIB6WIQ",
+        "alias": "the-yellow-submarine-san-francisco",
+        "name": "The Yellow Submarine",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fYDz2aN76DhSPoFWq8lbeQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-yellow-submarine-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 903,
+        "categories": [
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.76402,
+            "longitude": -122.46337
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "503 Irving St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94122",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "503 Irving St",
+                "San Francisco, CA 94122"
+            ]
+        },
+        "phone": "+14156815652",
+        "display_phone": "(415) 681-5652",
+        "distance": 2384.24863992901
+    },
+    {
+        "id": "1bvordoxuK59aoPrOQpA7g",
+        "alias": "lucca-delicatessen-san-francisco",
+        "name": "Lucca Delicatessen",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IMxxnS3k-WE5LniKwY0GTA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/lucca-delicatessen-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 639,
+        "categories": [
+            {
+                "alias": "delis",
+                "title": "Delis"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            },
+            {
+                "alias": "cheese",
+                "title": "Cheese Shops"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.80065,
+            "longitude": -122.43836
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "2120 Chestnut St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94123",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "2120 Chestnut St",
+                "San Francisco, CA 94123"
+            ]
+        },
+        "phone": "+14159217873",
+        "display_phone": "(415) 921-7873",
+        "distance": 4427.844209937797
+    },
+    {
+        "id": "yC5ATYRQah7MjeTiRsGcvA",
+        "alias": "dinosaurs-san-francisco-4",
+        "name": "Dinosaurs",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7IYQ1nkmrGJgNhTDEr7M4Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/dinosaurs-san-francisco-4?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 891,
+        "categories": [
+            {
+                "alias": "vietnamese",
+                "title": "Vietnamese"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.7644154700871,
+            "longitude": -122.431834858528
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "2275 Market St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94114",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "2275 Market St",
+                "San Francisco, CA 94114"
+            ]
+        },
+        "phone": "+14155031421",
+        "display_phone": "(415) 503-1421",
+        "distance": 563.2436184175186
+    },
+    {
+        "id": "E60m-4IPYWZogI0EEVwbog",
+        "alias": "a-k-meats-san-francisco",
+        "name": "A K Meats",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9FM20J1i-tSVvtOmLJDDig/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/a-k-meats-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 253,
+        "categories": [
+            {
+                "alias": "delis",
+                "title": "Delis"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            },
+            {
+                "alias": "salad",
+                "title": "Salad"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.7822699,
+            "longitude": -122.48461
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "2346 Clement St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94121",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "2346 Clement St",
+                "San Francisco, CA 94121"
+            ]
+        },
+        "phone": "+14159336328",
+        "display_phone": "(415) 933-6328",
+        "distance": 4853.95657545599
+    },
+    {
+        "id": "3yPTDS6aWaMi4tNHZcf5rw",
+        "alias": "grubbin-san-francisco",
+        "name": "Grubbin'",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9TMMP7VB1iQ5XBzXCqAvRA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/grubbin-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 479,
+        "categories": [
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.7429221,
+            "longitude": -122.4812913
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "1404 Taraval St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94116",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1404 Taraval St",
+                "San Francisco, CA 94116"
+            ]
+        },
+        "phone": "+14156887116",
+        "display_phone": "(415) 688-7116",
+        "distance": 4419.993075238968
+    },
+    {
+        "id": "tHAMP_GolBd-Yv_gbOrXRQ",
+        "alias": "subs-san-francisco-5",
+        "name": "Subs",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2rVsDmNsoVgdUIsKbmMn_w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/subs-san-francisco-5?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 273,
+        "categories": [
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            },
+            {
+                "alias": "icecream",
+                "title": "Ice Cream & Frozen Yogurt"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.7511835780584,
+            "longitude": -122.434260074169
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1300 Castro St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94114",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1300 Castro St",
+                "San Francisco, CA 94114"
+            ]
+        },
+        "phone": "+14156484256",
+        "display_phone": "(415) 648-4256",
+        "distance": 1097.3240609957588
+    },
+    {
+        "id": "faI0QUxdkcU15scFi4gKjQ",
+        "alias": "lous-cafe-san-francisco-2",
+        "name": "Lou's Cafe",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/IaaYCecPCCAyo3FzhaWHQQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/lous-cafe-san-francisco-2?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 321,
+        "categories": [
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            },
+            {
+                "alias": "cafes",
+                "title": "Cafes"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.743,
+            "longitude": -122.48241
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "1508 Taraval St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94116",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1508 Taraval St",
+                "San Francisco, CA 94116"
+            ]
+        },
+        "phone": "+14156824083",
+        "display_phone": "(415) 682-4083",
+        "distance": 4507.6640215936795
+    },
+    {
+        "id": "HRiP-_TSWvJLy3_hXVRPtw",
+        "alias": "roxie-food-center-san-francisco",
+        "name": "Roxie Food Center",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nKQlFxVVNerlz1KaZmajjw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/roxie-food-center-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 977,
+        "categories": [
+            {
+                "alias": "grocery",
+                "title": "Grocery"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.7267302,
+            "longitude": -122.4414182
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1901 San Jose Ave",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94112",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "1901 San Jose Ave",
+                "San Francisco, CA 94112"
+            ]
+        },
+        "phone": "+14155872345",
+        "display_phone": "(415) 587-2345",
+        "distance": 3816.1835445974043
+    },
+    {
+        "id": "4vqUi0Zrhj6D7nAaMZz-OQ",
+        "alias": "b-on-the-go-san-francisco-4",
+        "name": "B on the Go",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DpjHIS_vsUfUMvLgWv1F1w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/b-on-the-go-san-francisco-4?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 183,
+        "categories": [
+            {
+                "alias": "cafes",
+                "title": "Cafes"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.7882800064693,
+            "longitude": -122.440317458614
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "2794 California St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94115",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "2794 California St",
+                "San Francisco, CA 94115"
+            ]
+        },
+        "phone": "+14155897112",
+        "display_phone": "(415) 589-7112",
+        "distance": 3063.5265689342773
+    },
+    {
+        "id": "SdGtfr9n1rgRXxNRMfqxzQ",
+        "alias": "say-cheese-san-francisco",
+        "name": "Say Cheese",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cIxwfjbYKFkoUNC3pBIGKA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/say-cheese-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 315,
+        "categories": [
+            {
+                "alias": "cheese",
+                "title": "Cheese Shops"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.76607,
+            "longitude": -122.44975
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "856 Cole St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94117",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "856 Cole St",
+                "San Francisco, CA 94117"
+            ]
+        },
+        "phone": "+14156655020",
+        "display_phone": "(415) 665-5020",
+        "distance": 1303.4199793232779
+    },
+    {
+        "id": "FmGF1B-Rpsjq1f5b56qMwg",
+        "alias": "molinari-delicatessen-san-francisco",
+        "name": "Molinari Delicatessen",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/B5vUs6hU1W6UcBQL52v2GQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/molinari-delicatessen-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 1108,
+        "categories": [
+            {
+                "alias": "delis",
+                "title": "Delis"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.79838,
+            "longitude": -122.40782
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "373 Columbus Ave",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94133",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "373 Columbus Ave",
+                "San Francisco, CA 94133"
+            ]
+        },
+        "phone": "+14154212337",
+        "display_phone": "(415) 421-2337",
+        "distance": 4866.411806986211
+    },
+    {
+        "id": "4a9TpuIMCK940OYHFx6osw",
+        "alias": "mr-pickles-sandwich-shop-san-francisco",
+        "name": "Mr. Pickle's Sandwich Shop",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/x_uBYqDO5OG0PxiADOCSmw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mr-pickles-sandwich-shop-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 294,
+        "categories": [
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            },
+            {
+                "alias": "salad",
+                "title": "Salad"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.7590026855469,
+            "longitude": -122.416534423828
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "3380 20th St",
+            "address2": "Ste 103",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94110",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "3380 20th St",
+                "Ste 103",
+                "San Francisco, CA 94110"
+            ]
+        },
+        "phone": "+14158260143",
+        "display_phone": "(415) 826-0143",
+        "distance": 1747.892536717519
+    },
+    {
+        "id": "ZXwnSN4GlEuSTNCRrjjRMg",
+        "alias": "bite-san-francisco",
+        "name": "Bite",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sqHzrKnBj7dLOCJYX34Hzg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bite-san-francisco?adjust_creative=-GjeWc7f9xmJaiATWPgpRw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-GjeWc7f9xmJaiATWPgpRw",
+        "review_count": 762,
+        "categories": [
+            {
+                "alias": "delis",
+                "title": "Delis"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            },
+            {
+                "alias": "salad",
+                "title": "Salad"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 37.7884239641,
+            "longitude": -122.415666133
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "912 Sutter St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "zip_code": "94104",
+            "country": "US",
+            "state": "CA",
+            "display_address": [
+                "912 Sutter St",
+                "San Francisco, CA 94104"
+            ]
+        },
+        "phone": "+14155632483",
+        "display_phone": "(415) 563-2483",
+        "distance": 3564.1546801190893
+    }
+  ]
+}
