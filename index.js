@@ -124,9 +124,6 @@ app.get('/results', (req, res) => {
 
   let yelpRestaurants = getYelpData('database.json');
 
-  console.log(Object.keys(yelpRestaurants));
-  console.log('end of object keys');
-  console.log(typeof yelpRestaurants);
 
   let results = yelpRestaurants.filter(restaurant => filterCheck(restaurant, preferences));
 
@@ -164,7 +161,6 @@ app.get('/results', (req, res) => {
       format[item] = preferences[item];
     }
   }
-  console.log(format);
 
   res.render('resultPage', format);
 });
