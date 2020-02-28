@@ -1,3 +1,30 @@
 html {
   font-family: Arial, Helvetica, sans-serif;
 }
+
+header {
+  background: linear-gradient(blue,red);
+}
+
+body {
+  background-color: blanchedalmond;
+  background: linear-gradient(blanchedalmond, saddlebrown);
+  color: saddlebrown;
+  background-size: contain;
+}
+
+section {
+  background-color:
+  color:
+  border:
+  border-radius:
+  display:
+}
+
+section img {
+
+}
+
+footer {
+
+}
