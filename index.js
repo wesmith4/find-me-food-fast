@@ -130,6 +130,13 @@ app.get('/results', (req, res) => {
 
   let results = yelpRestaurants.filter(restaurant => filterCheck(restaurant, preferences));
 
+  for (let restaurant of results) {
+    let cuisines = [];
+    for (let category of restaurant.categories) {
+      cuisines.push(category.title);
+    }
+    restaurant.cuisines = cuisines.join(', ');
+  }
   results = results.sort((a,b) => b.rating - a.rating);
 
 

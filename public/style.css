@@ -8,6 +8,7 @@ header {
 
 body {
   background-color: blanchedalmond;
+  text-align: center;
 }
 
 section {
@@ -18,15 +19,23 @@ section {
   display:
 }
 
+form {
+  line-height: 2rem;
+}
+div.input {
+  display: block;
+}
+
 section#restaurant-container {
   display: flex;
   flex-wrap: wrap;
   width: 100%;
   display: flex;
   -ms-flex-align: center;
-  flex-wrap: wrap;
-  align-content: space-around;
+  flex-flow: row wrap;
+  align-content: space-evenly;
   margin: auto auto;
+  justify-content: center;
 
 }
 

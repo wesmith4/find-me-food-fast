@@ -1,10 +1,15 @@
-<h1>Your Food, Found Fast!</h1>
+<header>
+  <h1>Your Food, Found Fast!</h1>
+</header>
 
 <section id="restaurant-container">
 
   {{#each results}}
   <div class="restaurant">
     <h2>{{this.name}} </h2>
+    <h4>
+      {{this.cuisines}}
+    </h4>
     <div class="details">
       <ul>
         <li>Rating: {{this.rating}} stars</li>
@@ -21,3 +26,8 @@
 {{/each}}
 
 </section>
+
+<a href="/search">Start Over</a>
+<footer>
+  Copyright © 2004–2020 Yelp Inc. Yelp, Yelp logo, Yelp burst and related marks are registered trademarks of Yelp.
+</footer>
