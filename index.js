@@ -26,35 +26,6 @@ app.engine('hbs', handlebars({
 
 app.use(express.static('public'));
 
-let fakeYelpAPI = () => {
-  let list = [
-    {
-      name: 'Fish and Farm',
-      city: 'San Francisco',
-      cuisine: 'Seafood',
-      neighborhood: 'Chinatown',
-      price: '$$$',
-      ritual: 'Yes',
-    },
-    {
-      name: 'Irving Subs',
-      city: 'San Francisco',
-      price: '$',
-      cuisine: 'Sandwiches',
-      ritual: 'Yes',
-      neighborhood: 'Chinatown',
-    },
-    {
-      name: 'International Smoke',
-      city: 'San Francisco',
-    },
-    {
-      name: 'Price\'s Chicken Coop',
-      city: 'Charlotte',
-    },
-  ];
-  return list;
-};
 
 // Reference Dictionary for Zip Codes / Neighborhoods
 let zipRef = {
@@ -153,12 +124,16 @@ app.get('/results', (req, res) => {
 
   let yelpRestaurants = getYelpData('database.json');
 
-  console.log(Object.keys(yelpRestaurants));
-  console.log('end of object keys');
-  console.log(typeof yelpRestaurants);
 
   let results = yelpRestaurants.filter(restaurant => filterCheck(restaurant, preferences));
 
+  for (let restaurant of results) {
+    let cuisines = [];
+    for (let category of restaurant.categories) {
+      cuisines.push(category.title);
+    }
+    restaurant.cuisines = cuisines.join(', ');
+  }
   results = results.sort((a,b) => b.rating - a.rating);
 
 
@@ -186,7 +161,6 @@ app.get('/results', (req, res) => {
       format[item] = preferences[item];
     }
   }
-  console.log(format);
 
   res.render('resultPage', format);
 });

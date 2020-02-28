@@ -1,20 +1,28 @@
 
 <section id="start">
   <h2>How do you want to search?</h2>
-  <form id="getParameters" method="GET" action="/search">
+  <div class="form">
+    <form id="getParameters" method="GET" action="/search">
 
-    <label for="neighborhood">Neighborhood</label>
-    <input name="filters[neighborhood]" id="neighborhood" type="checkbox"> <br> <br>
+      <div class="input">
+        <label for="neighborhood">Neighborhood</label>
+        <input name="filters[neighborhood]" id="neighborhood" type="checkbox">
+      </div>
 
-    <label for="cuisine">Cuisine</label>
-    <input name="filters[cuisine]" id="cuisine" type="checkbox"> <br><br>
+      <div class="input">
+        <label for="cuisine">Cuisine</label>
+        <input name="filters[cuisine]" id="cuisine" type="checkbox">
+      </div>
 
-    <label for="price">Price</label>
-    <input name="filters[price]" id="price" type="checkbox"> <br><br>
+      <div class="input">
+        <label for="price">Price</label>
+        <input name="filters[price]" id="price" type="checkbox">
+      </div>
 
-    <label for="ritual">Available On Ritual</label>
-    <input name="filters[ritual]" id="ritual" type="checkbox"> <br> <br>
+      <div class="input">
+        <input type="submit" value="Submit">
+      </div>
+    </form>
+  </div>
 
-    <input type="submit" value="Submit">
-  </form>
 </section>
