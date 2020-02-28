@@ -1,6 +1,6 @@
 {
-"businesses": [
-  {
+  "businesses": [
+      {
       "id": "cL0q9S4bqwpbAN9ZKh-Zeg",
       "alias": "nara-restaurant-and-sake-bar-san-francisco",
       "name": "Nara Restaurant & Sake Bar",
@@ -43,8 +43,8 @@
       "phone": "+14156386124",
       "display_phone": "(415) 638-6124",
       "distance": 1351.6641305802066
-  },
-  {
+    },
+    {
       "id": "gI7sj-7oCcLuufz0EeLQ1w",
       "alias": "fenikkusu-san-francisco",
       "name": "Fenikkusu",
@@ -80,8 +80,8 @@
       "phone": "+14159238600",
       "display_phone": "(415) 923-8600",
       "distance": 1369.5021798945072
-  },
-  {
+    },
+    {
       "id": "qvGED1YA1lt_wrbP92RVZA",
       "alias": "kibatsu-san-francisco",
       "name": "Kibatsu",
@@ -124,8 +124,8 @@
       "phone": "+14158729636",
       "display_phone": "(415) 872-9636",
       "distance": 1444.631536218594
-  },
-  {
+    },
+    {
       "id": "D1K_lFglA5fOYquqltYcdg",
       "alias": "ebisu-san-francisco",
       "name": "Ebisu",
@@ -168,8 +168,8 @@
       "phone": "+14155661770",
       "display_phone": "(415) 566-1770",
       "distance": 2664.01311750992
-  },
-  {
+    },
+    {
       "id": "r2jiJk3yivcLkWSSYELGcA",
       "alias": "tataki-san-francisco",
       "name": "Tataki",
@@ -213,8 +213,8 @@
       "phone": "+14159311182",
       "display_phone": "(415) 931-1182",
       "distance": 3024.874051233535
-  },
-  {
+    },
+    {
       "id": "cjfJOMF6hpE7bX0ESWdAEg",
       "alias": "sanraku-san-francisco-2",
       "name": "Sanraku",
@@ -262,8 +262,8 @@
       "phone": "+14157710803",
       "display_phone": "(415) 771-0803",
       "distance": 3766.419072831803
-  },
-  {
+    },
+    {
       "id": "IRD_9JUjR-06zztisuTdAA",
       "alias": "akikos-restaurant-san-francisco",
       "name": "Akiko's Restaurant",
@@ -306,8 +306,8 @@
       "phone": "+14153973218",
       "display_phone": "(415) 397-3218",
       "distance": 4324.608600941186
-  },
-  {
+    },
+    {
       "id": "9t3DWuROXOrvioDxG9R59A",
       "alias": "goemons-san-francisco-5",
       "name": "Goemon's",
@@ -351,8 +351,8 @@
       "phone": "+14157425137",
       "display_phone": "(415) 742-5137",
       "distance": 3354.660795211291
-  },
-  {
+    },
+    {
       "id": "PGOXqUQDznDNGNHbQMWQcg",
       "alias": "takara-sushi-san-francisco",
       "name": "Takara Sushi",
@@ -396,8 +396,8 @@
       "phone": "+14156267864",
       "display_phone": "(415) 626-7864",
       "distance": 47.63898035436372
-  },
-  {
+    },
+    {
       "id": "6TL8udi-vy_5rH-wikMSoA",
       "alias": "saru-sushi-bar-san-francisco",
       "name": "Saru Sushi Bar",
@@ -444,8 +444,8 @@
       "phone": "+14154004510",
       "display_phone": "(415) 400-4510",
       "distance": 1222.1441911467125
-  },
-  {
+    },
+    {
       "id": "gcwl3UwaL_ogpYlgg8qdzQ",
       "alias": "amami-sushi-bistro-san-francisco-2",
       "name": "Amami Sushi Bistro",
@@ -481,8 +481,8 @@
       "phone": "+14153339288",
       "display_phone": "(415) 333-9288",
       "distance": 3769.5409263165275
-  },
-  {
+    },
+    {
       "id": "U0GqpXzcIDlad7vQHbB63Q",
       "alias": "kusakabe-san-francisco",
       "name": "KUSAKABE",
@@ -526,8 +526,8 @@
       "phone": "+14157570155",
       "display_phone": "(415) 757-0155",
       "distance": 4865.835208903343
-  },
-  {
+    },
+    {
       "id": "6bHDla2n0mBXkeNmsM8_dw",
       "alias": "sushi-zen-san-francisco",
       "name": "Sushi Zen",
@@ -570,8 +570,8 @@
       "phone": "+14156811789",
       "display_phone": "(415) 681-1789",
       "distance": 4125.132602403547
-  },
-  {
+    },
+    {
       "id": "-zetzVfO4X0dpiiTmjdeKg",
       "alias": "eiji-san-francisco",
       "name": "Eiji",
@@ -614,8 +614,8 @@
       "phone": "+14155588149",
       "display_phone": "(415) 558-8149",
       "distance": 616.380008566382
-  },
-  {
+    },
+    {
       "id": "WtA7XYzBFhZ5LPbSihEWkw",
       "alias": "akira-japanese-restaurant-san-francisco",
       "name": "Akira Japanese Restaurant",
@@ -658,8 +658,8 @@
       "phone": "+14158008498",
       "display_phone": "(415) 800-8498",
       "distance": 3226.397870442942
-  },
-  {
+    },
+    {
       "id": "2HkCgE_-ZzJS6k5Gb4LKHw",
       "alias": "sushi-shio-san-francisco",
       "name": "Sushi Shio",
@@ -701,8 +701,8 @@
       "phone": "+14155291030",
       "display_phone": "(415) 529-1030",
       "distance": 1559.5274683248067
-  },
-  {
+    },
+    {
       "id": "mydKjdG8gJOcRQ9cZwkQpQ",
       "alias": "ryokos-san-francisco",
       "name": "Ryoko's",
@@ -745,8 +745,8 @@
       "phone": "+14157751028",
       "display_phone": "(415) 775-1028",
       "distance": 3716.0638867510324
-  },
-  {
+    },
+    {
       "id": "mVwZ0FOH4VaOMuX-DexUCw",
       "alias": "pinche-sushi-san-francisco-3",
       "name": "Pinche Sushi",
@@ -792,8 +792,8 @@
       "phone": "",
       "display_phone": "",
       "distance": 1699.3453924868604
-  },
-  {
+    },
+    {
       "id": "CGhIrUZW4MVprvgqhI222w",
       "alias": "oki-sushi-san-francisco",
       "name": "Oki Sushi",
@@ -835,8 +835,8 @@
       "phone": "+14158171094",
       "display_phone": "(415) 817-1094",
       "distance": 2150.8907523523076
-  },
-  {
+    },
+    {
       "id": "kUxtjTa2vCSWQvr00YwxQw",
       "alias": "kazan-san-francisco",
       "name": "Kazan",
@@ -883,6 +883,6 @@
       "phone": "+14152822001",
       "display_phone": "(415) 282-2001",
       "distance": 2622.6059855964513
-  }
-]
+    }
+  ]
 }
