@@ -1,0 +1,30 @@
+{{!-- <form id="filterRestaurants">
+  {{#each selectedFilters}}
+    <select name="" id="" multiple>
+      {{#each optionDict[this]}}
+        <option value={{this}}></option>
+      {{/each}}
+    </select>
+  {{/each}}
+</form> --}}
+
+<form id="filter" method="GET" action="/results">
+
+  {{#if neighborhood}}
+    {{> neighborhoods}}
+  {{/if}}
+
+  {{#if cuisine}}
+    {{> cuisines}}
+  {{/if}}
+
+  {{#if price}}
+    {{> prices}}
+  {{/if}}
+
+  {{#if ritual}}
+    {{> rituals}}
+  {{/if}}
+
+  <input type="submit" value="Submit">
+</form>

@@ -1,3 +1,78 @@
 html {
   font-family: Arial, Helvetica, sans-serif;
 }
+
+header {
+  background-color: #61e8e1;
+  padding: .05%;
+  border-radius: 10px;
+  margin: 2% auto;
+  width: 90%;
+}
+
+body {
+  background-color: #F2CD60;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+}
+
+section {
+  background-color:
+  color:
+  border:
+  border-radius:
+  display:
+}
+
+form {
+  line-height: 2rem;
+}
+div.input {
+  display: block;
+}
+
+section#restaurant-container {
+  background-color: #f25757;
+  border-radius: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  width: 90%;
+  display: flex;
+  -ms-flex-align: center;
+  flex-flow: row wrap;
+  align-content: space-evenly;
+  margin: auto auto;
+  justify-content: center;
+  padding: .05%;
+
+}
+
+div.restaurant {
+  background-color: #eaf2e3;
+  width: 25%;
+  text-align: center;
+  border: 5px solid #61e8e1;
+  border-radius: 10px;
+  margin: 1% 1%;
+  padding: 2%;
+
+}
+
+div.details {
+  line-height: 1.5rem;
+  margin: 0 auto;
+  text-align: left;
+}
+div.image {
+  width: 80%;
+  height: auto;
+  margin: 5% auto;
+  border: 5px solid black;
+  border-radius: 5px;
+}
+
+div.image img {
+  width: 100%;
+  height: auto;
+}

@@ -1,0 +1,28 @@
+
+<section id="start">
+  <h2>How do you want to search?</h2>
+  <div class="form">
+    <form id="getParameters" method="GET" action="/search">
+
+      <div class="input">
+        <label for="neighborhood">Neighborhood</label>
+        <input name="filters[neighborhood]" id="neighborhood" type="checkbox">
+      </div>
+
+      <div class="input">
+        <label for="cuisine">Cuisine</label>
+        <input name="filters[cuisine]" id="cuisine" type="checkbox">
+      </div>
+
+      <div class="input">
+        <label for="price">Price</label>
+        <input name="filters[price]" id="price" type="checkbox">
+      </div>
+
+      <div class="input">
+        <input type="submit" value="Submit">
+      </div>
+    </form>
+  </div>
+
+</section>

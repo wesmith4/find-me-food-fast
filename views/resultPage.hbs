@@ -1,0 +1,33 @@
+<header>
+  <h1>Your Food, Found Fast!</h1>
+</header>
+
+<section id="restaurant-container">
+
+  {{#each results}}
+  <div class="restaurant">
+    <h2>{{this.name}} </h2>
+    <h4>
+      {{this.cuisines}}
+    </h4>
+    <div class="details">
+      <ul>
+        <li>Rating: {{this.rating}} stars</li>
+        <li>Price: {{this.price}}</li>
+        <li>Address: {{this.location.display_address}}</li>
+        <li>Phone: {{this.display_phone}}</li>
+        <li><a target="_blank" href={{this.url}}>Find it on Yelp</a></li>
+      </ul>
+    </div>
+    <div class="image">
+        <img src={{this.image_url}} alt="">
+    </div>
+  </div>
+{{/each}}
+
+</section>
+
+<a href="/search">Start Over</a>
+<footer>
+  Copyright © 2004–2020 Yelp Inc. Yelp, Yelp logo, Yelp burst and related marks are registered trademarks of Yelp.
+</footer>
