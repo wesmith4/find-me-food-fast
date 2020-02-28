@@ -92,6 +92,10 @@ let getYelpData = (jsonFile) => {
 }
 
 
+app.get('/', (req, res) => {
+  res.render('home', {layout: 'index'});
+})
+
 app.get('/search', (req, res) => {
   // Serves the body of the page to the container
   // filters.push(req.query);
